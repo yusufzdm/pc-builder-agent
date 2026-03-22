@@ -99,6 +99,8 @@ def hybrid_search(
             "$addFields": {
                 "price": "$inventory_info.price",
                 "in_stock": "$inventory_info.in_stock",
+                "url": "$inventory_info.url",
+                "retailer": "$inventory_info.retailer"
             }
         },
         {
@@ -183,6 +185,8 @@ def _build_text_pipeline(match_filter: dict, max_results: int) -> list:
                 "capacity": "$tech_specs.capacity",
                 "has_igpu": "$tech_specs.has_igpu",
                 "max_gpu_length": "$tech_specs.max_gpu_length",
+                "url": "$url",
+                "retailer": "$retailer"
             }
         },
         {"$project": {"_id": 0, "tech_specs": 0}},

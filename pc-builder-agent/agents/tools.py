@@ -73,39 +73,39 @@ def search_motherboard(query: str, max_price: Optional[int] = None, socket: Opti
     return _format_results(results)
 
 @tool(args_schema=ComponentSearchInput)
-def search_gpu(query: str, max_price: Optional[int] = None) -> str:
+def search_gpu(query: str, max_price: Optional[int] = None, **kwargs) -> str:
     """Ekran kartı araması yapar."""
     results = safe_search(query, logic.CATEGORY_MAP["gpu"], max_price)
     return _format_results(results)
 
 @tool(args_schema=ComponentSearchInput)
-def search_memory(query: str, max_price: Optional[int] = None, memory_type: Optional[str] = None) -> str:
+def search_memory(query: str, max_price: Optional[int] = None, memory_type: Optional[str] = None, **kwargs) -> str:
     """RAM (bellek) araması yapar."""
     filters = {"memory_type": memory_type} if memory_type else None
     results = safe_search(query, logic.CATEGORY_MAP["memory"], max_price, filters=filters)
     return _format_results(results)
 
 @tool(args_schema=ComponentSearchInput)
-def search_case(query: str, max_price: Optional[int] = None) -> str:
+def search_case(query: str, max_price: Optional[int] = None, **kwargs) -> str:
     """Kasa araması yapar."""
     results = safe_search(query, logic.CATEGORY_MAP["case"], max_price)
     return _format_results(results)
 
 @tool(args_schema=ComponentSearchInput)
-def search_psu(query: str, max_price: Optional[int] = None, wattage: Optional[int] = None) -> str:
+def search_psu(query: str, max_price: Optional[int] = None, wattage: Optional[int] = None, **kwargs) -> str:
     """PSU araması yapar."""
     filters = {"wattage": {"$gte": wattage}} if wattage else None
     results = safe_search(query, logic.CATEGORY_MAP["psu"], max_price, filters=filters)
     return _format_results(results)
 
 @tool(args_schema=ComponentSearchInput)
-def search_storage(query: str, max_price: Optional[int] = None) -> str:
+def search_storage(query: str, max_price: Optional[int] = None, **kwargs) -> str:
     """SSD/HDD araması yapar."""
     results = safe_search(query, logic.CATEGORY_MAP["storage"], max_price)
     return _format_results(results)
 
 @tool(args_schema=ComponentSearchInput)
-def search_cooler(query: str, max_price: Optional[int] = None) -> str:
+def search_cooler(query: str, max_price: Optional[int] = None, **kwargs) -> str:
     """Soğutucu araması yapar."""
     results = safe_search(query, logic.CATEGORY_MAP["cooler"], max_price)
     return _format_results(results)

@@ -46,23 +46,32 @@ def run_scenario(scenario_name, messages):
     print(f"\n{'='*60}")
 
 def test_all():
-    # 1. Adım Adımcı: İşlemci -> Anakart -> RAM
-    run_scenario("ADIM_ADIMCI", [
-        "Selam, oyun için bir sistem toplayacağız. Önce bana 10.000 TL civarı en iyi işlemciyi bul.",
-        "Tamam bu işlemciyi seçelim (Ryzen 7 7800X3D). Şimdi buna uygun, bütçemi yormayacak bir anakart öner.",
-        "Harika. Peki bu anakarta DDR4 RAM takabilir miyim?"
+    # 1. AM4 Yükseltici (The Upgrader)
+    run_scenario("AM4_YUKSELTICI", [
+        "Selam, elimde B550 çipsetli AM4 soket bir anakart var. Sistemi yükseltmek istiyorum. Bu anakarta takabileceğim en güçlü oyun işlemcisi nedir?",
+        "Tamam, o işlemciyi seçelim. Peki bu işlemciye uygun sıvı soğutucu önerir misin?"
     ])
 
-    # 2. Parça Değiştirici: Mevcut sistemde GPU büyütme
-    run_scenario("PARCA_DEGISTIRICI", [
-        "30k bütçeyle bir oyun sistemi topla.",
-        "Çok güzel oldu ama ben bu sistemdeki ekran kartını RTX 4080 ile değiştirmek istiyorum. PSU hala yeterli mi?"
+    # 2. Vatan Otomatik Sistem (The Vague Requester)
+    run_scenario("OTOMATIK_SISTEM_45K", [
+        "Bana 45.000 TL bütçeyle sadece oyun oynamak için bir sistem topla. Lütfen Vatan Bilgisayar linklerini de ver.",
+        "Güzelmiş, ama anakartı ASUS marka bir modelle değiştirebilir miyiz?"
     ])
 
-    # 3. Hata Avcısı: Bilerek yanlış soket
+    # 3. Kırmızı Takım (The AMD Fanboy)
+    run_scenario("AMD_FANBOY", [
+        "Sadece AMD marka işlemci ve AMD marka ekran kartı kullanacağım bir sistem istiyorum. 25.000 TL bütçem var. Bana 2 seçenek sun."
+    ])
+
+    # 4. Güç Kaynağı Testi (The Power Checker)
+    run_scenario("GUC_KONTROLU", [
+        "Sisteme Ryzen 5 7600 ve RTX 4070 Ti Super takacağım. Elimde 500W güç kaynağı var, sence yeterli olur mu?",
+        "Anladım, o zaman bu ikiliye tam yetecek ve biraz da pay bırakacak uygun fiyatlı bir PSU öner."
+    ])
+
+    # 5. Hata Avcısı (The Fact Checker)
     run_scenario("HATA_AVCISI", [
-        "Intel i5-13400F işlemci ve ASUS B550M-A (AMD) anakart almak istiyorum. Bu ikisi birlikte çalışır mı?",
-        "Anladım, o zaman bana i5-13400F ile uyumlu en ucuz anakartı bul."
+        "Intel i5-13400F işlemciye DDR5 RAM ve B450 anakart takabilir miyim?"
     ])
 
 if __name__ == "__main__":

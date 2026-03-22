@@ -11,9 +11,17 @@ __pycache__/
 # Scraper data (Optional: keep commented if you want to push scraped data)
 # scrapers/data/
 
-# IDE files
-.vscode/
-.idea/
+# Temporary scripts and tests
+test_*.py
+check_*.py
+cleanup_*.py
+analyze_*.py
+sync_*.py
+tag_*.py
+ai_library_builder.py
+count_results.py
+normalizer.py
+
 
 # OS generated files
 .DS_Store
