@@ -57,7 +57,7 @@ Arama motoru, bu iki koleksiyonu `component_id` üzerinden dinamik olarak birle�
 
 ### Bağımlılıklar
 ```bash
-pip install langchain langchain-openai langgraph pymongo openai python-dotenv
+pip install langchain langchain-openai langgraph pymongo openai python-dotenv streamlit duckduckgo-search
 ```
 
 ### Ortam Değişkenleri (.env)
@@ -68,20 +68,8 @@ MONGO_DB_NAME=buildcores_db
 ```
 
 ### Çalıştırma
-```bash
-cd pc-builder-agent
-python main.py
-```
-
----
-
-## 📁 Proje Klasör Yapısı
-
-- `pc-builder-agent/`
-  - `agents/`: Ajan mantığı, LangGraph grafı ve araçlar (`tools.py`, `logic_engine.py`, `graph_builder.py`).
-  - `database/`: MongoDB bağlantısı ve hibrit arama algoritmaları.
-  - `main.py`: Uygulama giriş noktası.
-- `README.md`: Bu master döküman.
+- **Terminal:** `cd pc-builder-agent && python main.py`
+- **Web UI:** `streamlit run pc-builder-agent/ui.py`
 
 ---
 
@@ -94,13 +82,14 @@ python main.py
 - [x] **Legacy Desteği:** Kullanıcının elindeki eski parçaları tanıma yeteneği (`search_reference_library`).
 - [x] **LangGraph Stabilizasyonu:** Sonsuz döngü ve boş yanıt hataları giderildi.
 - [x] **Perakendeci Scraper:** Vatan Bilgisayar'dan dinamik ürün kazıma sistemi (Hybrid Scroller) yazıldı ve 1.200+ ürün çekildi.
-- [x] **Eşleştirme Servisi (Normalizer):** Perakendeci verilerini Referans Kütüphanesi ile eşleştiren LLM tabanlı Entity Resolution servisi yazıldı (479 adet kusursuz eşleşme sisteme dahil edildi).
-- [x] **Satın Alma Linkleri:** Ajanın topladığı sistemlerdeki parçalara doğrudan satın alma bağlantıları (URL) eklendi.
+- [x] **Eşleştirme Servisi (Normalizer):** Perakendeci verilerini Referans Kütüphanesi ile eşleştiren LLM tabanlı Entity Resolution servisi yazıldı.
+- [x] **Web UI (Prototip):** Streamlit tabanlı canlı sepet destekli arayüz hazırlandı.
 
-### 🟡 Sırada Bekleyenler
+### 🟡 Sırada Bekleyenler / Hatalar
+- [ ] **Eksik Veri (RTX 5000/Intel Ultra):** Mevcut 24k kütüphane eski kaldı. `tuckerandrew21/pc-part-dataset` fork'undan güncel verilerin çekilip "Transformer" scripti ile kütüphaneye yamanması gerekiyor.
+- [ ] **Normalizer Kategori Kayması:** RAM (`memory`), Kasa (`case`) ve Soğutucu (`cooler`) kategorileri veritabanındaki `ram`, `pccase` ve `cpucooler` isimleriyle eşleşmediği için Normalizer bu parçaları henüz tam işleyemedi.
+- [ ] **Iterative Upgrade Hatası:** `optimize_build` fonksiyonu bazen bütçeyi öncelikli parçalardan (RAM/Kasa) çalıp ekran kartına aktarıyor, bu da eksik parçalı sistemlere yol açıyor. Hard constraint eklenmeli.
 - [ ] **FPS Tahmini:** Seçilen donanımın popüler oyunlardaki performansını hesaplayan tool.
-- [ ] **Web UI:** Streamlit veya React tabanlı bir kullanıcı arayüzü entegrasyonu.
-- [ ] **Çoklu Perakendeci:** İtopya, Sinerji gibi diğer satıcıların sisteme dahil edilmesi.
 
 ---
 
