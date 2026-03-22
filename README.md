@@ -93,12 +93,14 @@ python main.py
 - [x] **Gelişmiş Filtreleme:** Soket, RAM tipi ve Watt bazlı teknik aramalar aktif.
 - [x] **Legacy Desteği:** Kullanıcının elindeki eski parçaları tanıma yeteneği (`search_reference_library`).
 - [x] **LangGraph Stabilizasyonu:** Sonsuz döngü ve boş yanıt hataları giderildi.
+- [x] **Perakendeci Scraper:** Vatan Bilgisayar'dan dinamik ürün kazıma sistemi (Hybrid Scroller) yazıldı ve 1.200+ ürün çekildi.
+- [x] **Eşleştirme Servisi (Normalizer):** Perakendeci verilerini Referans Kütüphanesi ile eşleştiren LLM tabanlı Entity Resolution servisi yazıldı (479 adet kusursuz eşleşme sisteme dahil edildi).
+- [x] **Satın Alma Linkleri:** Ajanın topladığı sistemlerdeki parçalara doğrudan satın alma bağlantıları (URL) eklendi.
 
 ### 🟡 Sırada Bekleyenler
-- [ ] **Perakendeci Scraper:** Vatan, İtopya vb. sitelerden canlı veri kazıma sistemi.
-- [ ] **Eşleştirme Servisi (Normalizer):** Perakendeciden gelen kirli datayı referans kütüphanesiyle eşleştiren Entity Resolution servisi.
 - [ ] **FPS Tahmini:** Seçilen donanımın popüler oyunlardaki performansını hesaplayan tool.
-- [ ] **Web UI:** Streamlit veya React tabanlı bir arayüz.
+- [ ] **Web UI:** Streamlit veya React tabanlı bir kullanıcı arayüzü entegrasyonu.
+- [ ] **Çoklu Perakendeci:** İtopya, Sinerji gibi diğer satıcıların sisteme dahil edilmesi.
 
 ---
 
