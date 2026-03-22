@@ -1,0 +1,20 @@
+# Environment variables (API keys, DB URIs)
+.env
+*.env
+.env.*
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Scraper data (Optional: keep commented if you want to push scraped data)
+# scrapers/data/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2576 @@
+[
+    {
+        "name": "MSI SPATIUM M580 PCI 5.0 NVME M.2 2TB FROZR SSD (14.600MB Okuma/ 12.700MB Yazma)",
+        "price": 26119,
+        "url": "https://www.vatanbilgisayar.com/msi-spatium-m580-pci-5-0-nvme-m-2-2tb-frozr-ssd-14-600mb-okuma-12-700mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:46:19"
+    },
+    {
+        "name": "Micron 1920GB 7500 Serisi NVMe M.2 SSD (Okuma 6800MB/ Yazma 2700MB)",
+        "price": 31079,
+        "url": "https://www.vatanbilgisayar.com/micron-1920gb-7500-serisi-nvme-m-2-ssd-okuma-6800mb-yazma-2700mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "2700 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "1.92 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:46:24"
+    },
+    {
+        "name": "MSI 240GB SPATIUM S270 SATA 3.0 SSD (500MB Okuma / 400MB Yazma)",
+        "price": 2739,
+        "url": "https://www.vatanbilgisayar.com/msi-240gb-spatium-s270-sata-3-0-2-5-ssd-500mb-okuma-400mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "400 MB/s",
+            "Bağlantı Arayüzü": "Sata 6Gb/s",
+            "Kapasite": "240 GB",
+            "SSD Tipi": "2.5\" SATA III",
+            "Rastgele Okuma Hızı Maks.": "50 K IOPS",
+            "Rastgele Yazma Hızı Maks.": "80 K IOPS",
+            "Yükseklik": "100 mm",
+            "Genişlik": "70 mm",
+            "Çerçeve Boyutu": "2.5\""
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:46:28"
+    },
+    {
+        "name": "Samsung 1TB 990 PRO NVMe2.0  SSD (Okuma Hızı 7450MB / Yazma Hızı 6900MB)",
+        "price": 12039,
+        "url": "https://www.vatanbilgisayar.com/samsung-1tb-990-pro-nvme2-0-ssd-okuma-hizi-7450mb-yazma-hizi-6900mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6900 MB/sn",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2",
+            "Rastgele Okuma Hızı Maks.": "22.000 IOPS",
+            "Rastgele Yazma Hızı Maks.": "80.000 IOPS",
+            "Okuma Hızı MB/s": "7450 MB/s",
+            "Veri Yazma Garantisi": "600 TBW",
+            "Depolama Teknolojisi": "NAND",
+            "Yükseklik": "22 mm",
+            "Derinlik": "2.3 mm",
+            "Ağırlık": "9.0 g",
+            "Genişlik": "80 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:46:32"
+    },
+    {
+        "name": "GOODRAM 500GB PX600 GEN4 NVMe M.2 SSD (Okuma Hızı 4700MB / Yazma Hızı 1700MB)",
+        "price": 10099,
+        "url": "https://www.vatanbilgisayar.com/goodram-500gb-px600-gen4-nvme-m-2-ssd-okuma-hizi-4700mb-yazma-hizi-1700mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Var",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "1700 MB/s",
+            "Kapasite": "500 GB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:46:36"
+    },
+    {
+        "name": "Micron 15360GB 7500 Serisi NVMe M.2 SSD (Okuma 7000MB/ Yazma 5900MB)",
+        "price": 197439,
+        "url": "https://www.vatanbilgisayar.com/micron-15360gb-7500-serisi-nvme-m-2-ssd-okuma-7000mb-yazma-5900mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "5900 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "15.36 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:46:40"
+    },
+    {
+        "name": "Crucial 1TB 1050MB/1050MB X9 PRO MAC Serisi MacBook Portable SSD",
+        "price": 8469,
+        "url": "https://www.vatanbilgisayar.com/crucial-1tb-1050mb-1050mb-x9-pro-mac-serisi-macbook-portable-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "1050 MB/s",
+            "Bağlantı Arayüzü": "Belirtilmemiş",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:46:44"
+    },
+    {
+        "name": "Samsung 1TB 990 EVO PLUS NVMe M.2 SSD (Okuma Hızı 7150MB / Yazma Hızı 6300MB)",
+        "price": 9179,
+        "url": "https://www.vatanbilgisayar.com/samsung-1tb-990-evo-plus-nvme-m-2-ssd-okuma-hizi-7150mb-yazma-hizi-6300mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6300 MB/sn",
+            "Bağlantı Arayüzü": "PCI Express 5.0 x4 NVMe",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:46:48"
+    },
+    {
+        "name": "Crucial 1TB P310 Serisi NVMe M.2 SSD (Okuma 7100MB /  Yazma 6000MB)",
+        "price": 11669,
+        "url": "https://www.vatanbilgisayar.com/crucial-1tb-p310-serisi-nvme-m-2-ssd-okuma-7100mb-yazma-6000mb-150206.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6000 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:46:52"
+    },
+    {
+        "name": "GOODRAM 512GB PX600 LITE GEN4 NVMe M.2 SSD (Okuma Hızı 3400MB / Yazma Hızı 2000MB)",
+        "price": 5999,
+        "url": "https://www.vatanbilgisayar.com/goodram-512gb-px600-lite-gen4-nvme-m-2-ssd-okuma-hizi-3400mb-yazma-hizi-2000mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Mavi",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "2000 MB/s",
+            "Kapasite": "512 GB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:46:56"
+    },
+    {
+        "name": "Crucial 2TB 1 X9 Serisi Portable 1050MB/1050MB SSD ( Solid State Disk)",
+        "price": 18579,
+        "url": "https://www.vatanbilgisayar.com/crucial-2tb-1-x9-serisi-portable-050mb-1050mb-ssd-solid-state-disk.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "SIYAH",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "1050 MB/s",
+            "Bağlantı Arayüzü": "USB 3.2",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:47:01"
+    },
+    {
+        "name": "GOODRAM 1TB CX400 SATA 3.0 SSD (550MB Okuma / 500MB Yazma)",
+        "price": 17549,
+        "url": "https://www.vatanbilgisayar.com/goodram-1tb-cx400-sata-3-0-ssd-550mb-okuma-500mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Soğutucu": "Yok",
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "500 MB/s",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "2.5\" SATA III"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:47:05"
+    },
+    {
+        "name": "Crucial 500GB T500 Serisi 3D NAND NVMe M.2 SSD (Okuma 7200MB / Yazma 5700MB)",
+        "price": 9079,
+        "url": "https://www.vatanbilgisayar.com/crucial-500gb-t500-serisi-3d-nand-nvme-m-2-ssd-okuma-7200mb-yazma-5700mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "5700 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "500 GB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:47:09"
+    },
+    {
+        "name": "Crucial 2TB P310 Serisi NVMe M.2 SSD ( Okuma 7100MB / Yazma 6000MB )",
+        "price": 19809,
+        "url": "https://www.vatanbilgisayar.com/crucial-2tb-p310-serisi-nvme-m-2-ssd-okuma-7100mb-yazma-6000mb-149956.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6000 MB/s",
+            "Kapasite": "2TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:47:12"
+    },
+    {
+        "name": "KIOXIA Exceria Plus G3 2TB NVMe Gen4 M.2 SSD (R:5000MB/s W:3900 MB/s)",
+        "price": 15929,
+        "url": "https://www.vatanbilgisayar.com/kioxia-exceria-plus-g3-2tb-nvme-gen4-m-2-sata-ssd-r-5000mb-s-w-3900-mb-s.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "3900 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:47:17"
+    },
+    {
+        "name": "KIOXIA Exceria Heatsink 2TB NVMe M.2 SSD (6200MB Okuma / 4900MB Yazma)",
+        "price": 12069,
+        "url": "https://www.vatanbilgisayar.com/kioxia-2tb-exceria-heatsink-serisi-nvme-m-2-ssd-6200mb-okuma-4900mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "4900MB/s",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:47:22"
+    },
+    {
+        "name": "MSI SPATIUM M450 V1 PCIe 4.0 NVMe M.2 500GB SSD (3000MB Okuma / 2000MB Yazma)",
+        "price": 8219,
+        "url": "https://www.vatanbilgisayar.com/msi-spatium-m450-v1-pcie-4-0-nvme-m-2-500gb-ssd-3000mb-okuma-2000mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "2000 MB/s",
+            "Kapasite": "500 GB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:47:27"
+    },
+    {
+        "name": "Samsung 4TB T9 USB 3.2 Siyah (Okuma 2000MB/Yazma 2000MB) Taşınabilir SSD",
+        "price": 31969,
+        "url": "https://www.vatanbilgisayar.com/samsung-4tb-t9-usb-3-2-gen-2x2-2-gbps-siyah-tasinabilir.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "2000 MB/s",
+            "Bağlantı Arayüzü": "USB 3.2",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:47:31"
+    },
+    {
+        "name": "Crucial 1TB X9 PRO Serisi Portable 1050MB/1050MB SSD (Solid State Disk)",
+        "price": 7569,
+        "url": "https://www.vatanbilgisayar.com/crucial-1tb-x9-pro-serisi-portable-1050mb-1050mb-ssd-solid-state-disk.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Gri",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "1050 MB/s",
+            "Bağlantı Arayüzü": "USB 3.2",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:47:35"
+    },
+    {
+        "name": "Crucial 2TB X10 PRO Serisi Portable SSD (Solid State Disk)",
+        "price": 16599,
+        "url": "https://www.vatanbilgisayar.com/crucial-2tb-x10-pro-serisi-portable-solid-state-disk-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "SIYAH",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "2000 MB/s",
+            "Bağlantı Arayüzü": "USB 3.2",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:47:40"
+    },
+    {
+        "name": "Crucial 2TB 1050MB/1050MB X9 PRO Serisi Portable (Solid State Disk) SSD",
+        "price": 12589,
+        "url": "https://www.vatanbilgisayar.com/crucial-2tb-1050mb-1050mb-x9-pro-serisi-portable-solid-state-disk-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "1050 MB/s",
+            "Bağlantı Arayüzü": "USB Type-C",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:47:44"
+    },
+    {
+        "name": "Crucial 4TB T700 Serisi 3D NAND 12400MB/11800MB PCIe Gen5 NVMe M.2 SSD",
+        "price": 50749,
+        "url": "https://www.vatanbilgisayar.com/crucial-4tb-t700-serisi-3d-nand-12400mb-11800mb-pcie-gen5-nvme-m-2-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "11800 MB/sn",
+            "Bağlantı Arayüzü": "PCIe Gen 5.0 x4, NVMe 2.0",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:47:48"
+    },
+    {
+        "name": "KIOXIA Exceria Heatsink 1TB NVMe M.2 SSD (6200MB Okuma / 4900MB Yazma)",
+        "price": 7449,
+        "url": "https://www.vatanbilgisayar.com/kioxia-1tb-exceria-heatsink-serisi-nvme-m-2-ssd-6200mb-okuma-4900mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "4900MB/s",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:47:52"
+    },
+    {
+        "name": "Crucial 500GB BX500 Serisi 3D NAND Sata 3.0 SSD (Okuma 550MB / Yazma 500MB)",
+        "price": 3969,
+        "url": "https://www.vatanbilgisayar.com/crucial-500gb-bx500-3d-nand-sata-2-5-inch-550mb-500mb-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "500 MB/s",
+            "Bağlantı Arayüzü": "Sata 6Gb/s",
+            "Kapasite": "500 GB",
+            "SSD Tipi": "2.5\" SATA III",
+            "Sıralı Okuma Hızı Maks.": "550 MB/s",
+            "Sıralı Yazma Hızı Maks.": "500 MB/s",
+            "Veri Yazma Garantisi": "120 TBW",
+            "Depolama Teknolojisi": "NAND",
+            "Genişlik": "70 mm",
+            "Yükseklik": "100 mm",
+            "Çerçeve Boyutu": "2.5\"",
+            "Derinlik": "7 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:47:56"
+    },
+    {
+        "name": "Samsung 4TB T7 Gen2 Shield USB 3.2 Gümüş (Okuma 1050MB / Yazma 1000MB) Harici SSD",
+        "price": 27389,
+        "url": "https://www.vatanbilgisayar.com/samsung-4tb-t7-gen2-shield-usb-3-2-siyah-okuma-1050mb-yazma-1000mb-harici-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Gümüş",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "1000 MB/s",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:48:01"
+    },
+    {
+        "name": "Samsung 2TB 990 EVO PLUS NVMe M.2 SSD (Okuma Hızı 7250MB / Yazma Hızı 6300MB)",
+        "price": 15229,
+        "url": "https://www.vatanbilgisayar.com/samsung-2tb-990-evo-plus-nvme-m-2-ssd-okuma-hizi-7250mb-yazma-hizi-6300mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6300 MB/sn",
+            "Bağlantı Arayüzü": "PCI Express 5.0 x4 NVMe",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:48:05"
+    },
+    {
+        "name": "Crucial 500GB P2 Serisi 3D NAND NVMe M.2 SSD (2300MB Okuma / 930MB Yazma)",
+        "price": 3749,
+        "url": "https://www.vatanbilgisayar.com/crucial-500gb-p2-serisi-nvme-m-2-ssd-2300mb-okuma-930mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Standart bağlantı": "PCI Express 3.0",
+            "MTBF aralığı": "1500000 Saat",
+            "ECC": "Var",
+            "Okuma hızı, ortam": "2300 MB/s",
+            "Yazma hızı, ortam": "940 MB/s",
+            "S.M.A.R.T. destek": "Var",
+            "Bileşen": "Laptop",
+            "SSD form faktörü": "M.2",
+            "TBW sınıfı": "150",
+            "NVMe": "Var",
+            "Çalışma ısısı aralığı": "0 - 70 °C",
+            "Çalışma voltajı": "3,3 V",
+            "Akım": "1,7 A"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:48:09"
+    },
+    {
+        "name": "Crucial 4TB BX500 Serisi 3D NAND Sata 3.0 SSD (Okuma 540MB / Yazma 500MB)",
+        "price": 33949,
+        "url": "https://www.vatanbilgisayar.com/crucial-4tb-bx500-serisi-3d-nand-sata-3-0-ssd-okuma-540mb-yazma-500mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "500 MB/s",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "2.5\" SATA III"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:48:13"
+    },
+    {
+        "name": "Crucial 1TB X9 Serisi Portable 1050MB/1050MB SSD (Solid State Disk)",
+        "price": 9019,
+        "url": "https://www.vatanbilgisayar.com/crucial-1tb-x9-serisi-portable-1050mb-1050mb-ssd-solid-state-disk.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "1050 MB/s",
+            "Bağlantı Arayüzü": "USB 3.2",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:48:17"
+    },
+    {
+        "name": "GOODRAM 1TB PX600 LITE GEN4 NVMe M.2 SSD (Okuma Hızı 3600MB / Yazma Hızı 2700MB)",
+        "price": 20199,
+        "url": "https://www.vatanbilgisayar.com/goodram-1tb-px600-lite-gen4-nvme-m-2-ssd-okuma-hizi-3600mb-yazma-hizi-2700mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Mavi",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "2700 MB/s",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:48:21"
+    },
+    {
+        "name": "Micron 7680GB 7500 Serisi NVMe M.2 SSD (Okuma 7000MB/ Yazma 5900MB)",
+        "price": 97189,
+        "url": "https://www.vatanbilgisayar.com/micron-7680gb-7500-serisi-nvme-m-2-ssd-okuma-7000mb-yazma-5900mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "5900 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "7.68 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:48:25"
+    },
+    {
+        "name": "MSI 2TB SPATIUM M560 PCIE 5.0 NVME M.2 SSD (10300MB Okuma / 8700MB Yazma)",
+        "price": 38809,
+        "url": "https://www.vatanbilgisayar.com/msi-2tb-spatium-m560-pcie-5-0-nvme-m-2-ssd-10300mb-okuma-8700mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "10300 MB/s",
+            "Bağlantı Arayüzü": "PCIe Gen5x4, NVMe 2.0",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2",
+            "Veri Yazma Garantisi": "5",
+            "Depolama Teknolojisi": "NAND"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:48:29"
+    },
+    {
+        "name": "Crucial 1TB T500 Serisi 3D NAND 7300MB/6800MB PCIe Gen4 Soğutuculu NVMe M.2 SSD",
+        "price": 12489,
+        "url": "https://www.vatanbilgisayar.com/crucial-1tb-t500-serisi-3d-nand-7300mb-6800mb-pcie-gen4-sogutuculu-nvme-m-2-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Soğutucu": "Var",
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6800 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:48:34"
+    },
+    {
+        "name": "GOODRAM 1TB IRDM PRO GEN4 NVMe M.2 NANO SSD (Okuma Hızı 7300MB / Yazma Hızı 6000MB)",
+        "price": 17549,
+        "url": "https://www.vatanbilgisayar.com/goodram-1tb-irdm-pro-gen4-nvme-m-2-nano-ssd-okuma-hizi-7300mb-yazma-hizi-6000mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Soğutucu": "Yok",
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6000 MB/s",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:48:43"
+    },
+    {
+        "name": "Crucial 4TB PRO MAC X9 Serisi Harici SSD (Okuma 1050MB /Yazma 1050MB)",
+        "price": 23929,
+        "url": "https://www.vatanbilgisayar.com/crucial-4tb-pro-mac-x9-serisi-harici-ssd-okuma-1050mb-yazma-1050mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "SIYAH",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "Belirtilmemiş",
+            "Bağlantı Arayüzü": "USB Type-C",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:48:48"
+    },
+    {
+        "name": "Crucial 4TB P3 PLUS Serisi NVMe M.2 SSD (Okuma 4800MB/ Yazma 4100MB)",
+        "price": 27569,
+        "url": "https://www.vatanbilgisayar.com/crucial-4tb-p3-plus-3d-nand-4800mb-4100mb-nvme-pcie-gen4-m-2-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "4100 MB/sn",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "NVMe M.2",
+            "Sıralı Okuma Hızı Maks.": "4800 MB/s",
+            "Sıralı Yazma Hızı Maks.": "4100 MB/s",
+            "Dayanıklılık": "800 TBW",
+            "Veri Yazma Garantisi": "800 TBW"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:48:52"
+    },
+    {
+        "name": "MSI SPATIUM M461 2TB NVME M.2 SSD  (Okuma 5000MB / 4200MB)",
+        "price": 28949,
+        "url": "https://www.vatanbilgisayar.com/msi-spatium-m461-2tb-nvme-m-2-ssd-okuma-5000mb-4200mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "4200 MB/sn",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:48:57"
+    },
+    {
+        "name": "Crucial 1TB T700 Serisi 3D NAND 11700MB/9500MB PCIe Gen5 Soğutuculu NVMe M.2 SSD",
+        "price": 20399,
+        "url": "https://www.vatanbilgisayar.com/crucial-1tb-t700-serisi-3d-nand-11700mb-9500mb-pcie-gen5-sogutuculu-nvme-m-2-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "9500 MB/s",
+            "Bağlantı Arayüzü": "PCIe Gen 5.0 x4, NVMe 2.0",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:49:01"
+    },
+    {
+        "name": "Verbatim 1TB Vi7000G Internal PCIe NVMe M.2 GEN4 SSD (7400MB Okuma/5500MB Yazma)",
+        "price": 8659,
+        "url": "https://www.vatanbilgisayar.com/verbatim-vi7000g-internal-pcie-nvme-m-2-ssd-1tb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "5500 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2",
+            "Sıralı Okuma Hızı Maks.": "7400MB",
+            "Sıralı Yazma Hızı Maks.": "5500 MB/s",
+            "Dayanıklılık": "500 TBW",
+            "Genişlik": "80 mm",
+            "Yükseklik": "22 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:49:06"
+    },
+    {
+        "name": "Crucial 240GB BX500 Serisi 3D NAND Sata 3.0 SSD (Okuma 540MB / Yazma 500MB)",
+        "price": 3859,
+        "url": "https://www.vatanbilgisayar.com/crucial-240gb-bx500-serisi-sata-6-0gb-s-3d-nand-ssd-okuma-540mb-yazma-500mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Ürünle gelen yazılım": "Acronis True Image",
+            "Paket ağırlığı": "55 gr",
+            "Ambalaj derinliği": "127 mm",
+            "Ambalaj yüksekliği": "95,3 mm",
+            "Ambalaj genişliği": "127 mm",
+            "Standart bağlantı": "Serial ATA III",
+            "MTBF aralığı": "1500000 Saat",
+            "Hafıza tipi": "3D NAND",
+            "Yazma hızı, ortam": "500 MB/s",
+            "Veri aktarım hızı": "6 Gbit/s",
+            "ECC": "Var",
+            "Okuma hızı, ortam": "540 MB/s",
+            "S.M.A.R.T. destek": "Var",
+            "Bileşen": "PC",
+            "SSD form faktörü": "2.5\"",
+            "TRIM desteği": "Var",
+            "Çalışma ısısı aralığı": "0 - 70 °C",
+            "Yükseklik": "7 mm",
+            "Genişlik": "100,3 mm",
+            "Derinlik": "63,5 mm",
+            "Ürün rengi": "Siyah",
+            "Enerji tüketimi (okuma)": "3 W",
+            "Enerji tüketimi (yazma)": "3 W"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:49:11"
+    },
+    {
+        "name": "Micron 512GB 3400 Serisi NVMe M.2 SSD (Okuma 6600MB / Yazma 3600MB)",
+        "price": 7749,
+        "url": "https://www.vatanbilgisayar.com/micron-512gb-3400-serisi-nvme-m-2-ssd-okuma-6600mb-yazma-3600mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "3600 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "512 GB",
+            "SSD Tipi": "NVMe M.2",
+            "Sıralı Okuma Hızı Maks.": "6600 MB/s",
+            "Sıralı Yazma Hızı Maks.": "3600 MB/s",
+            "Rastgele Okuma Hızı Maks.": "360.000 IOPS",
+            "Rastgele Yazma Hızı Maks.": "700.000 IOPS",
+            "Dayanıklılık": "300 TBW"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:49:15"
+    },
+    {
+        "name": "Samsung 1TB T7 Gen2 Resurrected USB 3.2 Silver (Okuma 1050MB / Yazma 1000MB) Harici SSD",
+        "price": 9689,
+        "url": "https://www.vatanbilgisayar.com/samsung-1tb-t7-gen2-shield-usb-3-2-gumus-okuma-1050mb-yazma-1000mb-harici-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Gümüş",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "1000 MB/s",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:49:20"
+    },
+    {
+        "name": "Samsung 1TB T7 Serisi Gri USB 3.2 (Okuma 1050MB / Yazma 1000MB) Harici SSD",
+        "price": 9689,
+        "url": "https://www.vatanbilgisayar.com/samsung-1tb-portable-t7-usb-3-2-okuma-1050mb-yazma-1000mb-gri-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Okuma hızı, ortam": "1050 MB/s",
+            "Yazma hızı, ortam": "1000 MB/s",
+            "NVMe": "Var",
+            "Ağırlık": "58 gr",
+            "Yükseklik": "57 mm",
+            "Genişlik": "85 mm",
+            "Derinlik": "8 mm",
+            "Ürün rengi": "Gri",
+            "Donanım şifreleme": "Var",
+            "Muhafaza malzemesi": "Alüminyum",
+            "Şifre koruması": "Var",
+            "Wi-Fi": "Yok",
+            "USB versiyonu": "3.2 Gen 2 (3.1 Gen 2)",
+            "USB konnektörü": "USB C Tipi",
+            "Ambalaj tipi": "Kutu"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:49:24"
+    },
+    {
+        "name": "MSI SPATIUM M570 PRO PCIE 5.0 NVME M.2 2TB FROZR SSD (12.400MB Okuma/11.800MB Yazma)",
+        "price": 23839,
+        "url": "https://www.vatanbilgisayar.com/msi-spatium-m570-pro-pcie-5-0-nvme-m-2-2tb-frozr-ssd-12-400mb-okuma-11-800mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "11800 MB/sn",
+            "Bağlantı Arayüzü": "PCIe Gen5x4, NVMe 2.0",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:49:28"
+    },
+    {
+        "name": "Crucial T705 Serisi 2TB 3D NAND NVMe M.2 SSD (Okuma 14500MB/Yazma 12700MB)",
+        "price": 25439,
+        "url": "https://www.vatanbilgisayar.com/crucial-t705-serisi-2tb-3d-nand-nvme-m-2-ssd-okuma-14500mb-yazma-12700mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "12700 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 5.0 x4 NVMe",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:49:32"
+    },
+    {
+        "name": "Micron 1920GB 5400 PRO SATA 2.5\" (7mm) Non-SED Cloud (Server) SSD",
+        "price": 31089,
+        "url": "https://www.vatanbilgisayar.com/micron-1920gb-5400-pro-sata-2-5-7mm-non-sed-cloud-server-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "Belirtilmemiş",
+            "Bağlantı Arayüzü": "Sata",
+            "Kapasite": "1.92 TB",
+            "SSD Tipi": "2.5\" SATA III",
+            "Sıralı Okuma Hızı Maks.": "540 MB/s",
+            "Sıralı Yazma Hızı Maks.": "520 MB/s",
+            "Rastgele Okuma Hızı Maks.": "95 K IOPS",
+            "Rastgele Yazma Hızı Maks.": "33 K IOPS",
+            "Veri Yazma Garantisi": "Belirtilmemiş",
+            "Depolama Teknolojisi": "NAND",
+            "Genişlik": "70 mm",
+            "Yükseklik": "100 mm",
+            "Çerçeve Boyutu": "2.5\"",
+            "Derinlik": "7 mm",
+            "Ağırlık": "70 g"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:49:37"
+    },
+    {
+        "name": "GOODRAM 1TB PX600 GEN4 NVMe M.2 BULK SSD (Okuma Hızı 5000MB / Yazma Hızı 3200MB)",
+        "price": 9659,
+        "url": "https://www.vatanbilgisayar.com/goodram-1tb-px600-gen4-nvme-m-2-bulk-ssd-okuma-hizi-5000mb-yazma-hizi-3200mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "3200 MB/s",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:49:42"
+    },
+    {
+        "name": "Samsung 8TB 9100 PRO GEN5 NVMe  M.2 SSD (Okuma Hızı 14800MB / Yazma Hızı 13400MB)",
+        "price": 68689,
+        "url": "https://www.vatanbilgisayar.com/samsung-8tb-9100-pro-gen5-nvme-m-2-ssd-okuma-hizi-14800mb-yazma-hizi-13400mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Soğutucu": "Yok",
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "13400 MB/s",
+            "Kapasite": "8 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:49:48"
+    },
+    {
+        "name": "Micron 3840GB 5400 PRO SATA 2.5'' (7mm) Non-SED Enterprise SSD",
+        "price": 55379,
+        "url": "https://www.vatanbilgisayar.com/micron-3840gb-5400-pro-sata-2-5-7mm-non-sed-enterprise-ssd-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Soğutucu": "Yok",
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "Belirtilmemiş",
+            "Kapasite": "3.84 TB",
+            "SSD Tipi": "2.5\" SATA III"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:49:53"
+    },
+    {
+        "name": "MSI 480GB SPATIUM S270 SATA 3.0 SSD (500MB Okuma / 450MB Yazma)",
+        "price": 5559,
+        "url": "https://www.vatanbilgisayar.com/msi-480gb-spatium-s270-sata-3-0-ssd-500mb-okuma-450mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "450 MB/s",
+            "Bağlantı Arayüzü": "Sata 6Gb/s",
+            "Kapasite": "480 GB",
+            "SSD Tipi": "2.5\" SATA III"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:49:56"
+    },
+    {
+        "name": "Crucial X10 PRO 4TB PCIe Gen5 Harici SSD (Okuma 2000MB/2000Yazma )",
+        "price": 27789,
+        "url": "https://www.vatanbilgisayar.com/crucial-x10-pro-4tb-pcie-gen5-nvme-m-2-ssd-okuma-2100mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Soğutucu": "Yok",
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "2000 MB/s",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:49:59"
+    },
+    {
+        "name": "Samsung 1TB T7 Serisi Mavi USB 3.2 (Okuma 1050MB / Yazma 1000MB) Harici SSD",
+        "price": 12339,
+        "url": "https://www.vatanbilgisayar.com/samsung-1tb-portable-t7-touch-usb-3-2-okuma-1050mb-yazma-1000mb-mavi-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yükseklik": "57 mm",
+            "Ağırlık": "58 gr",
+            "Genişlik": "85 mm",
+            "Derinlik": "8 mm",
+            "Ürün rengi": "Mavi",
+            "Muhafaza malzemesi": "Alüminyum",
+            "Donanım şifreleme": "Var",
+            "Şifre koruması": "Var",
+            "Okuma hızı, ortam": "1050 MB/s",
+            "Yazma hızı, ortam": "1000 MB/s",
+            "NVMe": "Var",
+            "Ambalaj tipi": "Kutu",
+            "USB versiyonu": "3.2 Gen 2 (3.1 Gen 2)",
+            "USB konnektörü": "USB C Tipi",
+            "Wi-Fi": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:50:03"
+    },
+    {
+        "name": "Crucial 2TB T700 Serisi 3D NAND 12400MB/11800MB PCIe Gen5 NVMe M.2 SSD",
+        "price": 25439,
+        "url": "https://www.vatanbilgisayar.com/crucial-2tb-t700-serisi-3d-nand-12400mb-11800mb-pcie-gen5-nvme-m.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "11800 MB/sn",
+            "Bağlantı Arayüzü": "PCIe Gen 5.0 x4, NVMe 2.0",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:50:06"
+    },
+    {
+        "name": "MSI SPATIUM M560 PCIE 5.0 NVME M.2 1TB (10200MB Okuma / 8400MB Yazma)",
+        "price": 22469,
+        "url": "https://www.vatanbilgisayar.com/msi-spatium-m560-pcie-5-0-nvme-m-2-1tb-10200mb-okuma-8400mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "8400 MB/s",
+            "Bağlantı Arayüzü": "PCIe Gen4 x4, NVMe 1.4",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:50:10"
+    },
+    {
+        "name": "GOODRAM 240GB CL100 SATA 3.0 SSD (520MB Okuma / 400MB Yazma)",
+        "price": 2869,
+        "url": "https://www.vatanbilgisayar.com/goodram-240gb-cl100-sata-3-0-ssd-520mb-okuma-400mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "400 MB/s",
+            "Kapasite": "240 GB",
+            "SSD Tipi": "2.5\" SATA III"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:50:14"
+    },
+    {
+        "name": "KIOXIA Exceria Pro 1TB NVMe M.2 SSD (7300MB/s Okuma / 6400MB/s Yazma)",
+        "price": 8759,
+        "url": "https://www.vatanbilgisayar.com/kioxia-1tb-exceria-pro-serisi-nvme-m-2-ssd-7300mb-s-okuma-6400mb-s-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Standart bağlantı": "PCI Express 4.0",
+            "MTBF aralığı": "1500000 Saat",
+            "Hafıza tipi": "BiCS FLASH TLC",
+            "Okuma hızı, ortam": "7300 MB/s",
+            "Yazma hızı, ortam": "6400 MB/s",
+            "Bileşen": "Laptop",
+            "TBW sınıfı": "400",
+            "SSD form faktörü": "M.2",
+            "Rastgele yaz (4KB)": "1100000 IOPS",
+            "NVMe": "Var",
+            "Rastgele oku (4KB)": "1000000 IOPS",
+            "NVMe sürümü": "44652",
+            "Ağırlık": "7,6 g",
+            "Yükseklik": "2,23 mm",
+            "Genişlik": "22,1 mm",
+            "Derinlik": "80,2 mm",
+            "Çalışma ısısı aralığı": "0 - 85 °C",
+            "Çalışabilir şok düzeyi": "1000 G",
+            "Çalışabilir titreşim": "20 g",
+            "Çalışma voltajı": "3,3 V",
+            "Güç tüketimi (maksimum)": "8,9 W"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:50:17"
+    },
+    {
+        "name": "Samsung 2TB T7 Serisi USB 3.2 (Okuma 1050MB / Yazma 1000MB) Gri Harici SSD",
+        "price": 14419,
+        "url": "https://www.vatanbilgisayar.com/samsung-2tb-portable-t7-usb-3-2-okuma-1050mb-yazma-1000mb-gri-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yükseklik": "57 mm",
+            "Ağırlık": "58 gr",
+            "Genişlik": "85 mm",
+            "Derinlik": "8 mm",
+            "Yazma hızı, ortam": "1000 MB/s",
+            "Okuma hızı, ortam": "1050 MB/s",
+            "NVMe": "Var",
+            "Ürün rengi": "Gri",
+            "Donanım şifreleme": "Var",
+            "Muhafaza malzemesi": "Alüminyum",
+            "Şifre koruması": "Var",
+            "Ambalaj tipi": "Kutu",
+            "Wi-Fi": "Yok",
+            "USB konnektörü": "USB C Tipi",
+            "USB versiyonu": "3.2 Gen 2 (3.1 Gen 2)"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:50:21"
+    },
+    {
+        "name": "Samsung 1TB T9 USB 3.2 Siyah (Okuma 2000MB/Yazma 2000MB) Taşınabilir SSD",
+        "price": 10669,
+        "url": "https://www.vatanbilgisayar.com/samsung-1tb-t9-usb-3-2-gen-2x2-2-gbps-siyah-tasinabilir-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "2000 MB/s",
+            "Bağlantı Arayüzü": "USB 3.2",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:50:24"
+    },
+    {
+        "name": "GOODRAM 1TB GEN5 NVMe M.2 SSD (Okuma Hızı 10200MB / Yazma Hızı 8400MB)",
+        "price": 14999,
+        "url": "https://www.vatanbilgisayar.com/goodram-1tb-gen5-nvme-m-2-ssd-okuma-hizi-10200mb-yazma-hizi-8400mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Mavi",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "8400 MB/s",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:50:27"
+    },
+    {
+        "name": "Crucial 1TB P310 Serisi 2230 NVMe M.2 SSD (Okuma 7100MB / Yazma 6000MB)",
+        "price": 12909,
+        "url": "https://www.vatanbilgisayar.com/crucial-1tb-p310-serisi-nvme-m-2-ssd-okuma-7100mb-yazma-6000mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Bağlantı Arayüzü": "PCI Express 5.0 x4 NVMe",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:50:30"
+    },
+    {
+        "name": "Crucial 4TB P310 Serisi NVMe M.2 SSD ( Okuma 7100MB / Yazma 6000MB )",
+        "price": 32159,
+        "url": "https://www.vatanbilgisayar.com/crucial-4tb-p310-serisi-nvme-m-2-ssd-okuma-7100mb-yazma-6000mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6000 MB/s",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:50:34"
+    },
+    {
+        "name": "Crucial T710 Serisi 4TB 3D NAND NVMe M.2 SSD (Okuma 14500MB/Yazma 13800MB)",
+        "price": 56089,
+        "url": "https://www.vatanbilgisayar.com/crucial-t710-serisi-2tb-3d-nand-nvme-m-2-ssd-okuma-14500mb-yazma-13800mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "13800 MB/s",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:50:37"
+    },
+    {
+        "name": "Crucial 4TB 1050MB/1050MB X9 Serisi Portable (Solid State Disk) SSD",
+        "price": 18529,
+        "url": "https://www.vatanbilgisayar.com/crucial-4tb-1050mb-1050mb-x9-serisi-portable-solid-state-disk-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "SIYAH",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "1050 MB/s",
+            "Bağlantı Arayüzü": "USB 3.2",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:50:40"
+    },
+    {
+        "name": "Samsung 2TB T7 Gen2 Resurrected USB 3.2 Silver (Okuma 1050MB / Yazma 1000MB) Harici SSD",
+        "price": 14419,
+        "url": "https://www.vatanbilgisayar.com/samsung-2tb-t7-gen2-shield-usb-3-2-gumus-okuma-1050mb-yazma-1000mb-harici-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Gümüş",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "1000 MB/s",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:50:44"
+    },
+    {
+        "name": "KIOXIA Exceria Plus 1TB USB 3.2 (Okuma 1050MB / Yazma 1000MB) HARİCİ SSD",
+        "price": 9179,
+        "url": "https://www.vatanbilgisayar.com/kioxia-exceria-plus-1tb-usb-3-2-okuma-1050mb-yazma-1000mb-harici-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "1000 MB/s",
+            "Bağlantı Arayüzü": "USB 3.2",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:50:47"
+    },
+    {
+        "name": "Crucial T700 4TB PCIe Gen5 NVMe M.2 SSD (Okuma 12400MB/Yazma 11800MB)",
+        "price": 49469,
+        "url": "https://www.vatanbilgisayar.com/crucial-t700-4tb-pcie-gen5-nvme-m-2-ssd-okuma-12400mb-yazma-11800mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "11800 MB/sn",
+            "Bağlantı Arayüzü": "PCIe Gen 5.0 x4, NVMe 2.0",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:50:50"
+    },
+    {
+        "name": "GOODRAM 256GB CX400 SATA 3.0 SSD (550MB Okuma / 480MB Yazma)",
+        "price": 2229,
+        "url": "https://www.vatanbilgisayar.com/goodram-256gb-cx400-sata-3-0-ssd-550mb-okuma-480mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "480 MB/s",
+            "Kapasite": "256 GB",
+            "SSD Tipi": "2.5\" SATA III"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:50:53"
+    },
+    {
+        "name": "Crucial 2TB P310 Serisi NVMe M.2 SSD (Okuma 7100MB / Yazma 6100MB)",
+        "price": 20639,
+        "url": "https://www.vatanbilgisayar.com/crucial-2tb-p310-serisi-nvme-m-2-ssd-okuma-7100mb-yazma-6000mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Bağlantı Arayüzü": "PCI Express 5.0 x4 NVMe",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:50:56"
+    },
+    {
+        "name": "Verbatim 1TB Metal Mini 3.2 USB Harici SSD",
+        "price": 9809,
+        "url": "https://www.vatanbilgisayar.com/verbatim-1tb-metal-mini-3-2-usb-harici-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "1750 MB/s",
+            "Bağlantı Arayüzü": "USB 3.2",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:50:59"
+    },
+    {
+        "name": "Crucial 1TB T500 Serisi 3D NAND NVMe M.2 SSD (Okuma 7300MB / Yazma 6800MB)",
+        "price": 12239,
+        "url": "https://www.vatanbilgisayar.com/crucial-1tb-t500-serisi-3d-nand-nvme-m-2-ssd-okuma-7300mb-yazma-6800mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6800 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:02"
+    },
+    {
+        "name": "Samsung 2TB 9100 PRO GEN5 NVMe M.2 SSD (Okuma Hızı 14700MB / Yazma Hızı 13400MB)",
+        "price": 21849,
+        "url": "https://www.vatanbilgisayar.com/samsung-2tb-9100-pro-gen5-nvme-m-2-ssd-okuma-hizi-14700mb-yazma-hizi-13400mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "13400 MB/s",
+            "Bağlantı Arayüzü": "PCIe Gen5x4, NVMe 2.0",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:06"
+    },
+    {
+        "name": "Crucial 4TB T500 Serisi 3D NAND NVMe M.2 SSD (Okuma 7000MB /  Yazma 6900MB)",
+        "price": 32349,
+        "url": "https://www.vatanbilgisayar.com/crucial-4tb-t500-serisi-3d-nand-nvme-m-2-ssd-okuma-7000mb-yazma-6900mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6900 MB/sn",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:09"
+    },
+    {
+        "name": "Samsung 4TB 990 EVO PLUS NVMe M.2 SSD (Okuma Hızı 7250MB / Yazma Hızı 6300MB)",
+        "price": 30039,
+        "url": "https://www.vatanbilgisayar.com/samsung-4tb-990-evo-plus-nvme-m-2-ssd-okuma-hizi-7250mb-yazma-hizi-6300mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6300 MB/sn",
+            "Bağlantı Arayüzü": "PCI Express 5.0 x4 NVMe",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:12"
+    },
+    {
+        "name": "Crucial T705 Serisi 1TB 3D NAND Soğutuculu NVMe M.2 SSD (Okuma 13600MB/Yazma 10200MB)",
+        "price": 18539,
+        "url": "https://www.vatanbilgisayar.com/crucial-t705-serisi-1tb-3d-nand-sogutuculu-nvme-m-2-ssd-okuma-13600mb-yazma-10200mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "10200 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 5.0 x4 NVMe",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:16"
+    },
+    {
+        "name": "Crucial 4TB X9 PRO Serisi Harici SSD (Okuma 1050MB /Yazma 1050MB)",
+        "price": 21609,
+        "url": "https://www.vatanbilgisayar.com/crucial-4tb-1050mb-1050mb-x9-pro-serisi-portable-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Gri",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "1050 MB/s",
+            "Bağlantı Arayüzü": "USB 3.2",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:19"
+    },
+    {
+        "name": "GOODRAM 1TB HX200 ROSE GOLD USB 3.2 (Okuma 1500MB / Yazma 1400MB) Harici SSD",
+        "price": 11169,
+        "url": "https://www.vatanbilgisayar.com/goodram-1tb-hx200-rose-gold-usb-3-2-okuma-1600mb-yazma-1500mb-harici-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Rose Gold",
+            "Soğutucu": "Var",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "1400 MB/s",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:23"
+    },
+    {
+        "name": "GOODRAM 2TB PX700 GEN4 NVMe M.2 SSD (Okuma Hızı 7400MB / Yazma Hızı 6500MB)",
+        "price": 37209,
+        "url": "https://www.vatanbilgisayar.com/goodram-2tb-px700-gen4-nvme-m-2-ssd-okuma-hizi-7400mb-yazma-hizi-6500mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6500 MB/sn",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:26"
+    },
+    {
+        "name": "Crucial 1TB BX500 Serisi 3D NAND Sata 3.0 SSD (Okuma 540MB / Yazma 500MB)",
+        "price": 6779,
+        "url": "https://www.vatanbilgisayar.com/crucial-1tb-bx500-serisi-sata-6-0gb-s-3d-nand-ssd-okuma-540mb-yazma-500mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Standart bağlantı": "SATA",
+            "Okuma hızı, ortam": "540 MB/s",
+            "Hafıza tipi": "3D NAND",
+            "Yazma hızı, ortam": "500 MB/s",
+            "Veri aktarım hızı": "6 Gbit/s",
+            "Bileşen": "Bilgisayar / laptop",
+            "SSD form faktörü": "2.5\"",
+            "Derinlik": "7 mm",
+            "Hızlı başlangıç rehberi": "Var"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:29"
+    },
+    {
+        "name": "GOODRAM 2TB IRDM PRO GEN5 NVMe M.2 SSD (Okuma Hızı 12000MB / Yazma Hızı 11000MB)",
+        "price": 31899,
+        "url": "https://www.vatanbilgisayar.com/goodram-2tb-irdm-pro-gen5-nvme-m-2-ssd-okuma-hizi-12000mb-yazma-hizi-11000mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "11000 MB/s",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:32"
+    },
+    {
+        "name": "KIOXIA Exceria Plus 2TB USB 3.2 (Okuma 1050MB / Yazma 1000MB) HARİCİ SSD",
+        "price": 17419,
+        "url": "https://www.vatanbilgisayar.com/kioxia-exceria-plus-2tb-usb-3-2-okuma-1050mb-yazma-1000mb-harici-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "1000 MB/s",
+            "Bağlantı Arayüzü": "USB 3.2",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:36"
+    },
+    {
+        "name": "Crucial 2TB T500 Serisi 3D NAND 7400MB/7000MB PCIe Gen4 NVMe M.2 SSD",
+        "price": 18869,
+        "url": "https://www.vatanbilgisayar.com/crucial-2tb-t500-serisi-3d-nand-7400mb-7000mb-pcie-gen5-nvme-m-2-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Var",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "7000MB/sn",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:38"
+    },
+    {
+        "name": "GOODRAM 512GB CX400 SATA 3.0 SSD (550MB Okuma / 490MB Yazma)",
+        "price": 10369,
+        "url": "https://www.vatanbilgisayar.com/goodram-512gb-cx400-sata-3-0-ssd-550mb-okuma-490mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "490 MB/s",
+            "Kapasite": "512 GB",
+            "SSD Tipi": "2.5\" SATA III"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:41"
+    },
+    {
+        "name": "LEXAR NQ780 1TB HIGH SPEED Gen4 NVMe M.2 SSD (Okuma Hızı 6500MB / Yazma Hızı 2500MB)",
+        "price": 10739,
+        "url": "https://www.vatanbilgisayar.com/lexar-nq780-1tb-high-speed-gen4-nvme-m-2-ssd-okuma-hizi-6500mb-yazma-hizi-2500mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "2500 MB/s",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:45"
+    },
+    {
+        "name": "Crucial 2TB BX500 Serisi 3D NAND Sata 3.0 SSD (Okuma 540MB / Yazma 500MB)",
+        "price": 18369,
+        "url": "https://www.vatanbilgisayar.com/crucial-2tb-bx500-serisi-sata-6-0gb-s-3d-nand-ssd-okuma-540mb-yazma-500mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Standart bağlantı": "Serial ATA III",
+            "Hafıza tipi": "3D NAND",
+            "Veri aktarım hızı": "6 Gbit/s",
+            "Okuma hızı, ortam": "540 MB/s",
+            "Bileşen": "Laptop",
+            "Yazma hızı, ortam": "500 MB/s",
+            "SSD form faktörü": "2.5\"",
+            "Yükseklik": "7 mm",
+            "Hızlı başlangıç rehberi": "Var"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:48"
+    },
+    {
+        "name": "Crucial 2TB T700 Serisi 3DNAND 12400MB/11800MB PCIe Gen5 Soğutuculu NVMe M.2 SSD",
+        "price": 23729,
+        "url": "https://www.vatanbilgisayar.com/crucial-2tb-t700-serisi-3dnand-12400mb-11800mb-pcie-gen5-sogutuculu-nvme-m-2-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "11800 MB/sn",
+            "Bağlantı Arayüzü": "PCIe Gen 5.0 x4, NVMe 2.0",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:50"
+    },
+    {
+        "name": "GOODRAM 500GB GEN5 NVMe M.2 SSD (Okuma Hızı 9300MB / Yazma Hızı 6000MB)",
+        "price": 10529,
+        "url": "https://www.vatanbilgisayar.com/goodram-500gb-gen5-nvme-m-2-ssd-okuma-hizi-9300mb-yazma-hizi-6000mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Mavi",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6000 MB/s",
+            "Kapasite": "500 GB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:54"
+    },
+    {
+        "name": "Samsung 2TB T7 Serisi Mavi USB 3.2 (Okuma 1050MB / Yazma 1000MB) Harici SSD",
+        "price": 14419,
+        "url": "https://www.vatanbilgisayar.com/samsung-2tb-portable-t7-touch-usb-3-2-okuma-1050mb-yazma-1000mb-mavi-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yükseklik": "57 mm",
+            "Ağırlık": "58 gr",
+            "Genişlik": "85 mm",
+            "Derinlik": "8 mm",
+            "Ürün rengi": "Mavi",
+            "Muhafaza malzemesi": "Alüminyum",
+            "Donanım şifreleme": "Var",
+            "Şifre koruması": "Var",
+            "Okuma hızı, ortam": "1050 MB/s",
+            "Yazma hızı, ortam": "1000 MB/s",
+            "NVMe": "Var",
+            "Ambalaj tipi": "Kutu",
+            "USB versiyonu": "3.2 Gen 2 (3.1 Gen 2)",
+            "USB konnektörü": "USB C Tipi",
+            "Wi-Fi": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:56"
+    },
+    {
+        "name": "MSI BULK SPATIUM M390 NVME M.2 500GB (3300MB Okuma / 2300MB Yazma) KUTUSUZ",
+        "price": 4809,
+        "url": "https://www.vatanbilgisayar.com/msi-bulk-spatium-m390-nvme-m-2-500gb-3300mb-okuma-2300mb-yazma-kutusuz.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "2300 MB/s",
+            "Bağlantı Arayüzü": "PCIe Gen3x4, NVMe 1.4",
+            "Kapasite": "500 GB",
+            "SSD Tipi": "NVMe M.2",
+            "Sıralı Okuma Hızı Maks.": "3300MB",
+            "Sıralı Yazma Hızı Maks.": "2300MB",
+            "Rastgele Okuma Hızı Maks.": "300K",
+            "Rastgele Yazma Hızı Maks.": "550K",
+            "Dayanıklılık": "200",
+            "Depolama Teknolojisi": "NAND",
+            "Genişlik": "80 mm",
+            "Yükseklik": "22 mm",
+            "Derinlik": "2 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:51:59"
+    },
+    {
+        "name": "Crucial 480GB E100 Serisi NVMe M.2 SSD (Okuma 4700MB / Yazma 2500MB)",
+        "price": 4919,
+        "url": "https://www.vatanbilgisayar.com/crucial-480gb-e100-serisi-nvme-m-2-ssd-okuma-4700mb-yazma-2500mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "2500 MB/s",
+            "Kapasite": "480 GB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:52:02"
+    },
+    {
+        "name": "MSI SPATIUM M470 PRO PCIE 4.0 NVME M.2 1TB (6000MB Okuma / 4500MB Yazma)",
+        "price": 19699,
+        "url": "https://www.vatanbilgisayar.com/msi-spatium-m470-pro-pcie-4-0-nvme-m-2-1tb-6000mb-okuma-4500mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "4500 MB/s",
+            "Bağlantı Arayüzü": "PCIe Gen4 x4, NVMe 1.4",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:52:06"
+    },
+    {
+        "name": "MSI SPATIUM M461 PCIE 4.0 NVME M.2 4TB (5000MB Okuma / 4200MB Yazma)",
+        "price": 25929,
+        "url": "https://www.vatanbilgisayar.com/msi-spatium-m461-pcie-4-0-nvme-m-2-4tb-5000mb-okuma-4200mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "4200 MB/sn",
+            "Bağlantı Arayüzü": "PCIe Gen4 x4, NVMe 1.4",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:52:09"
+    },
+    {
+        "name": "Samsung 1TB 870 EVO SATA 3.0 (Okuma 560MB / Yazma 530MB)",
+        "price": 8669,
+        "url": "https://www.vatanbilgisayar.com/samsung-1tb-870-evo-sata-3-0-okuma-560mb-yazma-530mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Ağırlık": "45 gr",
+            "Yükseklik": "69,8 mm",
+            "Derinlik": "6,8 mm",
+            "Genişlik": "100 mm",
+            "Standart bağlantı": "Serial ATA III",
+            "MTBF aralığı": "1500000 Saat",
+            "Hafıza tipi": "V-NAND MLC",
+            "Okuma hızı, ortam": "560 MB/s",
+            "Yazma hızı, ortam": "530 MB/s",
+            "Veri aktarım hızı": "6 Gbit/s",
+            "S.M.A.R.T. destek": "Var",
+            "TRIM desteği": "Var",
+            "Rastgele yaz (4KB)": "88000 IOPS",
+            "Rastgele oku (4KB)": "98000 IOPS",
+            "SSD form faktörü": "2.5\"",
+            "Bileşen": "PC",
+            "TBW sınıfı": "2400",
+            "Çalışma ısısı aralığı": "0 - 70 °C",
+            "Çalışabilir şok düzeyi": "1500 G",
+            "Çalışma voltajı": "5 V",
+            "Power consumption (idle)": "0,03 W",
+            "Güç tüketimi (maksimum)": "3,5 W",
+            "Güç tüketimi (ortalama)": "2,2 W"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:52:13"
+    },
+    {
+        "name": "Micron 2TB  2400 Serisi NVMe M.2 SSD (Okuma 4500MB / Yazma 4000MB)",
+        "price": 14169,
+        "url": "https://www.vatanbilgisayar.com/micron-2tb-2400-serisi-nvme-m-2-ssd-okuma-4500mb-yazma-4000mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "4000 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 3.0 x4 NVMe",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:52:16"
+    },
+    {
+        "name": "Micron 480GB 5300 PRO SATA 2.5\" (7mm) Non-SED Cloud (Server) SSD",
+        "price": 11089,
+        "url": "https://www.vatanbilgisayar.com/micron-480gb-5300-pro-serisi-sata-3-0-ssd-540mb-okuma-410mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Hafıza tipi": "3D TLC",
+            "Standart bağlantı": "Serial ATA III",
+            "Veri aktarım hızı": "6 Gbit/s",
+            "Okuma hızı, ortam": "540 MB/s",
+            "MTBF aralığı": "3000000 Saat",
+            "Rastgele yaz (4KB)": "36 IOPS",
+            "Yazma hızı, ortam": "410 MB/s",
+            "Bileşen": "Bilgisayar / laptop",
+            "Rastgele oku (4KB)": "85 IOPS",
+            "SSD form faktörü": "2.5\"",
+            "Ağırlık": "70 gr",
+            "Genişlik": "69,8 mm",
+            "Derinlik": "100,5 mm",
+            "Yükseklik": "7 mm",
+            "Çalışma ısısı aralığı": "0 - 70 °C"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:52:19"
+    },
+    {
+        "name": "Crucial 2TB P310 Serisi NVMe M.2 SSD (Okuma 7100MB / Yazma 6000MB)",
+        "price": 17709,
+        "url": "https://www.vatanbilgisayar.com/crucial-2tb-p310-serisi-nvme-m-2-ssd-okuma-7100mb-yazma-6000mb-148745.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6000 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:52:22"
+    },
+    {
+        "name": "Micron 1TB 2400 Serisi NVMe M.2 SSD (Okuma 4500MB / Yazma 3600MB)",
+        "price": 8319,
+        "url": "https://www.vatanbilgisayar.com/micron-1tb-2400-serisi-nvme-m-2-ssd-okuma-6000mb-yazma-6500mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "3600 MB/s",
+            "Bağlantı Arayüzü": "PCIe Gen4 x4, NVMe 1.4",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:52:26"
+    },
+    {
+        "name": "MSI 1TB SPATIUM M450 PCIe 4.0 NVMe M.2 SSD (3400MB Okuma / 2400MB Yazma)",
+        "price": 12229,
+        "url": "https://www.vatanbilgisayar.com/msi-1tb-spatium-m450-pcie-4-0-nvme-m-2-ssd-3400mb-okuma-2400mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "2400 MB/s",
+            "Bağlantı Arayüzü": "PCIe Gen4 x4, NVMe 1.4",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2",
+            "Veri Yazma Garantisi": "5",
+            "Depolama Teknolojisi": "NAND"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:52:29"
+    },
+    {
+        "name": "GOODRAM 2TB PX600 GEN4 NVMe M.2 SSD (Okuma Hızı 5000MB / Yazma Hızı 4200MB)",
+        "price": 30839,
+        "url": "https://www.vatanbilgisayar.com/goodram-2tb-px600-gen4-nvme-m-2-ssd-okuma-hizi-5000mb-yazma-hizi-4200mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "4200 MB/sn",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:52:33"
+    },
+    {
+        "name": "Crucial 4TB T500 Serisi 3D NAND NVMe M.2 SSD (Okuma 7000MB / Yazma 6900MB)",
+        "price": 30869,
+        "url": "https://www.vatanbilgisayar.com/crucial-1tb-t500-serisi-3d-nand-nvme-m-2-ssd-okuma-7000mb-yazma-6900mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6900 MB/sn",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:52:36"
+    },
+    {
+        "name": "Verbatim 512GB Metal Mini 3.2 USB Harici SSD",
+        "price": 7419,
+        "url": "https://www.vatanbilgisayar.com/verbatim-512gb-metal-mini-3-2-usb-harici-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "1750 MB/s",
+            "Bağlantı Arayüzü": "USB 3.2",
+            "Kapasite": "512 GB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:52:39"
+    },
+    {
+        "name": "KIOXIA Exceria Plus G3 1TB NVMe Gen4 M.2 SSD (R:5000MB/s W:3900 MB/s)",
+        "price": 7339,
+        "url": "https://www.vatanbilgisayar.com/kioxia-exceria-plus-g3-1tb-nvme-gen4-m-2-sata-ssd-r-5000mb-s-w-3900-mb-s.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "3900 MB/s",
+            "Bağlantı Arayüzü": "PCIe Gen4 x4, NVMe 1.4",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2",
+            "Veri Yazma Garantisi": "600 TBW",
+            "Depolama Teknolojisi": "NAND"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:52:43"
+    },
+    {
+        "name": "GOODRAM 256GB PX600 LITE GEN4 NVMe M.2 SSD (Okuma Hızı 3400MB / Yazma Hızı 2000MB)",
+        "price": 6649,
+        "url": "https://www.vatanbilgisayar.com/goodram-256gb-px600-lite-gen4-nvme-m-2-ssd-okuma-hizi-3400mb-yazma-hizi-2000mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Mavi",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "2000 MB/s",
+            "Kapasite": "256 GB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:52:46"
+    },
+    {
+        "name": "MSI SPATIUM M461 1TB NVME M.2 SSD  (Okuma 5000MB / 3200MB)",
+        "price": 17309,
+        "url": "https://www.vatanbilgisayar.com/msi-spatium-m461-1tb-nvme-m-2-ssd-okuma-5000mb-4200mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:52:50"
+    },
+    {
+        "name": "Micron 3840GB 7500 Serisi NVMe M.2 SSD (Okuma 6800MB/ Yazma 5300MB)",
+        "price": 51989,
+        "url": "https://www.vatanbilgisayar.com/micron-3840gb-7500-serisi-nvme-m-2-ssd-okuma-6800mb-yazma-5300mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "5300 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "3.84 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:52:54"
+    },
+    {
+        "name": "Crucial 1TB T700 Serisi 3D NAND 11700MB/9500MB PCIe Gen5 NVMe M.2 SSD",
+        "price": 17299,
+        "url": "https://www.vatanbilgisayar.com/crucial-ct1000t700ssd3-1tb-t700-3d-nand-11700mb-9500mb-pcie-gen5-nvme-m-2-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "9500 MB/s",
+            "Bağlantı Arayüzü": "PCIe Gen 5.0 x4, NVMe 2.0",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:52:58"
+    },
+    {
+        "name": "Samsung 2TB 990 PRO w/Heatsink M.2 (Okuma Hızı 7450MB / Yazma Hızı 6900MB) SSD",
+        "price": 17479,
+        "url": "https://www.vatanbilgisayar.com/samsung-2tb-990-pro-w-heatsink-m-2-okuma-hizi-7450mb-yazma-hizi-6900mb-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6900 MB/sn",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2",
+            "Sıralı Okuma Hızı Maks.": "7.450 MB/saniyeye kadar",
+            "Sıralı Yazma Hızı Maks.": "6.900 MB/saniyeye kadar",
+            "Rastgele Okuma Hızı Maks.": "1.200.000 IOPS’ye kadar",
+            "Rastgele Yazma Hızı Maks.": "1.550.000 IOPS’ye kadar",
+            "Depoloma Belleği": "Samsung V-NAND 3-bit MLC",
+            "Çalışma ısısı aralığı": "0 - 70 ?"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:53:02"
+    },
+    {
+        "name": "MSI SPATIUM M480 PRO PCIe 4.0 NVMe M.2 4TB SSD (7400MB Okuma / 7000MB Yazma)",
+        "price": 31059,
+        "url": "https://www.vatanbilgisayar.com/msi-spatium-m480-pro-pcie-4-0-nvme-m-2-4tb-ssd-7400mb-okuma-7000mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "7000MB/sn",
+            "Bağlantı Arayüzü": "PCI Express 5.0 x4 NVMe",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:53:05"
+    },
+    {
+        "name": "Crucial T705 Serisi 4TB 3D NAND NVMe M.2 SSD (Okuma 14100MB/Yazma 12600MB)",
+        "price": 50749,
+        "url": "https://www.vatanbilgisayar.com/crucial-t705-serisi-4tb-3d-nand-nvme-m-2-ssd-okuma-14100mb-yazma-12600mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Yazma Hızı MB/s": "12600 MB/s",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:53:09"
+    },
+    {
+        "name": "Micron 960GB 5400 PRO Serisi Sata 3.0 SSD (540MB Okuma / 520MB Yazma)",
+        "price": 18949,
+        "url": "https://www.vatanbilgisayar.com/micron-5400-pro-960gb-sata-2-5-7mm-non-sed-server-ram.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "520 MB/s",
+            "Bağlantı Arayüzü": "Sata 6Gb/s",
+            "Kapasite": "960 GB",
+            "SSD Tipi": "2.5\" SATA III",
+            "Sıralı Okuma Hızı Maks.": "540 MB/s",
+            "Sıralı Yazma Hızı Maks.": "520 MB/s",
+            "Rastgele Okuma Hızı Maks.": "95.000 IOPS",
+            "Rastgele Yazma Hızı Maks.": "33.000 IOPS",
+            "Veri Yazma Garantisi": "Belirtilmemiş",
+            "Depolama Teknolojisi": "NAND",
+            "Çerçeve Boyutu": "2.5\"",
+            "Derinlik": "7 mm",
+            "Yükseklik": "100 mm",
+            "Ağırlık": "70 g",
+            "Genişlik": "70 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:53:12"
+    },
+    {
+        "name": "KIOXIA 960GB Exceria Serisi Sata 3.0 SSD (555MB Okuma / 540MB Yazma)",
+        "price": 4299,
+        "url": "https://www.vatanbilgisayar.com/kioxia-980gb-exceria-serisi-sata-3-0-ssd-555mb-okuma-540mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "MTBF aralığı": "1500000 Saat",
+            "Standart bağlantı": "Serial ATA III",
+            "Hafıza tipi": "TLC",
+            "Veri aktarım hızı": "6 Gbit/s",
+            "Okuma hızı, ortam": "555 MB/s",
+            "Yazma hızı, ortam": "540 MB/s",
+            "Rastgele oku (4KB)": "81000 IOPS",
+            "TRIM desteği": "Var",
+            "Rastgele yaz (4KB)": "88000 IOPS",
+            "Bileşen": "Laptop",
+            "SSD form faktörü": "2.5\"",
+            "TBW sınıfı": "240",
+            "Ağırlık": "45,7 gr",
+            "Yükseklik": "7,2 mm",
+            "Genişlik": "70,1 mm",
+            "Derinlik": "100,5 mm",
+            "Çalışma ısısı aralığı": "0 - 65 °C",
+            "Çalışabilir şok düzeyi": "1500 G",
+            "Çalışabilir titreşim": "20 g",
+            "Power consumption (idle)": "1,7 W",
+            "Çalışma voltajı": "5 V",
+            "Güç tüketimi (ortalama)": "1,7 W"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:53:15"
+    },
+    {
+        "name": "GOODRAM 512GB PX500 GEN3 NVMe M.2 SSD (Okuma Hızı 3200MB / Yazma Hızı 2400MB)",
+        "price": 5589,
+        "url": "https://www.vatanbilgisayar.com/goodram-512gb-px500-gen3-nvme-m-2-ssd-okuma-hizi-3200mb-yazma-hizi-2400mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Soğutucu": "Yok",
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "2400MB/s",
+            "Kapasite": "512 GB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:53:19"
+    },
+    {
+        "name": "KIOXIA 480GB Exceria Serisi Sata 3.0 SSD (555MB Okuma / 540MB Yazma)",
+        "price": 5359,
+        "url": "https://www.vatanbilgisayar.com/kioxia-480gb-exceria-serisi-sata-3-0-ssd-555mb-okuma-540mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "MTBF aralığı": "1500000 Saat",
+            "Standart bağlantı": "Serial ATA III",
+            "Hafıza tipi": "TLC 3D NAND",
+            "Veri aktarım hızı": "6 Gbit/s",
+            "Okuma hızı, ortam": "555 MB/s",
+            "Yazma hızı, ortam": "540 MB/s",
+            "Rastgele yaz (4KB)": "88000 IOPS",
+            "TRIM desteği": "Var",
+            "Rastgele oku (4KB)": "82000 IOPS",
+            "Bileşen": "Laptop",
+            "TBW sınıfı": "120",
+            "SSD form faktörü": "2.5\"",
+            "NVMe": "Yok",
+            "Ağırlık": "45,6 gr",
+            "Yükseklik": "7,2 mm",
+            "Genişlik": "70,1 mm",
+            "Derinlik": "100,5 mm",
+            "Çalışma ısısı aralığı": "0 - 65 °C",
+            "Çalışabilir şok düzeyi": "1500 G",
+            "Çalışabilir titreşim": "20 g",
+            "Çalışma voltajı": "5 V",
+            "Power consumption (idle)": "1,6 W",
+            "Güç tüketimi (ortalama)": "1,6 W"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:53:23"
+    },
+    {
+        "name": "GOODRAM 1TB PX500 GEN3 NVMe M.2 SSD (Okuma Hızı 3300MB / Yazma Hızı 2700MB)",
+        "price": 18869,
+        "url": "https://www.vatanbilgisayar.com/goodram-1tb-px500-gen3-nvme-m-2-ssd-okuma-hizi-3300mb-yazma-hizi-2700mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "2700 MB/s",
+            "Kapasite": "1 TB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:53:26"
+    },
+    {
+        "name": "GOODRAM 1TB IRDM PRO GEN5 NVMe M.2 SSD (Okuma Hızı 11500MB / Yazma Hızı 9000MB)",
+        "price": 20099,
+        "url": "https://www.vatanbilgisayar.com/goodram-1tb-irdm-pro-gen5-nvme-m-2-ssd-okuma-hizi-11500mb-yazma-hizi-9000mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Soğutucu": "Yok",
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "9000 MB/s",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:53:29"
+    },
+    {
+        "name": "Crucial T705 Serisi 2TB 3D NAND Soğutuculu NVMe M.2 SSD (Okuma 14500MB/Yazma 12700MB)",
+        "price": 25999,
+        "url": "https://www.vatanbilgisayar.com/crucial-t705-serisi-2tb-3d-nand-sogutuculu-nvme-m-2-ssd-okuma-14500mb-yazma-12700mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "12700 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 5.0 x4 NVMe",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:53:33"
+    },
+    {
+        "name": "ASUS TUF GAMING PLUS 2TB USB 3.2 Siyah Taşınabilir SSD",
+        "price": 13629,
+        "url": "https://www.vatanbilgisayar.com/asus-tuf-gaming-plus-2tb-usb-3-2-gen-2x2-siyah-tasinabilir-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Bağlantı Arayüzü": "USB 3.2",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:53:37"
+    },
+    {
+        "name": "Samsung 4TB 990 PRO PCIE GEN4 NVME 2.0 (Okuma 7450MB/Yazma 6900MB) SSD",
+        "price": 31669,
+        "url": "https://www.vatanbilgisayar.com/samsung-4tb-990-pro-pcie-gen-4-0-x4-nvme-2-0-okuma-7450mb-yazma-6900mb-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6900 MB/sn",
+            "Bağlantı Arayüzü": "PCIe Gen4 x4, NVMe 1.4",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:53:41"
+    },
+    {
+        "name": "KIOXIA Exceria Gen5 G3 1TB NVMe M.2 SATA SSD (R:10000MB/s W:8900MB/s)",
+        "price": 11119,
+        "url": "https://www.vatanbilgisayar.com/kioxia-exceria-g3-1tb-nvme-gen5-m-2-ssd-r-10000mb-s-w-8900-mb-s.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Soğutucu": "Yok",
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "8900 MB/s",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:53:45"
+    },
+    {
+        "name": "Samsung 2TB T9 USB 3.2 Siyah (Okuma 2000MB/Yazma 2000MB) Taşınabilir SSD",
+        "price": 17629,
+        "url": "https://www.vatanbilgisayar.com/samsung-2tb-t9-usb-3-2-gen-2x2-2-gbps-siyah-tasinabilir.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "2000 MB/s",
+            "Bağlantı Arayüzü": "USB 3.2",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:53:48"
+    },
+    {
+        "name": "Verbatim 512GB Snapback USB 3.2 Mocha Metalik Harici SSD",
+        "price": 5829,
+        "url": "https://www.vatanbilgisayar.com/verbatim-512gb-snapback-usb-3-2-mocha-metalik-harici-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Kahve",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "1800 MB/s",
+            "Kapasite": "512 GB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:53:52"
+    },
+    {
+        "name": "Crucial 1TB P310 Serisi 2280 NVMe M.2 SSD (Okuma 7100MB / Yazma 6000MB)",
+        "price": 10349,
+        "url": "https://www.vatanbilgisayar.com/crucial-1tb-p310-serisi-2280-nvme-m-2-ssd-okuma-7100mb-yazma-6000mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6000 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 5.0 x4 NVMe",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:53:55"
+    },
+    {
+        "name": "Samsung 500GB 870 EVO SATA 3.0 (Okuma 560MB / Yazma 530MB)",
+        "price": 5159,
+        "url": "https://www.vatanbilgisayar.com/samsung-500gb-870-evo-sata-3-0-okuma-560mb-yazma-530mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Ağırlık": "45 gr",
+            "Yükseklik": "69,8 mm",
+            "Genişlik": "100 mm",
+            "Derinlik": "6,8 mm",
+            "Standart bağlantı": "Serial ATA III",
+            "MTBF aralığı": "1500000 Saat",
+            "Hafıza tipi": "V-NAND MLC",
+            "Veri aktarım hızı": "6 Gbit/s",
+            "Okuma hızı, ortam": "560 MB/s",
+            "Yazma hızı, ortam": "530 MB/s",
+            "S.M.A.R.T. destek": "Var",
+            "TRIM desteği": "Var",
+            "Rastgele yaz (4KB)": "88000 IOPS",
+            "Rastgele oku (4KB)": "98000 IOPS",
+            "TBW sınıfı": "2400",
+            "Bileşen": "PC",
+            "SSD form faktörü": "2.5\"",
+            "Çalışma ısısı aralığı": "0 - 70 °C",
+            "Çalışabilir şok düzeyi": "1500 G",
+            "Çalışma voltajı": "5 V",
+            "Power consumption (idle)": "0,03 W",
+            "Güç tüketimi (maksimum)": "3,5 W",
+            "Güç tüketimi (ortalama)": "2,2 W"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:53:59"
+    },
+    {
+        "name": "Surefire Pyrodrive Slim 1TB 3.2 USB Kırmızı Harici SSD",
+        "price": 9039,
+        "url": "https://www.vatanbilgisayar.com/surefire-pyrodrive-slim-1tb-3-2-usb-kirmizi-harici-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Kırmızı",
+            "Soğutucu": "Var",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:54:03"
+    },
+    {
+        "name": "MSI 960GB SPATIUM S270 SATA 3.0 SSD (500MB Okuma / 450MB Yazma)",
+        "price": 10079,
+        "url": "https://www.vatanbilgisayar.com/msi-960gb-spatium-s270-sata-3-0-ssd-500mb-okuma-450mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "450 MB/s",
+            "Bağlantı Arayüzü": "Sata 6Gb/s",
+            "Kapasite": "960 GB",
+            "SSD Tipi": "2.5\" SATA III"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:54:07"
+    },
+    {
+        "name": "Crucial 1TB E100 Serisi 2280 NVMe M.2 SSD (Okuma 5000MB / Yazma 4500MB)",
+        "price": 10189,
+        "url": "https://www.vatanbilgisayar.com/crucial-1tb-e100-serisi-2280-nvme-m-2-ssd-okuma-5000mb-yazma-4500mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "4500 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 5.0 x4 NVMe",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:54:10"
+    },
+    {
+        "name": "GOODRAM 2TB HX200 ROSE GOLD USB 3.2 (Okuma 1600MB / Yazma 1500MB) Harici SSD",
+        "price": 16479,
+        "url": "https://www.vatanbilgisayar.com/goodram-2tb-hx200-rose-gold-usb-3-2-okuma-1600mb-yazma-1500mb-harici-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Rose Gold",
+            "Soğutucu": "Var",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "1500 MB/s",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "Harici SSD"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:54:13"
+    },
+    {
+        "name": "GOODRAM 1TB PX700 GEN4 NVMe M.2 SSD (Okuma Hızı 7400MB / Yazma Hızı 6500MB)",
+        "price": 21799,
+        "url": "https://www.vatanbilgisayar.com/goodram-1tb-px700-gen4-nvme-m-2-ssd-okuma-hizi-7400mb-yazma-hizi-6500mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6500 MB/sn",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:54:17"
+    },
+    {
+        "name": "KIOXIA Exceria Gen5 G3 2TB NVMe M.2 SATA SSD (R:10000MB/s W:9600MB/s)",
+        "price": 15899,
+        "url": "https://www.vatanbilgisayar.com/kioxia-exceria-g3-2tb-nvme-gen5-m-2-ssd-r-10000mb-s-w-9600-mb-s.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "9600 MB/s",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:54:20"
+    },
+    {
+        "name": "KIOXIA Exceria Pro 2TB NVMe M.2 SSD (7300MB/s Okuma / 6400MB/s Yazma)",
+        "price": 24719,
+        "url": "https://www.vatanbilgisayar.com/kioxia-2tb-exceria-pro-serisi-nvme-m-2-ssd-7300mb-s-okuma-6400mb-s-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Standart bağlantı": "PCI Express 4.0",
+            "MTBF aralığı": "1500000 Saat",
+            "Hafıza tipi": "BiCS FLASH TLC",
+            "Yazma hızı, ortam": "6400 MB/s",
+            "Okuma hızı, ortam": "7300 MB/s",
+            "Rastgele oku (4KB)": "800000 IOPS",
+            "TBW sınıfı": "400",
+            "SSD form faktörü": "M.2",
+            "NVMe": "Var",
+            "Rastgele yaz (4KB)": "1300000 IOPS",
+            "Bileşen": "Laptop",
+            "NVMe sürümü": "44652",
+            "Ağırlık": "7,6 g",
+            "Yükseklik": "2,23 mm",
+            "Genişlik": "22,1 mm",
+            "Derinlik": "80,2 mm",
+            "Çalışma ısısı aralığı": "0 - 85 °C",
+            "Çalışabilir şok düzeyi": "1000 G",
+            "Çalışabilir titreşim": "20 g",
+            "Çalışma voltajı": "3,3 V",
+            "Güç tüketimi (maksimum)": "8,9 W"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:54:24"
+    },
+    {
+        "name": "GOODRAM 960GB CL100 SATA 3.0 SSD (540MB Okuma / 460MB Yazma)",
+        "price": 17009,
+        "url": "https://www.vatanbilgisayar.com/goodram-960gb-cl100-sata-3-0-ssd-540mb-okuma-460mb-yazma.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Soğutucu": "Yok",
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "460 MB/s",
+            "Kapasite": "960 GB",
+            "SSD Tipi": "2.5\" SATA III"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:54:28"
+    },
+    {
+        "name": "Verbatim 2TB Vi3000 Internal PCIe NVMe M.2 GEN3 SSD (3300MB Okuma/3000MB Yazma)",
+        "price": 10659,
+        "url": "https://www.vatanbilgisayar.com/verbatim-2tb-vi3000-internal-pcie-nvme-m-2-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "SIYAH",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "3000 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 3.0 x4 NVMe",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2",
+            "Sıralı Okuma Hızı Maks.": "3300MB",
+            "Sıralı Yazma Hızı Maks.": "3000MB",
+            "Dayanıklılık": "1200 TBW",
+            "Depolama Teknolojisi": "NAND",
+            "Genişlik": "80 mm",
+            "Yükseklik": "22 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:54:32"
+    },
+    {
+        "name": "Crucial T705 Serisi 1TB 3D NAND NVMe M.2 SSD (Okuma 13600MB/Yazma 10200MB)",
+        "price": 17299,
+        "url": "https://www.vatanbilgisayar.com/crucial-t705-serisi-1tb-3d-nand-nvme-m-2-ssd-okuma-13600mb-yazma-10200mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "10200 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 5.0 x4 NVMe",
+            "Kapasite": "1 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:54:35"
+    },
+    {
+        "name": "Crucial 2TB P3 Plus Serisi NVMe M.2 SSD (Okuma 5000MB/ Yazma 4200MB)",
+        "price": 15029,
+        "url": "https://www.vatanbilgisayar.com/crucial-2tb-p3-plus-3d-nand-5000mb-3600mb-nvme-pcie-gen4-m-2-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "4200 MB/sn",
+            "Bağlantı Arayüzü": "PCI Express 4.0 x4 NVMe",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2",
+            "Sıralı Okuma Hızı Maks.": "5000 MB/s",
+            "Sıralı Yazma Hızı Maks.": "4200 MB/s",
+            "Dayanıklılık": "440 TBW"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:54:39"
+    },
+    {
+        "name": "Crucial 500GB X8 Serisi USB3.1 (Okuma 1050MB/s) Harici SSD",
+        "price": 8529,
+        "url": "https://www.vatanbilgisayar.com/crucial-500gb-portable-ssd-x8-usb3-1-okuma-1050mb-s-harici-ssd.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Okuma hızı, ortam": "1050 MB/s",
+            "USB versiyonu": "3.2 Gen 2 (3.1 Gen 2)",
+            "USB konnektörü": "USB C Tipi",
+            "Wi-Fi": "Yok",
+            "Ürün rengi": "Siyah",
+            "Pakete dahil kablolar": "C Tipi USB’den C Tipi USB’ye, USB-SATA",
+            "Hızlı başlangıç rehberi": "Var"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:54:42"
+    },
+    {
+        "name": "Crucial T705 Serisi 4TB 3D NAND Soğutuculu NVMe M.2 SSD (Okuma 14100MB/Yazma 12600MB)",
+        "price": 53009,
+        "url": "https://www.vatanbilgisayar.com/crucial-t705-serisi-4tb-3d-nand-sogutuculu-nvme-m-2-ssd-okuma-14100mb-yazma-12600mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "12600 MB/s",
+            "Bağlantı Arayüzü": "PCI Express 5.0 x4 NVMe",
+            "Kapasite": "4 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:54:46"
+    },
+    {
+        "name": "Crucial 2TB P5 Serisi NVMe M.2 SSD (Okuma 3400MB / Yazma 3000MB)",
+        "price": 27499,
+        "url": "https://www.vatanbilgisayar.com/crucial-2tb-p5-serisi-nvme-m-2-ssd-okuma-3400mb-yazma-3000mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Standart bağlantı": "PCI Express 3.0",
+            "MTBF aralığı": "1800000 Saat",
+            "S.M.A.R.T. destek": "Var",
+            "Hafıza tipi": "3D NAND",
+            "Donanım şifreleme": "Var",
+            "ECC": "Var",
+            "TBW sınıfı": "1200",
+            "Okuma hızı, ortam": "3400 MB/s",
+            "Yazma hızı, ortam": "3000 MB/s",
+            "TRIM desteği": "Var",
+            "Bileşen": "Bilgisayar / laptop",
+            "SSD form faktörü": "M.2",
+            "NVMe": "Var",
+            "Çalışma ısısı aralığı": "0 - 70 °C"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:54:49"
+    },
+    {
+        "name": "GOODRAM 2TB IRDM PRO GEN4 NVMe M.2 NANO SSD (Okuma Hızı 7300MB / Yazma Hızı 6000MB)",
+        "price": 17729,
+        "url": "https://www.vatanbilgisayar.com/goodram-2tb-irdm-pro-gen4-nvme-m-2-nano-ssd-okuma-hizi-7300mb-yazma-hizi-6000mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Soğutucu": "Yok",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "6000 MB/s",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "NVMe M.2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:54:52"
+    },
+    {
+        "name": "Verbatim 2TB Vi550 S3 SATA 3.0 SSD (Okuma 550MB / Yazma 500MB)",
+        "price": 16459,
+        "url": "https://www.vatanbilgisayar.com/verbatim-2tb-vi550-s3-sata-3-0-ssd-okuma-550mb-yazma-500mb.html",
+        "component_type": "storage",
+        "raw_specs": {
+            "Renk": "SIYAH",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yazma Hızı MB/s": "500 MB/s",
+            "Bağlantı Arayüzü": "Sata 6Gb/s",
+            "Kapasite": "2 TB",
+            "SSD Tipi": "2.5\" SATA III",
+            "Sıralı Okuma Hızı Maks.": "550MB",
+            "Sıralı Yazma Hızı Maks.": "500MB",
+            "Dayanıklılık": "500 TBW",
+            "Veri Yazma Garantisi": "500 TBW",
+            "Depolama Teknolojisi": "NAND"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 05:54:56"
+    }
+]

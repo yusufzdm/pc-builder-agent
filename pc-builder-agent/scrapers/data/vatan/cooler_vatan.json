@@ -1,0 +1,3671 @@
+[
+    {
+        "name": "COOLER MASTER MASTERFAN MF120 HALO2 ARGB 120mm Beyaz Kasa Fanı",
+        "price": 759,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-masterfan-mf120-halo2-argb-120mm-beyaz-kasa-fani.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soğutma Tipi": "Fan",
+            "Fan Boyutu": "120mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:14:48"
+    },
+    {
+        "name": "ASUS TUF GAMING LC II 240 ARGB 2x120mm Fanlı Sıvı Soğutucu",
+        "price": 6019,
+        "url": "https://www.vatanbilgisayar.com/asus-tuf-gaming-lc-ii-240-argb-240mm-islemci-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket AM5, Soket 1851, Soket AM4, Soket 1200, Soket 1700",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "2 x Fan Slotu (120mm)",
+            "Hava Akımı Maks.": "67 CFM / 113.8 m3h",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Boyut": "120 x 120 x 25 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:14:52"
+    },
+    {
+        "name": "FAZEON A4120TAW 120MM ARGB BEYAZ KULE TİPİ İŞLEMCİ SOĞUTUCU",
+        "price": 1229,
+        "url": "https://www.vatanbilgisayar.com/fazeon-a4120taw-120mm-argb-siyah-kule-tipi-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4, Soket 1200",
+            "Soğutma Tipi": "Hava Soğutma",
+            "Fan Sayısı": "1",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:14:54"
+    },
+    {
+        "name": "COUGAR MHP120 ARGB 1x120mm TEKLİ  FAN",
+        "price": 1069,
+        "url": "https://www.vatanbilgisayar.com/cougar-fan-mhp-120-argb-single-package.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:14:58"
+    },
+    {
+        "name": "ZALMAN ALPHA2 A24 BEYAZ 71 CFM 2X120mm ARGB AMD/Intel LGA1700 240mm SIVI SOĞUTUCU",
+        "price": 6859,
+        "url": "https://www.vatanbilgisayar.com/zalman-alpha2-a24-beyaz-71-cfm-2x120mm-argb-amd-intel-lga1700-240mm-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:00"
+    },
+    {
+        "name": "MSI CORELIQUID A17 MLG EDITION 3x120mm ARGB FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 9859,
+        "url": "https://www.vatanbilgisayar.com/msi-coreliquid-a17-mlg-edition-3x120mm-argb-fanli-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:03"
+    },
+    {
+        "name": "MSI MPG CORELIQUID P13 360 3x120mm ARGB FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 9669,
+        "url": "https://www.vatanbilgisayar.com/msi-mpg-coreliquid-p13-360-3x120mm-argb-fanli-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Var"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:06"
+    },
+    {
+        "name": "MSI MPG EZ120 ARGB WHITE 1x120mm 120mm Manyetik Kasa Fanı",
+        "price": 2219,
+        "url": "https://www.vatanbilgisayar.com/msi-mpg-ez120-argb-white-1x120mm-120mm-manyetik-kasa-fani.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Fan",
+            "Fan Sayısı": "1",
+            "Radyatör Desteği (Üst)": "120mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:09"
+    },
+    {
+        "name": "ASUS ROG RYUO III 240 ARGB 2x120mm Fanlı Sıvı Soğutucu",
+        "price": 7309,
+        "url": "https://www.vatanbilgisayar.com/asus-rog-ryuo-iii-240-argb-2x120mm-fanli-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket 1151-V.2, Soket 1156, Soket 1150, Soket 2011-V3, Soket 1155, Soket 2011, Soket AM4, Socket TR4, Soket 2066, Soket 1200",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "120mm",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:12"
+    },
+    {
+        "name": "RAMPAGE HELIOS C3 BEYAZ 360 3x120mm RAINBOW FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 4769,
+        "url": "https://www.vatanbilgisayar.com/rampage-helios-c3-beyaz-120-1x-360mm-rainbow-fanli-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:15"
+    },
+    {
+        "name": "ZALMAN ALPHA2 A36 SİYAH 71 CFM 3X120mm ARGB AMD/Intel LGA1700 360mm SIVI SOĞUTUCU",
+        "price": 7899,
+        "url": "https://www.vatanbilgisayar.com/zalman-alpha2-a36-siyah-71-cfm-3x120mm-argb-amd-intel-lga1700-360mm-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:19"
+    },
+    {
+        "name": "Rampage TM-501 1g 5.15w/m.K Gri Slim Tüp Termal Macun",
+        "price": 169,
+        "url": "https://www.vatanbilgisayar.com/rampage-tm-501-1g-5-15w-m-k-gri-slim-tup-termal-macun.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Macun Rengi": "Gri",
+            "Renk": "Siyah",
+            "Elektriksel İletkenlik": "Yalıtkan",
+            "Muhafaza Yapısı": "Şırınga",
+            "Termal İletkenlik": "5.15 W/m-K",
+            "En Fazla Isı Direnci": "230 °C",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Thermal Macun",
+            "Ağırlık": "1 g"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:23"
+    },
+    {
+        "name": "ZALMAN ALPHA2 DS A24 SİYAH 71 CFM 2x120mm ARGB AMD/Intel 240mm SIVI SOĞUTUCU",
+        "price": 10569,
+        "url": "https://www.vatanbilgisayar.com/zalman-alpha2-ds-a24-siyah-71-cfm-2x120mm-argb-amd-intel-240mm-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:26"
+    },
+    {
+        "name": "MSI MAG CORELIQUID A15 360 3x120mm ARGB FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 6189,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-coreliquid-a15-360-3x120mm-argb-fanli-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:29"
+    },
+    {
+        "name": "RAMPAGE INFINITE C30 BEYAZ LGA1851/LGA1700/AM5 3x12cm ARGB Fan 360mm SIVI SOĞUTMA",
+        "price": 5289,
+        "url": "https://www.vatanbilgisayar.com/rampage-infinite-c30-beyaz-lga1851-lga1700-am5-3x12cm-argb-fan-360mm-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:32"
+    },
+    {
+        "name": "THERMALTAKE Magfloe360 Ultra 3,95\" LCD Ekran 3x120mm ARGB Fanlı 360mm Sıvı Soğutma Sistemi",
+        "price": 13059,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-magfloe360-ultra-3-95-lcd-ekran-3x120mm-argb-fanli-360mm-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Var"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:35"
+    },
+    {
+        "name": "XIGMATEK AIR KILLER PRO ARCTIC Beyaz LGA1700/AM5 Uyumlu 12CM ARGB SOĞUTMALI FAN",
+        "price": 2819,
+        "url": "https://www.vatanbilgisayar.com/xigmatek-air-killer-pro-arctic-beyaz-lga1700-am5-uyumlu-12cm-argb-sogutmali-fan.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:38"
+    },
+    {
+        "name": "COOLER MASTER MasterLiquid Atmos II 360 ARGB VRM Pompa 3x120mm Sıvı Soğutma",
+        "price": 10399,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-masterliquid-atmos-ii-360-argb-vrm-3x120mm-led-gosterge-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:41"
+    },
+    {
+        "name": "RAMPAGE HELIOS C1 BEYAZ 120 1x120mm RAINBOW FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 2489,
+        "url": "https://www.vatanbilgisayar.com/rampage-helios-c1-beyaz-120-1x120mm-rainbow-fanli-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "İşlemci Soket Uyumluluk": "AMD AM5/INTEL LGA1700",
+            "Pompa Dönüş Hızı": "2600±10% RPM",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "120mm",
+            "Fan Sayısı": "1",
+            "Radyatör Desteği (Üst)": "120mm",
+            "Fan Tipi": "LED",
+            "Fan Boyutları": "120x120x25 mm",
+            "Radyatör Boyutu": "154x120x27mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:44"
+    },
+    {
+        "name": "COOLER MASTER MASTERLIQUID ML120L V2 SICKLEFLOW RGB LED ISLEMCI SIVI SOGUTMA",
+        "price": 3369,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-masterliqid-ml120l-v2-sickleflow-rgb-led-islemci-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Ağırlık": "649 g",
+            "Paket ağırlığı": "1,41 kg",
+            "Ambalaj derinliği": "239 mm",
+            "Ambalaj genişliği": "207 mm",
+            "Ambalaj yüksekliği": "137 mm",
+            "Radyatör genişliği": "12 cm",
+            "Radyatör uzunluğu": "2,72 cm",
+            "Radyatör derinliği": "15,7 cm",
+            "Fan boyutları (G x D x Y)": "120 x 120 x 25 mm",
+            "Pompa genişliği": "7,6 cm",
+            "Pompa derinliği": "7,99 cm",
+            "Pompa yüksekliği": "4,71 cm",
+            "Tip": "Hepsi dahil sıvı soğutma",
+            "Odalar": "İşlemci",
+            "Fan hızı (maksimum)": "1800 RPM",
+            "Maksimum hava akımı": "62 cfm",
+            "Fan hızı (minimum)": "650 RPM",
+            "Maksimum hava basıncı": "2,5 mmH2O",
+            "Pompa gürültü seviyesi": "15 dB",
+            "Pompa konektörü": "3-pim",
+            "Ürün rengi": "Siyah",
+            "Işıklandırma rengi": "Mavi, Yeşil, Kırmızı",
+            "Fan bağlantısı": "4-pim",
+            "Radyatör malzemesi": "Alüminyum",
+            "Aydınlatma LED'i": "Var",
+            "Pompa voltajı": "12 V",
+            "Fan voltajı": "12 V",
+            "Termal Tasarım Gücü": "180 W",
+            "Fan akımı": "0,15 A",
+            "Pompa güç tüketimi": "2,36 W"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:48"
+    },
+    {
+        "name": "THERMALTAKE WATER 3.0 360mm ARGB SYNC EDITION ALL-IN-ONE SIVI SOĞUTMA SİSTEMİ",
+        "price": 7829,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-water-3-0-360-argb-sync-edition-all-in-one-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Tip": "Hepsi dahil sıvı soğutma",
+            "Odalar": "İşlemci",
+            "Maksimum hava akımı": "56,45 cfm",
+            "Fan çapı": "12 cm",
+            "Maksimum hava basıncı": "1,59 mmH2O",
+            "Fan hızı (minimum)": "500 RPM",
+            "Pompa motor hızı": "3600 RPM",
+            "Fan hızı (maksimum)": "1500 RPM",
+            "Ağırlık": "2,25 kg",
+            "Radyatör genişliği": "15,1 cm",
+            "Radyatör derinliği": "12 cm",
+            "Radyatör uzunluğu": "2,7 cm",
+            "Tüp uzunluğu": "40 cm",
+            "Fan boyutları (G x D x Y)": "120 x 120 x 25 mm",
+            "Tüp malzemesi": "Kauçuk",
+            "Fan sayısı": "3 fan(lar)",
+            "Işıklandırma rengi": "Çok aşamalı",
+            "Su bloklama malzemesi": "Bakır",
+            "Fan bağlantısı": "4-pim",
+            "Aydınlatma LED'i": "Var",
+            "Fan kontrolcüsü": "Var",
+            "Pompa voltajı": "12 V",
+            "Fan güç tüketimi": "1,44 W",
+            "Fan voltajı": "12 V",
+            "Pompa güç tüketimi": "3,9 W"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:51"
+    },
+    {
+        "name": "RAMPAGE TM-130 TERMAL MACUN",
+        "price": 169,
+        "url": "https://www.vatanbilgisayar.com/everest-rampage-tm-130-termal-macun.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Ağırlık": "1 gr",
+            "Ürün rengi": "Siyah, Metalik",
+            "Termal direnç": "0,249 °C/W",
+            "Termal iletkenlik": "1,63 W/m·K",
+            "Paket başına miktar": "1 adet"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:53"
+    },
+    {
+        "name": "THERMALTAKE TH360 V2 BEYAZ ARGB Led Fanlı 360mm Intel/AM5 Serisi Uyumlu Sıvı Soğutucu",
+        "price": 7509,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-th360-v2-beyaz-argb-led-fanli-360mm-intel-am5-serisi-uyumlu-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:15:57"
+    },
+    {
+        "name": "MSI MAG CORELIQUID E360 3x120mm ARGB FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 7579,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-coreliquid-e360-3x120mm-argb-fanli-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1156, Soket 1150, Soket 1155, Soket 1151-V.2, Soket 1200, Soket 1700",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "120mm",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:00"
+    },
+    {
+        "name": "THERMALTAKE CT120 ARGB 2x120mm Fan Kiti",
+        "price": 2049,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-ct120-argb-2x120mm-fan-kiti.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Fan",
+            "Radyatör Desteği (Üst)": "120mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:03"
+    },
+    {
+        "name": "THERMALTAKE UX400 120mm ARGB Fanlı LGA1851/AM5 Uyumlu Beyaz İşlemci Soğutucu",
+        "price": 1489,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-ux400-120mm-argb-fanli-lga1851-am5-uyumlu-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Hava Soğutma",
+            "Fan Boyutu": "120 mm",
+            "Fan Sayısı": "1",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:06"
+    },
+    {
+        "name": "RAMPAGE COOLBLADE 1x120mm FANLI İŞLEMCİ SOĞUTUCU",
+        "price": 749,
+        "url": "https://www.vatanbilgisayar.com/rampage-coolblade-1x120mm-fanli-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Hava Soğutma"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:09"
+    },
+    {
+        "name": "ZALMAN ZM-AM5MKA CNPS16X AMD Uyumlu AM5 Soket Montaj Kiti",
+        "price": 5319,
+        "url": "https://www.vatanbilgisayar.com/zalman-zm-am5mka-cnps16x-400-600-uyumlu-intel-lga1200-lga1700-soket-montaj-kiti.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Soğutma seti"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:11"
+    },
+    {
+        "name": "RAMPAGE 6C-120 1x120mm DOUBLE RING 6 RENK LEDLİ FAN",
+        "price": 249,
+        "url": "https://www.vatanbilgisayar.com/rampage-6c-120-1x120mm-double-ring-6-renk-ledli-fan.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Hava Soğutma"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:14"
+    },
+    {
+        "name": "THERMALTAKE CT120 EX ARGB 3x120mm Manyetik Modüler Fan Kiti",
+        "price": 5059,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-ct120-ex-argb-2x120mm-manyetik-moduler-fan-kiti.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soğutma Tipi": "Fan",
+            "Fan Sayısı": "3",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:17"
+    },
+    {
+        "name": "THERMALTAKE ToughFan ARGB 3x120mm Yüksek Statik Basınçlı Radyatör Kontrolcü Fan",
+        "price": 9789,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-toughfan-argb-3x120mm-yuksek-statik-basincli-radyator-kontrolcu-fan.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Fan Boyutu": "120 mm",
+            "Fan Sayısı": "3",
+            "Hava Akımı Maks.": "50-55 CFM",
+            "Ses Seviyesi": "20 - 25 dBA",
+            "Fan Tipi": "RGB",
+            "Fan Kalınlığı": "25mm",
+            "Boyut": "120 x 120 x 25 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:21"
+    },
+    {
+        "name": "THERMALTAKE TH360 ARGB Fanllı 360mm Intel/AMD4 Serisi Uyumlu Sıvı Soğutma Sistem",
+        "price": 8829,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-th360-argb-fanlli-360mm-intel-amd4-serisi-uyumlu-sivi-sogutma-sistem.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Tip": "Hepsi dahil sıvı soğutma",
+            "Odalar": "İşlemci",
+            "Maksimum hava akımı": "59,28 cfm",
+            "Maksimum hava basıncı": "1,31 mmH2O",
+            "Pompa motor hızı": "3300 RPM",
+            "Fan hızı (maksimum)": "1500 RPM",
+            "Ağırlık": "1,43 kg",
+            "Tüp uzunluğu": "40 cm",
+            "Radyatör genişliği": "15,3 cm",
+            "Radyatör derinliği": "2,7 cm",
+            "Radyatör uzunluğu": "12 cm",
+            "Ürün rengi": "Siyah",
+            "Fan sayısı": "3 fan(lar)",
+            "Işıklandırma rengi": "Mavi, Yeşil, Kırmızı",
+            "Su bloklama malzemesi": "Bakır",
+            "Fan bağlantısı": "4-pim",
+            "Aydınlatma LED'i": "Var",
+            "Fan kontrolcüsü": "Var",
+            "Gürültü seviyesi": "28,2 dB",
+            "Tüp malzemesi": "Kauçuk",
+            "Termal gres": "Var",
+            "Fan voltajı": "12 V",
+            "Pompa voltajı": "12 V",
+            "Pompa akımı": "370 mA"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:24"
+    },
+    {
+        "name": "CM Hyper 212 Serisi (RR-2V2E-18PK-R2) için AMD AM5 Kit",
+        "price": 2659,
+        "url": "https://www.vatanbilgisayar.com/cm-hyper-212-serisi-rr-2v2e-18pk-r2-icin-amd-am5-kit.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket AM5",
+            "Soğutma Tipi": "Hava Soğutma"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:28"
+    },
+    {
+        "name": "COOLER MASTER MASTERLIQUID ION 360 ARGB LED FANLI İŞLEMCİ SIVI SOĞUTMA",
+        "price": 15629,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-masterliquid-ion-360-argb-led-fanli-islemci-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:30"
+    },
+    {
+        "name": "COUGAR POSEIDON ELITE ARGB 240 2x120mm FANLI İŞLEMCİ SIVI SOĞUTUCU",
+        "price": 4209,
+        "url": "https://www.vatanbilgisayar.com/cougar-poseidon-elite-argb-240-2x120mm-fanli-islemci-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:33"
+    },
+    {
+        "name": "MSI MAG COREFROZR AA13 1x120mm LGA1700-1851/AM4-AM5 Uyumlu CPU Soğutucu",
+        "price": 1669,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-corefrozr-aa13-1x120mm-lga1700-1851-am4-am5-uyumlu-cpu-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4",
+            "Soğutma Tipi": "Hava Soğutma",
+            "Fan Sayısı": "1",
+            "Radyatör Desteği (Üst)": "Yok",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:36"
+    },
+    {
+        "name": "THERMALTAKE UX200 120mm ARGB FANLI AMD4/INTEL UYUMLU İŞLEMCİ SOĞUTUCU",
+        "price": 2189,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-ux200-120mm-argb-fanlii-amd4-intel-uyumlu-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Tip": "Soğutucu",
+            "Fan çapı": "12 cm",
+            "İşlemcilerle uyumlu": "AMD A, AMD Athlon, Intel® Celeron®, Intel® Core™ i3, Intel® Core™ i5, Intel® Core™ i7, Intel® Core™ i9, Intel® Pentium®",
+            "Maksimum hava akımı": "43,34 cfm",
+            "Maksimum hava basıncı": "1,18 mmH2O",
+            "Odalar": "İşlemci",
+            "Dönme hızı (maks)": "1500 RPM",
+            "Dönme hızı (min)": "300 RPM",
+            "Güç gereksinimleri": "5,76 W",
+            "Ölçülen hat akımı": "0,48 A",
+            "Başlangıç ??voltajı": "6 V",
+            "Yükseklik": "153,5 mm",
+            "Genişlik": "76 mm",
+            "Derinlik": "127 mm",
+            "Ürün rengi": "Siyah",
+            "Işıklandırma rengi": "Mavi, Yeşil, Kırmızı",
+            "Fan sayısı": "1 fan(lar)",
+            "Fan bağlantısı": "3-pin + 4-pin",
+            "Aydınlatma LED'i": "Var",
+            "Kanatçık malzemesi": "Alüminyum",
+            "Fan anma gerilimi": "12 V"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:39"
+    },
+    {
+        "name": "MSI MAG CORELIQUID M360 360 mm Sıvı İşlemci Soğutucu",
+        "price": 6099,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-coreliquid-m360-360-mm-sivi-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Radyatör Desteği (Üst)": "360mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:42"
+    },
+    {
+        "name": "RAMPAGE XTP-001 38*38*0,2mm 22.5w/m.K Yüksek Performanslı Thermal Pad",
+        "price": 169,
+        "url": "https://www.vatanbilgisayar.com/rampage-xtp-001-38-38-0-2mm-22-5w-m-k-yuksek-performansli-termal-ped.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Thermal Pad"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:45"
+    },
+    {
+        "name": "ASUS PRIME LC 240 ARGB 240mm INTEL/AMD Uyumlu Sıvı Soğutucu",
+        "price": 5109,
+        "url": "https://www.vatanbilgisayar.com/asus-prime-lc-240-argb-240mm-intel-amd-uyumlu-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4, Soket 1200",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:48"
+    },
+    {
+        "name": "THERMALTAKE Floe Ultra 360 RGB LCD Ekranlı Pompa, 3x120mm RGB fanlı Sıvı Soğutma",
+        "price": 16639,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-floe-ultra-360-rgb-lcd-ekranli-pompa-3x120mm-rgb-fanli-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "İşlemci Soket Uyumluluk": "Intel LGA 2066/20113/2011/1700/1200/1156/1155/1151/1150 AMD AM5/AM4/AM3+/AM3/AM2+/AM2/ FM2/FM1",
+            "Radyatör Materyali": "Alüminyum",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "120 mm",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "RGB",
+            "Fan Ses Seviyesi": "34,1 dB",
+            "Fan Hızı": "500~2000 RPM (2510-4PIN)",
+            "Pompa Hızı": "3200 RPM",
+            "Pompa Anma Gerilimi": "12V",
+            "Giriş Gücü (Bir Fan)": "4.2 W",
+            "Fan Anma Gerilimi": "12 V",
+            "Pompa Giriş Gücü": "4.56W",
+            "Pompa Anma Akımı": "0.38A"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:51"
+    },
+    {
+        "name": "XIGMATEK STARLINK ULTRA 3x12cm Mini ARGB Fan Kontolcü Fan Kiti",
+        "price": 3189,
+        "url": "https://www.vatanbilgisayar.com/xigmatek-starlink-ultra-3x12cm-mini-argb-fan-kontolcu-fan-kiti.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soğutma Tipi": "Fan"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:54"
+    },
+    {
+        "name": "COOLER MASTER MasterLiquid Atmos II 360 Pixel ARGB 3x120mm Led Gösterge Sıvı Soğutma",
+        "price": 11749,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-masterliquid-atmos-ii-360-pixel-argb-3x120mm-led-gosterge-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Var"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:16:57"
+    },
+    {
+        "name": "COOLER MASTER MasterLiquid Atmos II 360 ARGB VRM Pompa 3x120mm Beyaz Sıvı Soğutma",
+        "price": 10399,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-masterliquid-atmos-ii-360-argb-vrm-pompa-3x120mm-beyaz-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:00"
+    },
+    {
+        "name": "COOLER MASTER MasterLiquid Atmos II 360 Pixel ARGB 3x120mm Led Gösterge Beyaz Sıvı Soğutma",
+        "price": 10519,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-masterliquid-atmos-ii-360-pixel-argb-3x120mm-led-gosterge-beyaz-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Var"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:03"
+    },
+    {
+        "name": "BITFENIX KUZY SİYAH LGA1851/AM5 3x120mm ARGB Fan 360mm Dijital Göstergeli Sıvı Soğutma",
+        "price": 5239,
+        "url": "https://www.vatanbilgisayar.com/bitfenix-kuzy-siyah-lga1851-am5-3x120mm-argb-fan-360mm-dijital-gostergeli-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Var"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:06"
+    },
+    {
+        "name": "THERMALTAKE TH360 V3 ARGB Led Fanlı 360mm LGA1700/AM5 Serisi Uyumlu Sıvı Soğutucu",
+        "price": 5129,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-th360-v3-argb-led-fanli-360mm-lga1700-am5-serisi-uyumlu-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "120 mm",
+            "Fan Sayısı": "3",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:10"
+    },
+    {
+        "name": "THERMALTAKE TH240 V2 ARGB Led Fanlı 240mm Intel/AM5 Uyumlu Sıvı Soğutma Sistemi",
+        "price": 4509,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-th240-v2-argb-led-fanli-240mm-intel-am5-uyumlu-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:13"
+    },
+    {
+        "name": "XIGMATEK FENIX II 360 ARCTIC BEYAZ LGA1700/AM5 3x120mm ARGB Fan 360mm Sıvı Soğutma",
+        "price": 4899,
+        "url": "https://www.vatanbilgisayar.com/xigmatek-fenix-ii-360-arctic-beyaz-lga1700-am5-3x120mm-argb-fan-360mm-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:16"
+    },
+    {
+        "name": "THERMALTAKE TH360 V2 ARGB Led Fanlı 360mm Intel/AM5 Serisi Uyumlu Sıvı Soğutucu",
+        "price": 7509,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-th360-v2-argb-led-fanli-360mm-intel-am5-serisi-uyumlu-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:19"
+    },
+    {
+        "name": "ASUS PRIME MR120 ARGB 120mm TEKLİ SİYAH KASA FANI",
+        "price": 799,
+        "url": "https://www.vatanbilgisayar.com/asus-prime-mr120-argb-120mm-reverse-tekli-siyah-kasa-fani.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soğutma Tipi": "Fan",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:24"
+    },
+    {
+        "name": "FAZEON A2120TRA 90MM RGB KULE TİPİ İŞLEMCİ SOĞUTUCU",
+        "price": 729,
+        "url": "https://www.vatanbilgisayar.com/fazeon-a2120tra-90mm-rgb-kule-tipi-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4, Soket 1200",
+            "Soğutma Tipi": "Hava Soğutma",
+            "Fan Sayısı": "1",
+            "Fan Tipi": "RGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:26"
+    },
+    {
+        "name": "THERMALTAKE LA240-S LCD Ekran ARGB LED Fanlı 240mm Intel/AMD Uyumlu Sıvı Soğutma Sistemi",
+        "price": 4699,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-la240-s-lcd-argb-led-fanli-240mm-intel-am5-uyumlu-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Var"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:29"
+    },
+    {
+        "name": "MSI MPG EZ120 ARGB WHITE 3x120mm 360mm Kasa Fanı",
+        "price": 5599,
+        "url": "https://www.vatanbilgisayar.com/msi-mpg-ez120-argb-white-3x120mm-360mm-kasa-fani.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Fan",
+            "Fan Sayısı": "3",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:33"
+    },
+    {
+        "name": "MSI MAG COREFROZR AA13 WHITE 1x120mm LGA1700-1851/AM4-AM5 Uyumlu CPU Soğutucu",
+        "price": 1609,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-corefrozr-aa13-white-1x120mm-lga1700-1851-am4-am5-uyumlu-cpu-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4",
+            "Soğutma Tipi": "Hava Soğutma",
+            "Fan Sayısı": "1",
+            "Radyatör Desteği (Üst)": "Yok",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:36"
+    },
+    {
+        "name": "COOLER MASTER V4 ALPHA 3DHP 2x120mm INTEL1851/AM5 Uyumlu CPU Soğutucu",
+        "price": 3149,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-v4-alpha-3dhp-2x120mm-intel1851-am5-uyumlu-cpu-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Hava Soğutma",
+            "Fan Sayısı": "2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:39"
+    },
+    {
+        "name": "COOLER MASTER CRYOFUSE 5 MAVI THERMAL MACUN",
+        "price": 499,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-cryofuse-violet-5-mavi-thermal-macun.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Thermal Macun"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:42"
+    },
+    {
+        "name": "ZALMAN CNPS16X BEYAZ 2X140mm ARGB AMD/Intel LGA1700 İŞLEMCİ SOĞUTUCU",
+        "price": 2879,
+        "url": "https://www.vatanbilgisayar.com/zalman-cnps16x-beyaz-2x140mm-argb-amd-intel-lga1700-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:45"
+    },
+    {
+        "name": "RAMPAGE INFINITE V120 SİYAH ARGB 1x120mm FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 1899,
+        "url": "https://www.vatanbilgisayar.com/rampage-infinite-v120-siyah-argb-1x120mm-fanli-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "1",
+            "Radyatör Desteği (Üst)": "120mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:48"
+    },
+    {
+        "name": "RAMPAGE INFINITE C20 BEYAZ LGA1851/LGA1700/AM5 2x12cm ARGB Fan 240mm SIVI SOĞUTMA",
+        "price": 4049,
+        "url": "https://www.vatanbilgisayar.com/rampage-infinite-c20-beyaz-lga1851-lga1700-am5-2x12cm-argb-fan-240mm-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:50"
+    },
+    {
+        "name": "ZALMAN RESERATOR5 Z24 ARGB 2x120mm Fanlı Beyaz 240mm Sıvı Soğutucu",
+        "price": 6039,
+        "url": "https://www.vatanbilgisayar.com/zalman-reserator5-z24-argb-2x120mm-fanli-beyaz-240mm-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:53"
+    },
+    {
+        "name": "MSI MAG CORELIQUID 240R V2 2x120mm ARGB FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 5799,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-coreliquid-240r-v2-2x120mm-argb-fanli-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Ürün rengi": "Siyah",
+            "Fan sayısı": "2 fan(lar)",
+            "Radyatör malzemesi": "Alüminyum",
+            "Maksimum hava akımı": "78,73 cfm",
+            "Pompa motor hızı": "4200 RPM",
+            "Minimum hava akımı": "21,63 cfm",
+            "Fan hızı (minimum)": "500 RPM",
+            "Fan hızı (maksimum)": "2000 RPM"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:17:56"
+    },
+    {
+        "name": "THERMALTAKE Floe Ultra 240 RGB LCD Ekranlı Pompa, 2x120mm RGB fanlı Sıvı Soğutma",
+        "price": 14569,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-floe-ultra-240-rgb-lcd-ekranli-pompa-2x120mm-rgb-fanli-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Ekran Türü": "LCD",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "120 mm",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "RGB",
+            "Ekran": "Var",
+            "Fan Ses Seviyesi": "34,1 dB",
+            "Fan Hızı": "500~2000 RPM (2510-4PIN)",
+            "Pompa Hızı": "3200 RPM",
+            "Pompa Anma Gerilimi": "12V",
+            "Fan Akımı (Bir Fan)": "0,35 A",
+            "Giriş Gücü (Bir Fan)": "4.2 W",
+            "Fan Anma Gerilimi": "12 V",
+            "Pompa Giriş Gücü": "4.56W",
+            "Pompa Anma Akımı": "0.38A"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:00"
+    },
+    {
+        "name": "RAMPAGE INFINITE C10 BEYAZ LGA1851/LGA1700/AM5 1x12cm ARGB Fan 120mm SIVI SOĞUTMA",
+        "price": 2619,
+        "url": "https://www.vatanbilgisayar.com/rampage-infinite-c10-beyaz-lga1851-lga1700-am5-1x12cm-argb-fan-120mm-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "1",
+            "Radyatör Desteği (Üst)": "120mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:03"
+    },
+    {
+        "name": "RAMPAGE COOLBLADE RB 1x120mm FANLI İŞLEMCİ SOĞUTUCU",
+        "price": 1869,
+        "url": "https://www.vatanbilgisayar.com/rampage-coolblade-rb-1x120mm-fanli-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4",
+            "Soğutma Tipi": "Hava Soğutma",
+            "Fan Sayısı": "1",
+            "Fan Tipi": "Rainbow(Çoklu Renk)",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:07"
+    },
+    {
+        "name": "RAZER KUNAI RGB FAN 120MM 1FAN",
+        "price": 1929,
+        "url": "https://www.vatanbilgisayar.com/razer-kunai-rgb-fan-120mm-1fan.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:09"
+    },
+    {
+        "name": "THERMALTAKE Toughliquid 360 3x120mm Toughfanlı ARGB Sıvı Soğutucu",
+        "price": 9919,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-toughliquid-360-3x120mm-argb-toughfanli-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Tip": "Hepsi dahil sıvı soğutma",
+            "Odalar": "İşlemci",
+            "Maksimum hava akımı": "58,35 cfm",
+            "Maksimum hava basıncı": "2,41 mmH2O",
+            "Fan hızı (minimum)": "500 RPM",
+            "Fan hızı (maksimum)": "2000 RPM",
+            "Ürün rengi": "Siyah",
+            "Fan sayısı": "3 fan(lar)",
+            "Işıklandırma rengi": "Çok aşamalı",
+            "Su bloklama malzemesi": "Bakır",
+            "Fan bağlantısı": "4-pim",
+            "Aydınlatma LED'i": "Var",
+            "Radyatör malzemesi": "Alüminyum",
+            "Tüp malzemesi": "Kauçuk",
+            "Pompa voltajı": "12/5 V",
+            "Pompa akımı": "380 mA",
+            "Fan akımı": "0,12 A",
+            "Fan voltajı": "12 V",
+            "Tüp uzunluğu": "40 cm",
+            "Radyatör genişliği": "39,5 cm",
+            "Radyatör derinliği": "2,7 cm",
+            "Radyatör uzunluğu": "12 cm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:12"
+    },
+    {
+        "name": "XIGMATEK LK 240 SİYAH LGA1851/AM5 2x120mm ARGB Fan LCD Ekranlı 240mm Sıvı Soğutma",
+        "price": 4899,
+        "url": "https://www.vatanbilgisayar.com/xigmatek-lk-240-lga1851-am5-2x120mm-argb-fan-lcd-ekranli-240mm-siyah-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Var"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:16"
+    },
+    {
+        "name": "COUGAR VORTEX VK120 1x120mm ARGB HDB KASA FANI",
+        "price": 1069,
+        "url": "https://www.vatanbilgisayar.com/cougar-vortex-vk120-1x120mm-rgb-hdb-kasa-fani-138061.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soğutma Tipi": "Fan",
+            "Fan Boyutu": "120mm",
+            "Fan Sayısı": "1",
+            "Hava Akımı Maks.": "48.98 CFM ± 10%",
+            "Ses Seviyesi": "29.8 dBA",
+            "Fan Tipi": "ARGB",
+            "Boyut": "120 x 120 x 25 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:19"
+    },
+    {
+        "name": "POWERBOOST CIRCLE BEYAZ LGA1700/AM5 2x120mm Rainbow Fanlı 240mm Sıvı Soğutma",
+        "price": 3059,
+        "url": "https://www.vatanbilgisayar.com/powerboost-circle-beyaz-lga1700-am5-2x120mm-rainbow-fanli-240mm-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "Rainbow(Çoklu Renk)",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:22"
+    },
+    {
+        "name": "RAMPAGE HELIOS C3 SİYAH 360 3x120mm RAINBOW FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 4639,
+        "url": "https://www.vatanbilgisayar.com/rampage-helios-c3-3x120mm-rainbow-fanli-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "İşlemci Soket Uyumluluk": "AMD AM5/INTEL LGA1700",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "120mm",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "LED"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:26"
+    },
+    {
+        "name": "MSI MAG CORELIQUID E240 2x120mm ARGB FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 5529,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-coreliquid-e240-2x120mm-argb-fanli-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1156, Soket 1150, Soket 1155, Soket 1151-V.2, Soket 1200, Soket 1700",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "120mm",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:29"
+    },
+    {
+        "name": "CM Hyper 212 Serisi (RR-212TK-18PA-R1, RR-212A-20PD-R1) için AMD AM5 Kit",
+        "price": 2659,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-hyper-212-serisi-amd-am5-kit.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket AM5",
+            "Soğutma Tipi": "Hava Soğutma"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:32"
+    },
+    {
+        "name": "RAMPAGE RB-K8 120mm ARGB LED FAN",
+        "price": 1799,
+        "url": "https://www.vatanbilgisayar.com/rampage-rb-k8-120mm-argb-led-fan.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Hava Soğutma",
+            "Hava Akımı Maks.": "55 CFM",
+            "Güç Konnektörü": "6 Pin",
+            "Fan Ses Seviyesi": "26 dBA",
+            "Fan Hızı": "1200RPM+/-10%",
+            "Kablo Boyutu": "450 mm",
+            "Boyut": "120 x 120 x 25 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:35"
+    },
+    {
+        "name": "ASUS ROG RYUJIN III EXTREME 360 ARGB OLED 360mm SIVI SOĞUTUCU",
+        "price": 20919,
+        "url": "https://www.vatanbilgisayar.com/asus-rog-ryujin-iii-extreme-360-argb-oled-360-mm-l-1700p-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4, Soket 1200",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:38"
+    },
+    {
+        "name": "MSI MAG CORELIQUID E360 WHITE  360 mm Intel (1700p)-AMD Uyumlu Sıvı Soğutucu",
+        "price": 5329,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-coreliquid-e360-argb-white-360-mm-intel-1700p-amd-uyumlu-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "120x120x25 mm / 4,7x4,7x0,98 inç",
+            "Fan Sayısı": "3",
+            "Hava Akımı Maks.": "25,5~75,04 CFM",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Radyatör Boyutu": "394x119,2x27 mm / 15,51x4,69x1,06 inç"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:41"
+    },
+    {
+        "name": "MSI MAG CORELIQUID I360 WHITE 360mm ARGB SIVI SOĞUTMA SİSTEMİ",
+        "price": 6699,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-coreliquid-i360-white-360mm-argb-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:45"
+    },
+    {
+        "name": "RAMPAGE HELIOS C2 BEYAZ 240 2x120mm RAINBOW FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 3589,
+        "url": "https://www.vatanbilgisayar.com/rampage-helios-c2-beyaz-240-2x120mm-rainbow-fanli-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Pompa Dönüş Hızı": "2600±10% RPM",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket AM2, Soket AM3, Soket AM3+, Soket FM2, Soket 1700, Soket AM5, Soket AM2+, Soket FM1, Soket 2011, Soket AM4, Soket 2066, Soket 1200",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "120x120x25mm",
+            "Fan Sayısı": "2",
+            "Hava Akımı Maks.": "68",
+            "Ses Seviyesi": "23 dB",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "Rainbow(Çoklu Renk)",
+            "Fan Hızı": "1800 RPM",
+            "Pompa Boyutu": "75x55 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:48"
+    },
+    {
+        "name": "ASUS ROG RYUJIN III EXTREME BEYAZ 360 ARGB OLED 360mm SIVI SOĞUTUCU",
+        "price": 21799,
+        "url": "https://www.vatanbilgisayar.com/asus-rog-ryujin-iii-extreme-beyaz-360-argb-oled-360mm-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4, Soket 1200",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:51"
+    },
+    {
+        "name": "ASUS TUF GAMING TF120 ARGB 120mm TEKLİ KASA FANI BEYAZ",
+        "price": 1419,
+        "url": "https://www.vatanbilgisayar.com/asus-tuf-gaming-tf120-argb-120mm-tekli-kasa-fani-beyaz.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Hava Soğutma"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:54"
+    },
+    {
+        "name": "ASUS PRIME MR120 ARGB 120mm TEKLİ BEYAZ KASA FANI",
+        "price": 1069,
+        "url": "https://www.vatanbilgisayar.com/asus-prime-mr120-argb-120mm-tekli-beyaz-kasa-fani.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Fan",
+            "Fan Sayısı": "1",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:18:56"
+    },
+    {
+        "name": "COOLER MASTER HYPER 212 3DHP SİYAH 1x120mm INTEL1851/AM5 Uyumlu CPU Soğutucu",
+        "price": 1969,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-hyper-212-3dhp-siyah-1x120mm-intel1851-am5-uyumlu-cpu-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Hava Soğutma",
+            "Fan Sayısı": "1",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:00"
+    },
+    {
+        "name": "COOLER MASTER MASTERLIQUID ML240L V2 2x120mm RGB LED SIVI SOĞUTMA SİSTEMİ",
+        "price": 4479,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-masterliquid-ml240l-v2-120mmx2-rgb-led-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Ağırlık": "1,34 kg",
+            "Ambalaj genişliği": "235 mm",
+            "Paket ağırlığı": "1,34 kg",
+            "Ambalaj derinliği": "327 mm",
+            "Ambalaj yüksekliği": "139 mm",
+            "Fan kalınlığı": "2,5 cm",
+            "Radyatör genişliği": "12 cm",
+            "Radyatör derinliği": "27,7 cm",
+            "Radyatör uzunluğu": "2,72 cm",
+            "Pompa genişliği": "7,6 cm",
+            "Pompa derinliği": "7,99 cm",
+            "Pompa yüksekliği": "4,71 cm",
+            "Tip": "Hepsi dahil sıvı soğutma",
+            "Fan çapı": "12 cm",
+            "Odalar": "İşlemci",
+            "Maksimum hava basıncı": "2,5 mmH2O",
+            "Maksimum hava akımı": "62 cfm",
+            "Fan hızı (maksimum)": "1800 RPM",
+            "Fan hızı (minimum)": "650 RPM",
+            "Pompa konektörü": "3-pim",
+            "Pompa gürültü seviyesi": "15 dB",
+            "Fan bearing technology": "Yivli yatak",
+            "Fan sayısı": "2 fan(lar)",
+            "Ürün rengi": "Siyah",
+            "Işıklandırma rengi": "Mavi, Yeşil, Kırmızı",
+            "Fan bağlantısı": "4-pim",
+            "Radyatör malzemesi": "Alüminyum",
+            "Aydınlatma LED'i": "Var",
+            "Pompa voltajı": "12 V",
+            "Fan voltajı": "12 V",
+            "Fan akımı": "0,15 A",
+            "Termal Tasarım Gücü": "200 W",
+            "Pompa güç tüketimi": "2,36 W"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:03"
+    },
+    {
+        "name": "XIGMATEK STARZ 3x120mm S20A ARGB FAN + KUMANDALI KASA FAN KİTİ",
+        "price": 1559,
+        "url": "https://www.vatanbilgisayar.com/xigmatek-starz-3x120mm-s20a-argb-fan-kumandali-kasa-fan-kiti.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Fan"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:06"
+    },
+    {
+        "name": "COOLER MASTER MASTERLIQUID CORE NEX ML240 2x120mm ARGB BEYAZ SIVI SOĞUTMA SİSTEMİ",
+        "price": 4789,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-masterliquid-core-nex-ml240-spectrum-2x120mm-argb-beyaz-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "120 mm",
+            "Fan Sayısı": "2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:10"
+    },
+    {
+        "name": "THERMALTAKE LA360-S LCD Ekran ARGB LED Fanlı 360mm Intel/AMD Uyumlu Sıvı Soğutma Sistemi",
+        "price": 5749,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-la360-s-lcd-ekran-argb-led-fanli-360mm-intel-amd-uyumlu-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Var"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:13"
+    },
+    {
+        "name": "THERMALTAKE UX210 120mm ARGB PWM FAN AM4/İntel Uyumlu İşlemci Soğutucu",
+        "price": 3299,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-ux210-120mm-argb-pwm-fan-am4-intel-uyumlu-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Tip": "Soğutucu",
+            "MTBF aralığı": "30000 Saat",
+            "Odalar": "İşlemci",
+            "Fan çapı": "12 cm",
+            "Maksimum hava akımı": "72,3 cfm",
+            "Maksimum hava basıncı": "2,31 mmH2O",
+            "Dönme hızı (maks)": "2000 RPM",
+            "Dönme hızı (min)": "600 RPM",
+            "Güç tüketimi": "3,12 W",
+            "Ölçülen hat akımı": "0,26 A",
+            "Anma gerilimi": "12 V",
+            "Başlangıç ??voltajı": "9 V",
+            "Malzeme": "Alüminyum, Fıçı",
+            "Ürün rengi": "Siyah, Beyaz",
+            "Fan sayısı": "1 fan(lar)",
+            "Fan bağlantısı": "4-pim",
+            "Derinlik": "136 mm",
+            "Yükseklik": "153 mm",
+            "Genişlik": "74 mm",
+            "Fan boyutları (G x D x Y)": "120 x 120 x 25 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:16"
+    },
+    {
+        "name": "RAMPAGE INFINITE C120 BEYAZ ARGB 1x120mm FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 1969,
+        "url": "https://www.vatanbilgisayar.com/rampage-infinite-c120-beyaz-argb-1x120mm-fanli-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:19"
+    },
+    {
+        "name": "COOLER MASTER 622 HALO SİYAH 1x120mm Intel1851/ 1700/AM5 CPU Soğutucu",
+        "price": 3849,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-622-halo-siyah-120mm-intel-1700-am5-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:22"
+    },
+    {
+        "name": "ASUS PRIME MR120 ARGB 120mm REVERSE TEKLİ BEYAZ KASA FANI",
+        "price": 1069,
+        "url": "https://www.vatanbilgisayar.com/asus-prime-mr120-argb-120mm-reverse-tekli-siyah-kasa-fani-154607.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Fan",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:25"
+    },
+    {
+        "name": "ASUS ROG RYUO III 240 ARGB 2x120mm Fanlı Beyaz Sıvı Soğutucu",
+        "price": 7799,
+        "url": "https://www.vatanbilgisayar.com/asus-rog-ryuo-iii-240-argb-2x120mm-fanli-beyaz-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Pompa Dönüş Hızı": "2600 RPM",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4, Soket 1200",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Ses Seviyesi": "36.4 dB",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB",
+            "Fan Boyutları": "120x120x25 mm",
+            "Fan Hızı": "500~2000 RPM (2510-4PIN)"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:28"
+    },
+    {
+        "name": "COUGAR AQUA ARGB 280 2x140mm FANLI İŞLEMCİ SIVI SOĞUTUCU",
+        "price": 5389,
+        "url": "https://www.vatanbilgisayar.com/cougar-aqua-rgb-280-2x140mm-fanli-islemci-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "60 Ay",
+            "Tip": "Hepsi dahil sıvı soğutma",
+            "İşlemcilerle uyumlu": "Intel® Core™ i3, Intel® Core™ i5, Intel® Core™ i7, Intel® Core™ i9",
+            "Fan çapı": "14 cm",
+            "Dönme hızı (maks)": "1800 RPM",
+            "Odalar": "İşlemci",
+            "Maksimum hava akımı": "98,39 cfm",
+            "Maksimum hava basıncı": "2,21 mmH2O",
+            "Dönme hızı (min)": "500 RPM",
+            "Güç tüketimi": "3 W",
+            "Ölçülen hat akımı": "0,4 A",
+            "Anma gerilimi": "12 V",
+            "Paket ağırlığı": "2,17 kg",
+            "Kablo uzunluğu": "0,6 metre",
+            "Ambalaj genişliği": "183 mm",
+            "Ambalaj derinliği": "369 mm",
+            "Ambalaj yüksekliği": "171 mm",
+            "Fan boyutları (G x D x Y)": "140 x 140 x 25 mm",
+            "Malzeme": "Alüminyum, Fıçı",
+            "Ürün rengi": "Siyah",
+            "Fan sayısı": "2 fan(lar)",
+            "Fan bağlantısı": "4-pim",
+            "Radyatör malzemesi": "Alüminyum",
+            "Aydınlatma LED'i": "Var"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:32"
+    },
+    {
+        "name": "ZALMAN Double Ring 120mm 1300RPM ARGB EBR Bearing Kasa Fanı",
+        "price": 629,
+        "url": "https://www.vatanbilgisayar.com/zalaman-double-ring-120mm-1300rpm-argb-ebr-bearing-kasa-fani.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Radyatör Desteği (Üst)": "120mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:35"
+    },
+    {
+        "name": "COOLER MASTER MASTERLIQUID CORE II 360 ARGB LED FANLI İŞLEMCİ SIVI SOĞUTMA",
+        "price": 6089,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-masterliquid-ii-360-argb-led-fanli-islemci-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:38"
+    },
+    {
+        "name": "XIGMATEK STARLINK ARCTIC 3x12cm Beyaz Mini ARGB Fan Kontolcü Fan Kiti",
+        "price": 2049,
+        "url": "https://www.vatanbilgisayar.com/xigmatek-starlink-arctic-3x12cm-beyaz-mini-argb-fan-kontolcu-fan-kiti.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soğutma Tipi": "Fan"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:42"
+    },
+    {
+        "name": "BITFENIX KUZY SİYAH LGA1851/AM5 2x120mm ARGB Fan 240mm Dijital Göstergeli Sıvı Soğutma",
+        "price": 4129,
+        "url": "https://www.vatanbilgisayar.com/bitfenix-kuzy-siyah-lga1851-am5-2x120mm-argb-fan-240mm-dijital-gostergeli-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Var"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:45"
+    },
+    {
+        "name": "COUGAR VORTEX VK120 3x120mm ARGB HDB KASA FAN KİTİ",
+        "price": 2699,
+        "url": "https://www.vatanbilgisayar.com/cougar-vortex-vk120-1x120mm-rgb-hdb-kasa-fani.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Fan",
+            "Fan Boyutu": "120mm",
+            "Fan Sayısı": "3",
+            "Hava Akımı Maks.": "48,98 CFM ± %10",
+            "Ses Seviyesi": "29,8 dBA",
+            "Fan Tipi": "ARGB",
+            "Boyut": "120 x 120 x 25 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:48"
+    },
+    {
+        "name": "THERMALTAKE TOUGHLIQUID 420 EX PRO SİYAH ARGB Fanlı 420mm Intel/AM5 Uyumlu Sıvı Soğutucu",
+        "price": 10959,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-toughliquid-420-ex-pro-siyah-argb-fanli-420mm-intel-am5-uyumlu-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "420mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:51"
+    },
+    {
+        "name": "XIGMATEK WINDPOWER 964 RGB ARCTIC Beyaz LGA1700/AM5 90MM RGB PWM SOĞUTMALI FAN",
+        "price": 1959,
+        "url": "https://www.vatanbilgisayar.com/xigmatek-windpower-964-rgb-arctic-beyaz-lga1700-am5-90mm-rgb-pwm-sogutmali-fan.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:55"
+    },
+    {
+        "name": "ASUS ROG RYUJIN III 240 ARGB OLED 2x120mm FAN 240mm BEYAZ SIVI SOĞUTUCU",
+        "price": 8509,
+        "url": "https://www.vatanbilgisayar.com/asus-rog-ryujin-iii-240-argb-beyaz-oled-360-mm-l-1700p-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket AM5, Soket 1851, Soket AM4, Soket 1200, Soket 1700",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:19:58"
+    },
+    {
+        "name": "FAZEON A3120TRA 120MM RGB KULE TİPİ İŞLEMCİ SOĞUTUCU",
+        "price": 1009,
+        "url": "https://www.vatanbilgisayar.com/fazeon-a3120tra-120mm-rgb-kule-tipi-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4, Soket 1200",
+            "Soğutma Tipi": "Hava Soğutma",
+            "Fan Sayısı": "1",
+            "Fan Tipi": "RGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:01"
+    },
+    {
+        "name": "ASUS PRIME LC 360 ARGB LCD 360mm INTEL/AMD Uyumlu Sıvı Soğutucu",
+        "price": 8109,
+        "url": "https://www.vatanbilgisayar.com/asus-prime-lc-360-argb-lcd-360mm-intel-amd-uyumlu-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4, Soket 1200",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Var"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:04"
+    },
+    {
+        "name": "ZALMAN ALPHA2 DS A36 SİYAH 71 CFM 3x120mm ARGB AMD/Intel 360mm SIVI SOĞUTUCU",
+        "price": 11219,
+        "url": "https://www.vatanbilgisayar.com/zalman-alpha2-ds-siyah-71-cfm-3x120mm-argb-amd-intel-360mm-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:07"
+    },
+    {
+        "name": "RAZER KUNAI RGB FAN 140MM 3FAN",
+        "price": 6559,
+        "url": "https://www.vatanbilgisayar.com/razer-kunai-rgb-fan-140mm-3fan.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:09"
+    },
+    {
+        "name": "COOLER MASTER HYPER 212 BLACK X DUO 2x120mm  Intel1851/ 1700/AM5 CPU Soğutucu",
+        "price": 2599,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-hyper-212-x-dou-siyah-120mm-intel1700-amd-am5-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket AM5, Soket AM5, Soket 1700",
+            "Fan Sayısı": "1",
+            "Radyatör Desteği (Üst)": "120mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:12"
+    },
+    {
+        "name": "COOLER MASTER HYPER 212 SPECTRUM V3 1x120mm ARGB Intel1851/ 1700/AM5 CPU Soğutucu",
+        "price": 1969,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-hyper-212-spectrum-v3-120cm-argb-intel-am4-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Fan Sayısı": "1",
+            "Radyatör Desteği (Üst)": "120mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:16"
+    },
+    {
+        "name": "XIGMATEK FENIX II 240 ARCTIC BEYAZ LGA1700/AM5 2x120mm ARGB Fan 240mm Sıvı Soğutma",
+        "price": 3659,
+        "url": "https://www.vatanbilgisayar.com/xigmatek-fenix-ii-240-arctic-beyaz-lga1700-am5-2x120mm-argb-fan-240mm-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:19"
+    },
+    {
+        "name": "BITFENIX KUZY BEYAZ LGA1851/AM5 3x120mm ARGB Fan 360mm Dijital Göstergeli Sıvı Soğutma",
+        "price": 5239,
+        "url": "https://www.vatanbilgisayar.com/bitfenix-kuzy-beyaz-lga1851-am5-3x120mm-argb-fan-360mm-dijital-gostergeli-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Var"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:22"
+    },
+    {
+        "name": "THERMALTAKE UX100 120mm ARGB FANLI AMD4/INTEL UYUMLU İŞLEMCİ SOĞUTUCU",
+        "price": 1139,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-ux100-120mm-argb-fanlii-amd4-intel-uyumlu-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Tip": "Soğutucu",
+            "İşlemcilerle uyumlu": "AMD A, AMD Athlon, AMD Ryzen, Intel® Celeron®, Intel® Core™ i3, Intel® Core™ i5, Intel® Core™ i7, Intel® Pentium®",
+            "Fan çapı": "12 cm",
+            "Maksimum hava akımı": "38,82 cfm",
+            "Dönme hızı (maks)": "1800 RPM",
+            "Odalar": "İşlemci",
+            "Genişlik": "122,3 mm",
+            "Yükseklik": "66,1 mm",
+            "Derinlik": "122,3 mm",
+            "Fan boyutları (G x D x Y)": "120 x 120 x 25 mm",
+            "Güç gereksinimleri": "4,2 W",
+            "Ölçülen hat akımı": "0,35 A",
+            "Başlangıç ??voltajı": "6 V",
+            "Fan sayısı": "1 fan(lar)",
+            "Ürün rengi": "Siyah",
+            "LEDlerin sayısı": "15",
+            "Işıklandırma rengi": "Mavi, Yeşil, Kırmızı",
+            "Aydınlatma LED'i": "Var",
+            "Kanatçık malzemesi": "Alüminyum",
+            "Fan anma gerilimi": "12 V"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:25"
+    },
+    {
+        "name": "RAMPAGE INFINITE C30 SIYAH LGA1851/LGA1700/AM5 3x12cm ARGB Fan 360mm SIVI SOĞUTMA",
+        "price": 5159,
+        "url": "https://www.vatanbilgisayar.com/rampage-infinite-c30-siyah-lga1851-lga1700-am5-3x12cm-argb-fan-360mm-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:27"
+    },
+    {
+        "name": "FAZEON A1120LRA 120MM RGB İŞLEMCİ SOĞUTUCU",
+        "price": 389,
+        "url": "https://www.vatanbilgisayar.com/fazeon-a1120lra-120mm-rgb-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4, Soket 1200",
+            "Soğutma Tipi": "Hava Soğutma",
+            "Fan Sayısı": "1",
+            "Fan Tipi": "RGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:30"
+    },
+    {
+        "name": "COOLER MASTER HYPER 212 3DHP SİYAH ARGB 1x120mm INTEL1851/AM5 Uyumlu CPU Soğutucu",
+        "price": 2189,
+        "url": "https://www.vatanbilgisayar.com/cooler-hyper-212-3dhp-siyah-argb-1x120mm-intel1851-am5-uyumlu-cpu-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Hava Soğutma",
+            "Fan Sayısı": "1",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:33"
+    },
+    {
+        "name": "MSI MAG CORELIQUID I240 240mm ARGB SIVI SOĞUTMA SİSTEMİ",
+        "price": 4709,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-coreliquid-i240-240mm-argb-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:37"
+    },
+    {
+        "name": "RAMPAGE XTP-002 31*50*0,2mm 22.5w/m.K Yüksek Performanslı Thermal Pad",
+        "price": 169,
+        "url": "https://www.vatanbilgisayar.com/rampage-xtp-002-31-50-0-2mm-22-5w-m-k-yuksek-performansli-thermal-pad.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Thermal Pad"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:39"
+    },
+    {
+        "name": "COUGAR POSEIDON ELITE ARGB 360 3x120mm FANLI İŞLEMCİ SIVI SOĞUTUCU",
+        "price": 4899,
+        "url": "https://www.vatanbilgisayar.com/cougar-poseidon-elite-argb-360-3x120mm-fanli-islemci-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:42"
+    },
+    {
+        "name": "COOLER MASTER HYPER 212 HALO BEYAZ 1x120mm Intel1851/ 1700/AM5 CPU Soğutucu",
+        "price": 2079,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-hyper-212-halo-beyaz-120-mm-intel-1700p-amd-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:46"
+    },
+    {
+        "name": "RAMPAGE HELIOS C1 SİYAH 120 1x120mm RAINBOW FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 2289,
+        "url": "https://www.vatanbilgisayar.com/rampage-helios-c1-1x120mm-rainbow-fanli-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "İşlemci Soket Uyumluluk": "AMD AM5/INTEL LGA1700",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "120mm",
+            "Fan Sayısı": "1",
+            "Radyatör Desteği (Üst)": "120mm",
+            "Fan Tipi": "LED"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:49"
+    },
+    {
+        "name": "RAMPAGE INFINITE C120 SİYAH ARGB 1x120mm FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 1869,
+        "url": "https://www.vatanbilgisayar.com/rampage-infinite-c120-siyah-argb-1x120mm-fanli-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:51"
+    },
+    {
+        "name": "COOLER MASTER 622 HALO BEYAZ 1x120mm Intel1851/ 1700/AM5 CPU Soğutucu",
+        "price": 3849,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-622-halo-beyaz-120mm-intel-1700-am5-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:54"
+    },
+    {
+        "name": "ZALMAN WHITE 12cm 1800RPM ARGB Fan LGA1700/AM5 Uyumlu Hava Soğutmalı CPU Fan",
+        "price": 3009,
+        "url": "https://www.vatanbilgisayar.com/zalman-white-12cm-1800rpm-argb-fan-lga1700-am5-uyumlu-hava-sogutmali-cpu-fan.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:20:58"
+    },
+    {
+        "name": "THERMALTAKE SWAFAN Duo ARGB 3x120mm Fanlı + Kontrolcülü Kasa Fan Kiti",
+        "price": 7709,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-swafan-duo-argb-3x120mm-fanli-kontrolculu-kasa-fan-kiti.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Fan Boyutu": "120mm",
+            "Fan Hızı": "500 ~ 2000 R.P.M",
+            "Ağırlık": "1078 g",
+            "Genişlik": "184 mm",
+            "Yükseklik": "129 mm",
+            "Derinlik": "162 mm",
+            "Fan Anma Gerilimi": "12 V"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:01"
+    },
+    {
+        "name": "ASUS ROG RYUO III 360 ARGB 3x120mm Fanlı Sıvı Soğutucu",
+        "price": 16769,
+        "url": "https://www.vatanbilgisayar.com/asus-rog-ryuo-iii-360-argb-3x120mm-fanli-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket AM5, Soket 1851, Soket AM4, Soket 1200, Soket 1700",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "120mm",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:04"
+    },
+    {
+        "name": "CORSAIR NAUTILUS 240 RS 2x120mm ARGB 240mm SİYAH SIVI SOĞUTMA SİSTEMİ",
+        "price": 3499,
+        "url": "https://www.vatanbilgisayar.com/corsair-nautilus-240-rs-2x120mm-argb-240mm-siyah-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:07"
+    },
+    {
+        "name": "THERMALTAKE Floe, Water 3.0 Serisi için ıntel LGA 1700 Upgrade Kiti",
+        "price": 719,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-floe-water-3-0-serisi-icin-intel-lga-1700-upgrade-kiti.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700",
+            "Soğutma Tipi": "Sıvı Soğutma"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:11"
+    },
+    {
+        "name": "MSI MAG CORELIQUID I360 360mm ARGB SIVI SOĞUTMA SİSTEMİ",
+        "price": 6669,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-coreliquid-i360-360mm-argb-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:14"
+    },
+    {
+        "name": "MSI MAG CORELIQUID 360R V2 3x120mm ARGB FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 6309,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-coreliquid-360r-v2-3x120mm-argb-fanli-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket AM2, Soket AM3, Soket AM3+, Soket FM2, Soket AM2+, Soket 1156, Soket 1150, Soket FM2+, Soket 2011-V3, Soket 1155, Soket FM1, Soket AM4, Soket 2011, Soket 1151-V.2, Soket 2066, Soket 1200, Soket 1700",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "120mm",
+            "Fan Sayısı": "2",
+            "Hava Akımı Maks.": "1.63 ~ 78.73 CFM",
+            "Ses Seviyesi": "14.3 ~ 34.3 dBA",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:17"
+    },
+    {
+        "name": "COOLER MASTER CRYOFUSE 5 SIYAH THERMAL MACUN",
+        "price": 499,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-cryofuse-violet-5-siyah-thermal-macun.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soğutma Tipi": "Thermal Macun"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:20"
+    },
+    {
+        "name": "MSI MAG CORELIQUID M240 240mm Sıvı İşlemci Soğutucu",
+        "price": 4329,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-coreliquid-m240-240mm-sivi-islemci-sogutucusu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Radyatör Desteği (Üst)": "240mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:23"
+    },
+    {
+        "name": "XIGMATEK LK 360 ARCTIC BEYAZ LGA1851/AM5 3x120mm ARGB Fan LCD Ekranlı 360mm Sıvı Soğutma",
+        "price": 5619,
+        "url": "https://www.vatanbilgisayar.com/xigmatek-lk-360-arctic-beyaz-lga1851-am5-3x120mm-argb-fan-lcd-ekranli-360mm-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:26"
+    },
+    {
+        "name": "COUGAR MHP120 ARGB 3x120mm 3'lü FAN",
+        "price": 3509,
+        "url": "https://www.vatanbilgisayar.com/cougar-mhp120-argb-3x120mm-3-lu-fan.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Fan",
+            "Fan Sayısı": "3"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:29"
+    },
+    {
+        "name": "THERMALTAKE SWAFAN EX12 ARGB 3x120mm Fanlı + Kontrolcülü Kasa Fan Kiti",
+        "price": 9379,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-swafan-ex12-argb-3x120mm-fanli-kontrolculu-kasa-fan-kiti.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Fan",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "120mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:32"
+    },
+    {
+        "name": "MSI MAG CORELIQUID E240 WHITE 240mm İşlemci Sıvı Soğutucusu",
+        "price": 4379,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-coreliquid-e240-white-240mm-islemci-sivi-sogutucusu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Radyatör Desteği (Üst)": "240mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:35"
+    },
+    {
+        "name": "COOLER MASTER MASTERFAN  MF140 HALO2 2 ARGB 1x140mm ARGB LED Kasa Fanı",
+        "price": 959,
+        "url": "https://www.vatanbilgisayar.com/master-masterfan-halo2-mf140-cift-argb-led-120mm-kasa-fani.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soğutma Tipi": "Fan",
+            "Fan Boyutu": "140mm",
+            "Fan Sayısı": "1",
+            "Hava Akımı Maks.": "59.51 CFM",
+            "Ses Seviyesi": "27 dBA",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:39"
+    },
+    {
+        "name": "THERMALTAKE TOUGHLIQUID 360 EX PRO SİYAH ARGB Fanlı 360mm Intel/AM5 Uyumlu Sıvı Soğutucu",
+        "price": 9529,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-toughliquid-360-ex-pro-siyah-argb-fanli-360mm-intel-am-uyumlu-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:41"
+    },
+    {
+        "name": "COOLER MASTER MASTERLIQUID CORE NEX ML360 3x120mm ARGB SIVI SOĞUTMA SİSTEMİ",
+        "price": 5749,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-masterliquid-core-nex-ml360-3x120mm-argb-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "120 mm",
+            "Fan Sayısı": "3"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:45"
+    },
+    {
+        "name": "RAZER KUNAI RGB FAN 140MM 1FAN",
+        "price": 2249,
+        "url": "https://www.vatanbilgisayar.com/razer-kunai-rgb-fan-140mm-1fan.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:47"
+    },
+    {
+        "name": "COUGAR AQUA 240 2x120mm FANLI İŞLEMCİ SIVI SOĞUTUCU",
+        "price": 3549,
+        "url": "https://www.vatanbilgisayar.com/cougar-aqua-240-2x120mm-fanli-rgb-islemci-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Gürültü seviyesi": "35 dB",
+            "Tüp malzemesi": "Kauçuk",
+            "Termal gres": "Var",
+            "Tip": "Hepsi dahil sıvı soğutma",
+            "Odalar": "İşlemci",
+            "İşlemcilerle uyumlu": "Intel® Core™ i3, Intel® Core™ i5, Intel® Core™ i7",
+            "Maksimum hava basıncı": "2,52 mmH2O",
+            "Pompa motor hızı": "3200 RPM",
+            "Fan hızı (maksimum)": "1800 RPM",
+            "Maksimum hava akımı": "70,64 cfm",
+            "Fan hızı (minimum)": "600 RPM",
+            "Pompa konektörü": "4-pim",
+            "Fan bearing technology": "Hidrolik rulman",
+            "Parlaklık ayarı": "Var",
+            "Malzeme": "Alüminyum, Bakır, Kauçuk",
+            "Fan sayısı": "2 fan(lar)",
+            "Ürün rengi": "Siyah",
+            "Işıklandırma rengi": "Çok aşamalı",
+            "Taban plakası malzemesi": "Bakır",
+            "Radyatör malzemesi": "Alüminyum",
+            "Aydınlatma LED'i": "Var",
+            "Pompa akımı": "0,39 mA",
+            "Pompa voltajı": "12 V",
+            "Fan voltajı": "12 V",
+            "Fan akımı": "0,4 A",
+            "Fan güç tüketimi": "2,88 W",
+            "Pompa güç tüketimi": "4,68 W",
+            "Fan boyutları (G x D x Y)": "120 x 120 x 250,4 mm",
+            "Radyatör genişliği": "27,4 cm",
+            "Radyatör derinliği": "12 cm",
+            "Radyatör uzunluğu": "2,7 cm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:50"
+    },
+    {
+        "name": "COUGAR VORTEX 3x120mm RGB SPB KASA FAN KİTİ",
+        "price": 5469,
+        "url": "https://www.vatanbilgisayar.com/cougar-vortex-3x120mm-rgb-spb-fan-kiti.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soğutma Tipi": "Fan",
+            "Fan Boyutu": "120mm",
+            "Fan Sayısı": "3",
+            "Hava Akımı Maks.": "43,54 CFM 73,94 m3/h",
+            "Ses Seviyesi": "26 dBA",
+            "Fan Tipi": "RGB",
+            "Boyut": "120 x 120 x 25 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:54"
+    },
+    {
+        "name": "THERMALTAKE Toughliquid 240 2x120mm Toughfanlı ARGB Sıvı Soğutucu",
+        "price": 7899,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-toughliquid-240-2x120mm-argb-toughfanli-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Odalar": "İşlemci",
+            "Tip": "Hepsi dahil sıvı soğutma",
+            "Maksimum hava akımı": "58,35 cfm",
+            "Fan hızı (maksimum)": "2000 RPM",
+            "Maksimum hava basıncı": "2,41 mmH2O",
+            "Fan hızı (minimum)": "500 RPM",
+            "Ürün rengi": "Siyah",
+            "Su bloklama malzemesi": "Bakır",
+            "Fan sayısı": "2 fan(lar)",
+            "Işıklandırma rengi": "Çok aşamalı",
+            "Fan bağlantısı": "4-pim",
+            "Radyatör malzemesi": "Alüminyum",
+            "Aydınlatma LED'i": "Var",
+            "Pompa voltajı": "12 V",
+            "Fan voltajı": "12 V",
+            "Pompa akımı": "380 mA",
+            "Fan akımı": "0,12 A",
+            "Tüp malzemesi": "Kauçuk",
+            "Radyatör derinliği": "2,7 cm",
+            "Tüp uzunluğu": "40 cm",
+            "Radyatör genişliği": "27,3 cm",
+            "Radyatör uzunluğu": "12 cm",
+            "Fan boyutları (G x D x Y)": "120 x 25 x 120 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:21:57"
+    },
+    {
+        "name": "THERMALTAKE PURE PLUS 360mm ADRESLENEBİLİR 3x120mm RGB LED'Lİ FAN KONTROLLÜ KASA FAN",
+        "price": 2939,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-pure-plus-adreslenebilir-3x120mm-rgb-led-li-fan-kontrollu-kasa-fan.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:00"
+    },
+    {
+        "name": "POWER BOOST DEEP 240mm (LGA1700/AM4/AM5) ARGB BEYAZ FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 3759,
+        "url": "https://www.vatanbilgisayar.com/power-boost-deep-240mm-lga1700-am4-am5-argb-beyaz-fanli-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1151-V.2, Soket 1150, Soket 1155, Soket AM4, Soket 1200",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "120mm",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:04"
+    },
+    {
+        "name": "COOLER MASTER MASTERFAN MF120 HALO2 2 ARGB 1x120mm ARGB LED Kasa Fanı",
+        "price": 979,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-masterfan-halo2-mf120-cift-argb-led-120mm-kasa-fani.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Fan Boyutu": "120",
+            "Fan Sayısı": "1",
+            "Fan Hava Akışı": "51.88 CFM",
+            "Fan Boyutları": "120x120x25 mm",
+            "Fan Ses Seviyesi": "27 dBA",
+            "Ağırlık": "174 g",
+            "Fan Anma Gerilimi": "12 V"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:07"
+    },
+    {
+        "name": "COOLER MASTER MASTERLIQUID CORE NEX ML240 2x120mm ARGB SIVI SOĞUTMA SİSTEMİ",
+        "price": 4789,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-masterliquid-core-nex-ml240-spectrum-2x120mm-argb-led-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "120 mm",
+            "Fan Sayısı": "2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:10"
+    },
+    {
+        "name": "THERMALTAKE TH360 V3 Beyaz ARGB Led Fanlı 360mm LGA1700/AM5 Serisi Uyumlu Sıvı Soğutucu",
+        "price": 5129,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-th360-v3-beyaz-argb-led-fanli-360mm-lga1700-am5-serisi-uyumlu-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Boyutu": "120 mm",
+            "Fan Sayısı": "3",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:13"
+    },
+    {
+        "name": "ASUS TUF GAMING TR120 ARGB 120mm REVERSE TEKLİ KASA FANI BEYAZ",
+        "price": 1299,
+        "url": "https://www.vatanbilgisayar.com/asus-tuf-tr120-argb-120mm-reverse-kasa-fani-beyaz.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:15"
+    },
+    {
+        "name": "THERMALTAKE TH420 V2 ARGB Led Fanlı 420mm Intel/AM5 Serisi Uyumlu Sıvı Soğutucu",
+        "price": 9719,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-th420-v2-argb-led-fanli-420mm-intel-am5-serisi-uyumlu-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "420mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:19"
+    },
+    {
+        "name": "RAMPAGE 6C-121 1x120mm RAINBOW FAN",
+        "price": 229,
+        "url": "https://www.vatanbilgisayar.com/rampage-6c-121-1x120mm-rainbow-fan.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soğutma Tipi": "Hava Soğutma"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:21"
+    },
+    {
+        "name": "MSI MPG EZ120 ARGB BLACK 1x120mm 120mm Manyetik Kasa Fanı",
+        "price": 2209,
+        "url": "https://www.vatanbilgisayar.com/msi-mpg-ez120-argb-black-1x120mm-120mm-manyetik-kasa-fani.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Fan",
+            "Fan Sayısı": "1",
+            "Radyatör Desteği (Üst)": "120mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:25"
+    },
+    {
+        "name": "ASUS PRIME MR120 ARGB 120mm ÜÇLÜ SİYAH KASA FANI",
+        "price": 2869,
+        "url": "https://www.vatanbilgisayar.com/asus-prime-mr120-argb-120mm-uclu-siyah-kasa-fani.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soğutma Tipi": "Fan",
+            "Fan Sayısı": "3",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:28"
+    },
+    {
+        "name": "COUGAR AQUA 360 3x120mm FANLI İŞLEMCİ SIVI SOĞUTUCU",
+        "price": 4969,
+        "url": "https://www.vatanbilgisayar.com/cougar-aqua-360-3x120mm-fanli-islemci-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Tip": "Hepsi dahil sıvı soğutma",
+            "Odalar": "İşlemci",
+            "İşlemcilerle uyumlu": "Intel® Core™ i3, Intel® Core™ i5, Intel® Core™ i7",
+            "Maksimum hava akımı": "70,64 cfm",
+            "Maksimum hava basıncı": "2,1 mmH2O",
+            "Pompa motor hızı": "3200 RPM",
+            "Fan hızı (maksimum)": "1800 RPM",
+            "Fan hızı (minimum)": "600 RPM",
+            "Pompa konektörü": "4-pim",
+            "Fan bearing technology": "Hidrolik rulman",
+            "Ürün rengi": "Siyah",
+            "Malzeme": "Alüminyum, Bakır, Kauçuk",
+            "Parlaklık ayarı": "Var",
+            "Fan sayısı": "3 fan(lar)",
+            "Işıklandırma rengi": "Çok aşamalı",
+            "Taban plakası malzemesi": "Bakır",
+            "Radyatör malzemesi": "Alüminyum",
+            "Aydınlatma LED'i": "Var",
+            "Gürültü seviyesi": "35 dB",
+            "Tüp malzemesi": "Kauçuk",
+            "Termal gres": "Var",
+            "Pompa voltajı": "12 V",
+            "Pompa akımı": "0,39 mA",
+            "Fan voltajı": "12 V",
+            "Fan güç tüketimi": "1,92 W",
+            "Fan akımı": "0,4 A",
+            "Pompa güç tüketimi": "4,68 W",
+            "Radyatör genişliği": "39,4 cm",
+            "Radyatör derinliği": "12 cm",
+            "Radyatör uzunluğu": "2,7 cm",
+            "Tüp uzunluğu": "40 cm",
+            "Fan boyutları (G x D x Y)": "120 x 120 x 25 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:31"
+    },
+    {
+        "name": "XIGMATEK POWERFUL THERMAL MACUN",
+        "price": 269,
+        "url": "https://www.vatanbilgisayar.com/xigmatek-powerful-thermal-macun.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Çalışma ısısı aralığı": "-20 - 180 °C",
+            "Ürün rengi": "Gri",
+            "Vizkozite": "51 CPS",
+            "Termal iletkenlik": "5 W/m·K"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:34"
+    },
+    {
+        "name": "ASUS ROG RYUJIN III 240 ARGB OLED 2x120mm FAN 240mm SİYAH SIVI SOĞUTUCU",
+        "price": 8089,
+        "url": "https://www.vatanbilgisayar.com/asus-rog-ryujin-iii-240-argb-240-mm-intel-1700p-amd-uyumlu-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4, Soket 1200",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:37"
+    },
+    {
+        "name": "ZALMAN ALPHA2 DS A36 BEYAZ 71 CFM 3x120mm ARGB AMD/Intel 360mm SIVI SOĞUTUCU",
+        "price": 11489,
+        "url": "https://www.vatanbilgisayar.com/zalman-alpha2-ds-a36-beyaz-71-cfm-3x120mm-argb-amd-intel-360mm-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:40"
+    },
+    {
+        "name": "ZALMAN ZM-STC8 TERMAL MACUN",
+        "price": 269,
+        "url": "https://www.vatanbilgisayar.com/zalman-zm-stc8-termal-macun.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Çalışma ısısı aralığı": "-40 - 200 °C",
+            "Ürün rengi": "Gri",
+            "Vizkozite": "350-480 Pa.s",
+            "Termal iletkenlik": "8,3 W/m·K",
+            "Temel element": "Alüminyum oksit, Çinko oksit, Slikon",
+            "Ağırlık": "1,5 gr",
+            "Derinlik": "19 mm",
+            "Yükseklik": "12 mm",
+            "Genişlik": "66 mm",
+            "Ambalaj derinliği": "110 mm",
+            "Ambalaj yüksekliği": "20 mm",
+            "Ambalaj genişliği": "40 mm",
+            "Ambalaj tipi": "Asma delikli polietilen torba",
+            "Paket başına miktar": "1 adet"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:44"
+    },
+    {
+        "name": "COOLER MASTER HYPER 212 BLACK 1x120mm Intel1851/ 1700/AM5 Uyumlu CPU Soğutucu",
+        "price": 1869,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-hyper-212-black-1x120mm-fanli-intel1700-amd-am5-uyumlu-cpu-sogutucusu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700",
+            "Soğutma Tipi": "Fan",
+            "Radyatör Desteği (Üst)": "120mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:47"
+    },
+    {
+        "name": "THERMALTAKE Pure 12 3x120mm ARGB Fan+Kontrolcülü Kasa Fanı Kiti",
+        "price": 3839,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-pure-12-3x120mm-argb-fan-kontrolcu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Tip": "Fan",
+            "Maksimum hava basıncı": "1,59 mmH2O",
+            "Fan çapı": "12 cm",
+            "Odalar": "Bilgisayar çantası",
+            "Dönme hızı (maks)": "1500 RPM",
+            "Maksimum hava akımı": "56,45 cfm",
+            "Dönme hızı (min)": "500 RPM",
+            "Rulman tipi": "Hidrolik",
+            "Ürün rengi": "Siyah",
+            "Fan sayısı": "3 fan(lar)",
+            "Fan bağlantısı": "4-pim",
+            "Aydınlatma LED'i": "Var",
+            "Işıklandırma rengi": "Çok aşamalı",
+            "Güç tüketimi": "3,6 W",
+            "Başlangıç ??voltajı": "9 V",
+            "Dayanma ömrü (L10)": "40000 Saat",
+            "Fan anma gerilimi": "12 V"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:50"
+    },
+    {
+        "name": "ZALMAN ALPHA2 DS A24 BEYAZ 71 CFM 2x120mm ARGB AMD/Intel 240mm SIVI SOĞUTUCU",
+        "price": 10829,
+        "url": "https://www.vatanbilgisayar.com/zalman-alpha2-ds-a24-beyaz-71-cfm-2x120mm-argb-amd-intel-240mm-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:53"
+    },
+    {
+        "name": "ASUS PROART LC 360 140mm INTEL - AMD UYUMLU FANLI SIVI SOĞUTUCU",
+        "price": 13079,
+        "url": "https://www.vatanbilgisayar.com/asus-proart-lc-360-140mm-intel-amd-uyumlu-fanli-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4, Soket 1200",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:22:56"
+    },
+    {
+        "name": "THERMALTAKE TG-60 Sıvı Metal Bileşenli Termal Macun 1gr",
+        "price": 959,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-tg-60-sivi-metal-bilesenli-termal-macun-1gr.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Macun Rengi": "Gümüş",
+            "Renk": "Siyah",
+            "Muhafaza Yapısı": "Şırınga",
+            "Elektriksel İletkenlik": "Var",
+            "Yapı": "Sıvı Metal",
+            "Termal İletkenlik": "54 W/m-K",
+            "En Fazla Isı Direnci": "200 °C",
+            "Yoğunluk": "6.2 g/cm³",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Thermal Macun",
+            "Ağırlık": "1 g"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:00"
+    },
+    {
+        "name": "ASUS PRIME LC 360 ARGB 360mm INTEL/AMD Uyumlu Sıvı Soğutucu",
+        "price": 5849,
+        "url": "https://www.vatanbilgisayar.com/asus-prime-lc-360-argb-360mm-intel-amd-uyumlu-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4, Soket 1200",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:03"
+    },
+    {
+        "name": "COUGAR VORTEX 3x120mm RGB FCB KASA FAN KİTİ",
+        "price": 2779,
+        "url": "https://www.vatanbilgisayar.com/cougar-vortex-rgb-fcb-cases-fan.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Güç tüketimi": "1,8 W",
+            "Tip": "Fan",
+            "Devir sayısı": "1",
+            "Havaakımı": "62,36 m³/Saat",
+            "İşlemcilerle uyumlu": "Desteklenmez",
+            "Fan çapı": "12 cm",
+            "Odalar": "Bilgisayar çantası",
+            "Maksimum hava basıncı": "0,78 mmH2O",
+            "Dönme hızı (maks)": "1200 RPM",
+            "Maksimum hava akımı": "36,72 cfm",
+            "Rulman tipi": "Hidrolik",
+            "Kablo uzunluğu": "0,6 metre",
+            "Fan boyutları (G x D x Y)": "120 x 120 x 25 mm",
+            "Fan sayısı": "3 fan(lar)",
+            "Ürün rengi": "Siyah",
+            "Işıklandırma rengi": "Mavi, Yeşil, Kırmızı",
+            "LEDlerin sayısı": "18",
+            "Aydınlatma LED'i": "Var",
+            "Fan anma gerilimi": "12 V"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:06"
+    },
+    {
+        "name": "THERMALTAKE TH240 V2 BEYAZ ARGB Led Fanlı 240mm Intel/AM5 Uyumlu Sıvı Soğutma Sistemi",
+        "price": 5229,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-th240-v2-beyaz-argb-led-fanli-240mm-intel-am5-uyumlu-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:09"
+    },
+    {
+        "name": "COOLER MASTER HYPER 612 APEX 6HP 2x120mm Fanlı Intel/AMD Uyumlu CPU Soğutucusu",
+        "price": 4199,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-hyper-612-apex-black-2x120mm-fanli-intel-amd-uyumlu-cpu-sogutucusu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Hava Soğutma",
+            "Fan Sayısı": "2",
+            "Fan Tipi": "Renksiz",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:13"
+    },
+    {
+        "name": "ZALMAN ALPHA2 A24 SİYAH 71 CFM 2X120mm ARGB AMD/Intel LGA1700 240mm SIVI SOĞUTUCU",
+        "price": 6599,
+        "url": "https://www.vatanbilgisayar.com/zalman-alpha2-a24-siyah-71-cfm-2x120mm-argb-amd-intel-lga1700-240mm-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:16"
+    },
+    {
+        "name": "COUGAR VORTEX 1x120mm RGB SPB KASA FANI",
+        "price": 1149,
+        "url": "https://www.vatanbilgisayar.com/cougar-vortex-1x120mm-rgb-spb-kasa-fani.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soğutma Tipi": "Fan",
+            "Fan Boyutu": "120mm",
+            "Fan Sayısı": "1",
+            "Hava Akımı Maks.": "43,54 CFM 73,94 m3/h",
+            "Ses Seviyesi": "26 dBA",
+            "Fan Tipi": "RGB",
+            "Boyut": "120 x 120 x 25 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:19"
+    },
+    {
+        "name": "COOLER MASTER MASTERLIQUID CORE 240L SPECTRUM 2x120mm ARGB LED SIVI SOĞUTMA SİSTEMİ",
+        "price": 4499,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-masterliquid-core-240l-spectrum-2x120mm-rgb-led-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "RGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:22"
+    },
+    {
+        "name": "COOLER MASTER MASTERFAN MF140 HALO2 ARGB 140mm Beyaz Kasa Fanı",
+        "price": 959,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-masterfan-mf120-halo2-argb-140mm-beyaz-kasa-fani.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Fan",
+            "Fan Boyutu": "140mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:25"
+    },
+    {
+        "name": "ZALMAN CNPS10X OPTIMA II 1x120mm RGB FANLI BEYAZ İŞLEMCİ SOĞUTUCU",
+        "price": 2659,
+        "url": "https://www.vatanbilgisayar.com/zalman-cnps10x-optima-ii-1x120mm-rgb-fanli-beyaz-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Yükseklik": "158 mm",
+            "Derinlik": "85 mm",
+            "Ağırlık": "740 gr",
+            "Genişlik": "132 mm",
+            "Tip": "Soğutucu",
+            "Fan çapı": "12 cm",
+            "Dönme hızı (maks)": "1200 RPM",
+            "Maksimum hava akımı": "61,52 cfm",
+            "Dönme hızı (min)": "800 RPM",
+            "Rulman tipi": "Hidrolik",
+            "Paket başına miktar": "1 adet",
+            "Fan sayısı": "1 fan(lar)",
+            "Malzeme": "Alüminyum, Bakır, Plastik",
+            "Ürün rengi": "Beyaz",
+            "Aydınlatma LED'i": "Var",
+            "Taban plakası malzemesi": "Bakır",
+            "Radyatör malzemesi": "Alüminyum",
+            "Termal Tasarım Gücü": "180 W",
+            "Anma gerilimi": "12 V"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:29"
+    },
+    {
+        "name": "MSI MAG CORELIQUID A13 240 WHITE 2x120mm ARGB FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 4059,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-coreliquid-a13-240-white-2x120mm-argb-fanli-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:31"
+    },
+    {
+        "name": "COUGAR AQUA 120 1x120mm FANLI İŞLEMCİ SIVI SOĞUTUCU",
+        "price": 3089,
+        "url": "https://www.vatanbilgisayar.com/cougar-aqua-120-1x120mm-fanli-islemci-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Gürültü seviyesi": "35 dB",
+            "Tüp malzemesi": "Kauçuk",
+            "Termal gres": "Var",
+            "Tip": "Hepsi dahil sıvı soğutma",
+            "Odalar": "İşlemci",
+            "İşlemcilerle uyumlu": "Intel® Core™ i3, Intel® Core™ i5, Intel® Core™ i7",
+            "Maksimum hava basıncı": "2,1 mmH2O",
+            "Pompa motor hızı": "3200 RPM",
+            "Maksimum hava akımı": "70,64 cfm",
+            "Fan hızı (minimum)": "600 RPM",
+            "Fan hızı (maksimum)": "1800 RPM",
+            "Pompa konektörü": "4-pim",
+            "Fan bearing technology": "Hidro rulman",
+            "Parlaklık ayarı": "Var",
+            "Malzeme": "Alüminyum, Bakır, Kauçuk",
+            "Fan sayısı": "1 fan(lar)",
+            "Ürün rengi": "Siyah",
+            "Işıklandırma rengi": "Çok aşamalı",
+            "Taban plakası malzemesi": "Bakır",
+            "Radyatör malzemesi": "Alüminyum",
+            "Aydınlatma LED'i": "Var",
+            "Pompa voltajı": "12 V",
+            "Pompa akımı": "0,39 mA",
+            "Fan akımı": "12 A",
+            "Termal Tasarım Gücü": "0,4 W",
+            "Fan güç tüketimi": "1,92 W",
+            "Pompa güç tüketimi": "4,68 W",
+            "Radyatör derinliği": "12 cm",
+            "Radyatör uzunluğu": "2,7 cm",
+            "Radyatör genişliği": "15,4 cm",
+            "Tüp uzunluğu": "40 cm",
+            "Fan boyutları (G x D x Y)": "120 x 120 x 25 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:34"
+    },
+    {
+        "name": "ZALMAN 2g 11.5w/m.K Yüksek Performans Termal Macun",
+        "price": 349,
+        "url": "https://www.vatanbilgisayar.com/zalman-2g-11-5w-m-k-yuksek-performans-termal-macun.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Thermal Macun"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:38"
+    },
+    {
+        "name": "RAMPAGE HELIOS C2 SİYAH 240 2x120mm RAINBOW FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 3339,
+        "url": "https://www.vatanbilgisayar.com/rampage-helios-c2-2x120mm-rainbow-fanli-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Fan Sayısı": "2"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:41"
+    },
+    {
+        "name": "XIGMATEK STARLINK ULTRA ARCTIC 3x12cm Beyaz Mini ARGB Fan Kontolcü Fan Kiti",
+        "price": 3429,
+        "url": "https://www.vatanbilgisayar.com/xigmatek-starlink-ultra-arctic-3x12cm-beyaz-mini-argb-fan-kontolcu-fan-kiti.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Fan"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:45"
+    },
+    {
+        "name": "COUGAR VORTEX VX120 1x120mm ARGB HDB KASA FANI",
+        "price": 1069,
+        "url": "https://www.vatanbilgisayar.com/cougar-vortex-vx120-1x120mm-argb-hdb-kasa-fani.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Fan",
+            "Fan Boyutu": "120mm",
+            "Fan Sayısı": "1",
+            "Hava Akımı Maks.": "48.98 CFM ± 10%",
+            "Ses Seviyesi": "29.8 dBA",
+            "Fan Tipi": "ARGB",
+            "Boyut": "120 x 120 x 25 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:49"
+    },
+    {
+        "name": "BITFENIX KUZY BEYAZ LGA1851/AM5 2x120mm ARGB Fan 240mm Dijital Göstergeli Sıvı Soğutma",
+        "price": 4129,
+        "url": "https://www.vatanbilgisayar.com/bitfenix-kuzy-beyaz-lga1851-am5-2x120mm-argb-fan-240mm-dijital-gostergeli-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Var"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:52"
+    },
+    {
+        "name": "MSI MAG CORELIQUID A13 360 WHITE 3x120mm ARGB FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 5749,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-coreliquid-a13-360-white-3x120mm-argb-fanli-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:55"
+    },
+    {
+        "name": "MSI MAG CORELIQUID A13 240 2x120mm ARGB FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 3399,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-coreliquid-a13-240-2x120mm-argb-fanli-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:23:58"
+    },
+    {
+        "name": "CORSAIR NAUTILUS 360 RS 3x120mm ARGB 360mm SİYAH SIVI SOĞUTMA SİSTEMİ",
+        "price": 6809,
+        "url": "https://www.vatanbilgisayar.com/corsair-nautilus-360-rs-3x120mm-argb-360mm-siyah-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:24:01"
+    },
+    {
+        "name": "MSI MAG CORELIQUID A15 240 2x120mm ARGB FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 4379,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-coreliquid-a15-240-2x120mm-argb-fanli-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:24:04"
+    },
+    {
+        "name": "XIGMATEK LK 240 ARCTIC BEYAZ LGA1851/AM5 2x120mm ARGB Fan LCD Ekranlı 240mm Sıvı Soğutma",
+        "price": 5229,
+        "url": "https://www.vatanbilgisayar.com/xigmatek-lk-240-arctic-beyaz-lga1851-am5-2x120mm-argb-fan-lcd-ekranli-240mm-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Var"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:24:07"
+    },
+    {
+        "name": "XIGMATEK FENIX II 240 SİYAH LGA1700/AM5 2x120mm ARGB Fan 240mm Sıvı Soğutma",
+        "price": 3659,
+        "url": "https://www.vatanbilgisayar.com/xigmatek-fenix-ii-240-siyah-lga1700-am5-2x120mm-argb-fan-240mm-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:24:10"
+    },
+    {
+        "name": "COUGAR VORTEX VX120 3x120mm ARGB HDB KASA FAN KİTİ",
+        "price": 2779,
+        "url": "https://www.vatanbilgisayar.com/cougar-vortex-vx120-3x120mm-argb-hdb-kasa-fan-kiti.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soğutma Tipi": "Fan",
+            "Fan Boyutu": "120mm",
+            "Fan Sayısı": "3",
+            "Hava Akımı Maks.": "48.98 CFM ± 10%",
+            "Ses Seviyesi": "29.8 dBA",
+            "Fan Tipi": "ARGB",
+            "Boyut": "120 x 120 x 25 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:24:13"
+    },
+    {
+        "name": "COOLER MASTER HYPER 212 PRO ARGB 1x120mm Intel1851/ 1700/AM5 Uyumlu CPU Soğutucu",
+        "price": 1969,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-hyper-212-pro-argb-1x120mm-intel1851-1700-am5-uyumlu-cpu-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Hava Soğutma",
+            "Fan Sayısı": "1",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:24:17"
+    },
+    {
+        "name": "COOLER MASTER MASTERLIQUID CORE II 360 ARGB LED FANLI BEYAZ SIVI SOĞUTMA",
+        "price": 6089,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-masterliquid-core-ii-360-argb-led-fanli-beyaz-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:24:20"
+    },
+    {
+        "name": "POWERBOOST CIRCLE SİYAH LGA1700/AM5 2x120mm Rainbow Fanlı 240mm Sıvı Soğutma",
+        "price": 2899,
+        "url": "https://www.vatanbilgisayar.com/powerboost-circle-siyah-lga1700-am5-2x120mm-rainbow-fanli-240mm-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Soket Tipi": "Soket 1700, Soket AM5",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "2",
+            "Radyatör Desteği (Üst)": "240mm",
+            "Fan Tipi": "Rainbow(Çoklu Renk)",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:24:23"
+    },
+    {
+        "name": "MSI MPG CORELIQUID P13 360 WHITE 3x120mm ARGB FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 9979,
+        "url": "https://www.vatanbilgisayar.com/msi-mpg-coreliquid-p13-360-white-3x120mm-argb-fanli-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Beyaz",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851, Soket AM4",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Var"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:24:25"
+    },
+    {
+        "name": "XIGMATEK LK 360 SİYAH LGA1851/AM5 3x120mm ARGB Fan LCD Ekranlı 360mm Sıvı Soğutma",
+        "price": 5359,
+        "url": "https://www.vatanbilgisayar.com/xigmatek-lk-360-siyah-lga1851-am5-3x120mm-argb-fan-lcd-ekranli-360mm-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:24:29"
+    },
+    {
+        "name": "POWER BOOST TG5301 Yüksek Performanslı 1gr Termal Macun",
+        "price": 189,
+        "url": "https://www.vatanbilgisayar.com/power-boost-tg5301-yuksek-performansli-1gr-termal-macun.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Mavi",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Thermal Macun"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:24:32"
+    },
+    {
+        "name": "XIGMATEK FENIX II 360 SİYAH LGA1700/AM5 3x120mm ARGB Fan 360mm Sıvı Soğutma",
+        "price": 4249,
+        "url": "https://www.vatanbilgisayar.com/xigmatek-fenix-ii-360-siyah-lga1700-am5-3x120mm-argb-fan-360mm-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB",
+            "Ekran": "Yok"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:24:35"
+    },
+    {
+        "name": "COOLER MASTER HYPER 212 HALO SİYAH 1x120mm Intel1851/ 1700/AM5 CPU Soğutucu",
+        "price": 2079,
+        "url": "https://www.vatanbilgisayar.com/cooler-master-hyper-212-halo-back-120-mm-intel-1700p-amd-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:24:39"
+    },
+    {
+        "name": "XIGMATEK STARLINK 3x12cm Mini ARGB Fan Kontolcü Fan Kiti",
+        "price": 2049,
+        "url": "https://www.vatanbilgisayar.com/xigmatek-starlink-3x12cm-mini-argb-fan-kontolcu-fan-kiti.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soğutma Tipi": "Fan"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:24:42"
+    },
+    {
+        "name": "THERMALTAKE TH240 SNOW EDITION 2x120mm ARGB LED FANLI SIVI SOĞUTUCU",
+        "price": 6439,
+        "url": "https://www.vatanbilgisayar.com/thermaltake-th240-snow-edition-2x120mm-argb-led-fanli-sivi-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Menşei": "Çin",
+            "Garanti": "24 Ay",
+            "Fan sayısı": "2 fan(lar)",
+            "Su bloklama malzemesi": "Bakır",
+            "Fan bağlantısı": "3-pim",
+            "Tip": "Hepsi dahil sıvı soğutma",
+            "Odalar": "İşlemci",
+            "Maksimum hava akımı": "59,28 cfm",
+            "Maksimum hava basıncı": "1,31 mmH2O",
+            "Fan hızı (maksimum)": "1500 RPM",
+            "Tüp malzemesi": "Kauçuk",
+            "Pompa voltajı": "12/5 V",
+            "Fan akımı": "0,38 A",
+            "Radyatör genişliği": "27,3 cm",
+            "Tüp uzunluğu": "40 cm",
+            "Radyatör derinliği": "12 cm",
+            "Radyatör uzunluğu": "2,7 cm",
+            "Fan boyutları (G x D x Y)": "120 x 120 x 25 mm"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:24:46"
+    },
+    {
+        "name": "MSI MAG CORELIQUID A13 360 3x120mm ARGB FANLI SIVI SOĞUTMA SİSTEMİ",
+        "price": 5609,
+        "url": "https://www.vatanbilgisayar.com/msi-mag-coreliquid-a13-360-3x120mm-argb-fanli-sivi-sogutma-sistemi.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "3",
+            "Radyatör Desteği (Üst)": "360mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:24:49"
+    },
+    {
+        "name": "XIGMATEK APACHE PLUS 120mm RGB LED FANLI İŞLEMCİ SOĞUTUCU",
+        "price": 449,
+        "url": "https://www.vatanbilgisayar.com/xigmatek-apache-plus-1x120mm-rgb-led-fanli-islemci-sogutucu.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket AM2, Soket AM3, Soket AM3+, Soket FM2, Soket 775, Soket AM2+, Soket 1156, Soket 1155, Soket FM1, Soket AM4",
+            "Soğutma Tipi": "Hava Soğutma",
+            "Fan Boyutu": "120mm",
+            "Fan Sayısı": "1",
+            "Hava Akımı Maks.": "46 CFM",
+            "Ses Seviyesi": "21.8 dBA",
+            "Fan Tipi": "RGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:24:52"
+    },
+    {
+        "name": "RAMPAGE INFINITE C10 SIYAH LGA1851/LGA1700/AM5 1x12cm ARGB Fan 120mm SIVI SOĞUTMA",
+        "price": 2489,
+        "url": "https://www.vatanbilgisayar.com/rampage-infinite-c10-siyah-lga1851-lga1700-am5-1x12cm-argb-fan-120mm-sivi-sogutma.html",
+        "component_type": "cooler",
+        "raw_specs": {
+            "Renk": "Siyah",
+            "Garanti": "24 Ay",
+            "Menşei": "Çin",
+            "Soket Tipi": "Soket 1700, Soket AM5, Soket 1851",
+            "Soğutma Tipi": "Sıvı Soğutma",
+            "Fan Sayısı": "1",
+            "Radyatör Desteği (Üst)": "120mm",
+            "Fan Tipi": "ARGB"
+        },
+        "retailer": "Vatan Bilgisayar",
+        "scraped_at": "2026-03-22 06:24:56"
+    }
+]
