@@ -123,6 +123,13 @@ def run():
                 if "use_case" in event:
                     initial_state["use_case"] = event["use_case"]
 
+                # Validator uyarılarını göster
+                if "errors" in event and event["errors"]:
+                    for err in event["errors"]:
+                        if err not in initial_state.get("_shown_errors", set()):
+                            print(f"  {err}")
+                            initial_state.setdefault("_shown_errors", set()).add(err)
+
         except KeyboardInterrupt:
             print("\n\n👋 Ctrl+C ile çıkıldı.")
             break

@@ -45,13 +45,17 @@ def hybrid_search(
     db = get_db()
     components_col = db["components"]
 
-    # Ek filtreleri hazırla
-    match_filter = {"component_type": component_type}
+    # Vector search pre-filter: sadece index'te tanimli alanlar (component_type, is_in_stock)
+    vs_filter = {"component_type": component_type}
     if not ignore_stock:
-        match_filter["is_in_stock"] = True
+        vs_filter["is_in_stock"] = True
+
+    # Post-filter: diger teknik filtreler ($match asamasinda)
+    post_filter = {}
     if filters:
         for k, v in filters.items():
-            if v: match_filter[k] = v
+            if v:
+                post_filter[k] = v
 
     if ignore_stock:
         # Araştırma Modu (Shopping yok)
@@ -63,10 +67,10 @@ def hybrid_search(
                     "queryVector": query_embedding,
                     "numCandidates": 500,
                     "limit": max_results * 5,
-                    "filter": match_filter 
+                    "filter": vs_filter
                 }
             },
-            {"$match": match_filter},
+            {"$match": {**vs_filter, **post_filter}} if post_filter else {"$match": vs_filter},
             {"$project": {"embedding": 0, "description_text": 0, "_id": 0, "score": {"$meta": "vectorSearchScore"}}},
             {"$limit": max_results}
         ]
@@ -81,10 +85,10 @@ def hybrid_search(
                 "queryVector": query_embedding,
                 "numCandidates": 1000,
                 "limit": max_results * 10,
-                "filter": match_filter
+                "filter": vs_filter
             }
         },
-        {"$match": match_filter},
+        {"$match": {**vs_filter, **post_filter}} if post_filter else {"$match": vs_filter},
         {"$project": {"embedding": 0, "description_text": 0, "_id": 0, "score": {"$meta": "vectorSearchScore"}}},
         {
             "$lookup": {
@@ -132,7 +136,7 @@ def text_search(
 ) -> list[dict]:
     """Fallback: Regex araması + Teknik filtreler."""
     db = get_db()
-    
+
     # Filtreleri hazırla
     base_filter: dict = {"component_type": component_type}
     if not ignore_stock:
@@ -145,13 +149,12 @@ def text_search(
 
     if ignore_stock:
         col = db["components"]
-        # Teknik özellikler için regex
         search_filter = {**base_filter, "name": {"$regex": query, "$options": "i"}}
         return list(col.find(search_filter, {"embedding": 0, "_id": 0}).limit(max_results))
 
     inventory_col = db["inventory"]
     regex_filter = {**base_filter, "name": {"$regex": query, "$options": "i"}}
-    
+
     results = list(inventory_col.aggregate(_build_text_pipeline(regex_filter, max_results)))
     if not results:
         results = list(inventory_col.aggregate(_build_text_pipeline(base_filter, max_results)))
