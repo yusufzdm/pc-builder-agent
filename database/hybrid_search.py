@@ -56,9 +56,13 @@ def hybrid_search(
         for k, v in filters.items():
             if v:
                 post_filter[k] = v
+    # Memory: SO-DIMM (laptop RAM) hariç tut, masaüstü build varsayilan
+    if component_type == "memory":
+        post_filter["form_factor"] = {"$not": {"$regex": "SO.?DIMM", "$options": "i"}}
 
     if ignore_stock:
-        # Araştırma Modu (Shopping yok)
+        # Araştırma Modu (Shopping yok). Laptop bileşenlerini referans modunda da gizle.
+        ignore_stock_match = {**vs_filter, **post_filter, "is_laptop": {"$ne": True}}
         pipeline = [
             {
                 "$vectorSearch": {
@@ -70,13 +74,13 @@ def hybrid_search(
                     "filter": vs_filter
                 }
             },
-            {"$match": {**vs_filter, **post_filter}} if post_filter else {"$match": vs_filter},
+            {"$match": ignore_stock_match},
             {"$project": {"embedding": 0, "description_text": 0, "_id": 0, "score": {"$meta": "vectorSearchScore"}}},
             {"$limit": max_results}
         ]
         return list(components_col.aggregate(pipeline))
 
-    # Shopping Pipeline (Join'li)
+    # Shopping Pipeline (Join'li, multi-retailer aware)
     pipeline = [
         {
             "$vectorSearch": {
@@ -104,16 +108,38 @@ def hybrid_search(
                 "price": "$inventory_info.price",
                 "in_stock": "$inventory_info.in_stock",
                 "url": "$inventory_info.url",
-                "retailer": "$inventory_info.retailer"
+                "retailer": "$inventory_info.retailer",
+                "is_accessory": "$inventory_info.is_accessory",
+                "is_laptop_inv": "$inventory_info.is_laptop",
             }
         },
         {
             "$match": {
                 "in_stock": True,
+                "is_accessory": {"$ne": True},
+                "is_laptop_inv": {"$ne": True},
+                "is_laptop": {"$ne": True},  # components seviyesindeki flag
                 **({"price": {"$lte": max_price}} if max_price is not None else {}),
             }
         },
         {"$project": {"inventory_info": 0}},
+        # En ucuzu top-level'a koymak icin once price'a gore sirala
+        {"$sort": {"price": 1}},
+        # Component_id basina grupla: tum offer'lari topla, en ucuzu doc'a yaz
+        {
+            "$group": {
+                "_id": "$component_id",
+                "doc": {"$first": "$$ROOT"},
+                "offers": {"$push": {
+                    "retailer": "$retailer",
+                    "price": "$price",
+                    "url": "$url",
+                }},
+            }
+        },
+        # doc + offers'i tek seviyede birlestir (top-level'da en ucuz fiyat/url/retailer)
+        {"$replaceRoot": {"newRoot": {"$mergeObjects": ["$doc", {"offers": "$offers"}]}}},
+        # Vektor skoruna gore sirala (orijinal alaka sirasi)
         {"$sort": {"score": -1}},
         {"$limit": max_results},
     ]

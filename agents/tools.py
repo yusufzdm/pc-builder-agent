@@ -41,7 +41,8 @@ class ReferenceSearchInput(BaseModel):
 # ─── Yardımcı Fonksiyonlar ───
 
 def _format_results(results: list[dict]) -> str:
-    """Arama sonuçlarını okunabilir JSON string'e çevirir."""
+    """Arama sonuçlarını okunabilir JSON string'e çevirir.
+    Her sonuç için (varsa) retailer_comparison hazır string'i eklenir."""
     if not results:
         return "SONUÇ YOK — Bu kriterlere uygun stokta ürün bulunamadı. Başka bir kategori veya bütçe dene."
     clean = []
@@ -50,6 +51,21 @@ def _format_results(results: list[dict]) -> str:
         r.pop("description_text", None)
         r.pop("_id", None)
         r.pop("score", None)
+        # Multi-retailer karşılaştırma stringi
+        offers = r.get("offers") or []
+        distinct = sorted({o.get("retailer") for o in offers if o.get("retailer")})
+        if len(distinct) >= 2:
+            sorted_offers = sorted(offers, key=lambda x: x.get("price") or 0)
+            min_p = sorted_offers[0]["price"]
+            seen = set()
+            lines = []
+            for o in sorted_offers:
+                if o["retailer"] in seen:
+                    continue
+                seen.add(o["retailer"])
+                mark = " ✓ EN UCUZ" if o["price"] == min_p else ""
+                lines.append(f"[{o['retailer']}]({o['url']}) {o['price']:,} TL{mark}")
+            r["retailer_comparison"] = " | ".join(lines)
         clean.append(r)
     header = f"[VERİTABANI SONUÇLARI — SADECE AŞAĞIDAN ÖNER, BAŞKA ÜRÜN EKLEME]\n"
     return header + json.dumps(clean, ensure_ascii=False, indent=2)
@@ -74,9 +90,14 @@ def search_motherboard(query: str, max_price: Optional[int] = None, socket: Opti
 
 @tool(args_schema=ComponentSearchInput)
 def search_gpu(query: str, max_price: Optional[int] = None, **kwargs) -> str:
-    """Ekran kartı araması yapar."""
+    """Ekran kartı araması yapar. Low Profile (LP) kartlar varsayılan olarak hariç —
+    kullanıcı SFF/küçük kasa için açıkça LP isterse `search_reference_library` kullan."""
     results = safe_search(query, logic.CATEGORY_MAP["gpu"], max_price)
-    return _format_results(results)
+    # Sonuçtan LP kartları filtrele (retailer_title regex ile)
+    import re
+    lp_re = re.compile(logic.LP_GPU_REGEX, re.IGNORECASE)
+    filtered = [r for r in results if not lp_re.search(r.get("retailer_title") or r.get("name") or "")]
+    return _format_results(filtered or results)
 
 @tool(args_schema=ComponentSearchInput)
 def search_memory(query: str, max_price: Optional[int] = None, memory_type: Optional[str] = None, **kwargs) -> str:
@@ -154,11 +175,83 @@ def select_component(component_type: str, component_json: str) -> str:
     except Exception as e:
         return f"❌ Hata: {str(e)}"
 
+CATEGORY_DISPLAY = {
+    "cpu": "İşlemci (CPU)", "gpu": "Ekran Kartı (GPU)", "motherboard": "Anakart",
+    "memory": "Bellek (RAM)", "storage": "Depolama (SSD)", "case": "Kasa",
+    "psu": "Güç Kaynağı (PSU)", "cooler": "Soğutucu",
+}
+
+def _build_part_line(cat: str, p: dict) -> str:
+    """Bir parça için tek satır markdown — multi-retailer varsa karşılaştırma dahil."""
+    name = p.get("name") or "?"
+    offers = p.get("offers") or []
+    distinct = sorted({o["retailer"] for o in offers if o.get("retailer")})
+    label = CATEGORY_DISPLAY.get(cat, cat.upper())
+
+    if len(distinct) >= 2:
+        sorted_offers = sorted(offers, key=lambda x: x.get("price") or 0)
+        min_p = sorted_offers[0]["price"]
+        seen = set()
+        retailer_parts = []
+        for o in sorted_offers:
+            if o["retailer"] in seen:
+                continue
+            seen.add(o["retailer"])
+            mark = " ✓ EN UCUZ" if o["price"] == min_p else ""
+            retailer_parts.append(f"[{o['retailer']}]({o['url']}) {o['price']:,} TL{mark}")
+        return f"**{label}** — {name}\n   " + " | ".join(retailer_parts)
+    else:
+        # Tek retailer
+        url = p.get("url") or (offers[0]["url"] if offers else "")
+        retailer = p.get("retailer") or (offers[0]["retailer"] if offers else "?")
+        price = p.get("price", 0)
+        return f"**{label}** — [{name}]({url}) — {price:,} TL ({retailer})"
+
+
 @tool(args_schema=OptimizeBuildInput)
 def optimize_build(budget: int, use_case: str = "general") -> str:
     """Otomatik sistem toplar."""
     result = logic.optimize_build(budget, use_case)
-    return json.dumps(result, ensure_ascii=False, indent=2)
+    build = result.get("selected_components", {})
+
+    # Her parça için retailer_comparison ek field
+    for cat, p in build.items():
+        if not isinstance(p, dict):
+            continue
+        offers = p.get("offers") or []
+        distinct_retailers = sorted({o["retailer"] for o in offers if o.get("retailer")})
+        if len(distinct_retailers) >= 2:
+            sorted_offers = sorted(offers, key=lambda x: x["price"])
+            min_price = sorted_offers[0]["price"]
+            seen = set()
+            lines = []
+            for o in sorted_offers:
+                if o["retailer"] in seen:
+                    continue
+                seen.add(o["retailer"])
+                mark = " ✓ EN UCUZ" if o["price"] == min_price else ""
+                lines.append(f"[{o['retailer']}]({o['url']}) {o['price']:,} TL{mark}")
+            p["retailer_comparison"] = " | ".join(lines)
+
+    # MARKDOWN HAZIR ÖZET — agent bunu BİREBİR kopyalayacak
+    lines = ["=== HAZIR BUILD ÖZETİ — AŞAĞIYI BİREBİR KOPYALA, EKLEME/CIKARMA YAPMA ==="]
+    order = ["cpu", "gpu", "motherboard", "memory", "storage", "case", "psu", "cooler"]
+    idx = 1
+    for cat in order:
+        p = build.get(cat)
+        if not p or not isinstance(p, dict):
+            continue
+        lines.append(f"{idx}. {_build_part_line(cat, p)}")
+        idx += 1
+    lines.append(f"\n**Toplam**: {result.get('total_spend', 0):,} TL — **Kalan**: {result.get('remaining_budget', 0):,} TL")
+    if result.get("warnings"):
+        for w in result["warnings"]:
+            lines.append(f"\n⚠️ {w}")
+    lines.append("=== HAZIR BUILD ÖZETİ SONU ===\n")
+
+    summary = "\n".join(lines)
+    raw = json.dumps(result, ensure_ascii=False, indent=2)
+    return summary + "\n\nJSON_DATA:\n" + raw
 
 @tool
 def check_budget(selected_json: str, target_budget: int) -> str:

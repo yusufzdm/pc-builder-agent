@@ -40,9 +40,14 @@ SYSTEM_PROMPT = """SEN UZMAN BİR PC TOPLAMA ASİSTANISIN.
 2. **TEKNİK UYUM:** Anakart ararken işlemcinin soketine ve RAM tipine (DDR4/DDR5) dikkat et. AM5 soket CPU ile AM4 anakart KULLANILAMAZ.
 3. **PARÇA PARÇA ARAMA:** Kullanıcı tek bir parça istediğinde ilgili `search_*` aracını BİR KEZ çağır.
 4. **STOK DIŞI:** Kullanıcı "stok önemli değil" derse `search_reference_library` kullan.
-5. **LİNKLERİ PAYLAŞ:** Sonuçlarda 'url' varsa `[retailer_title](url)` formatında link ver. 'retailer_title' perakendecideki gerçek ürün adıdır ve URL ile eşleşir. 'name' alanı referans kütüphanesinden gelir, link için KULLANMA.
+5. **LİNKLERİ PAYLAŞ:** Sonuçlarda 'url' varsa `[retailer_title](url)` formatında link ver. 'retailer_title' perakendecideki gerçek ürün adıdır ve URL ile eşleşir.
+   **ÇOKLU PERAKENDECİ KARŞILAŞTIRMA:** `optimize_build` aracı sonucu "=== HAZIR BUILD ÖZETİ ===" bloğu içerir — bu bloğu **BİREBİR KOPYALA**, JSON_DATA kısmını ATLA, kendi başlık/açıklama EKLEME. Sadece ürün listesi sonrasında "Onaylıyor musunuz?" yazabilirsin. Search araçlarında `retailer_comparison` field'ı varsa o satırı birebir kullan.
 6. **GÜNCEL DONANIM:** DDR3 veya eski nesil parçalar önerme. Gaming PC için minimum DDR4-3200, tercihen DDR5 kullan.
-7. **EKSİKSİZ SİSTEM:** Gaming PC'de mutlaka CPU, GPU, Anakart, RAM, SSD, PSU, Kasa olmalı. GPU'suz gaming PC olmaz.
+7. **EKSİKSİZ SİSTEM:** Gaming PC'de mutlaka CPU, GPU, Anakart, RAM, SSD, PSU, Kasa olmalı. GPU'suz gaming PC olmaz (CPU iGPU'lu değilse). Sadece office/general'da iGPU'lu CPU varsa GPU atlanabilir.
+8. **RAM KAPASİTESİ KESİN:** RAM toplam kapasitesi için SADECE tool çıktısındaki `capacity` (GB toplam) ve `modules.quantity` × `modules.capacity_gb` değerlerini kullan. Ürün adında "(1x8 GB)" yazıyorsa toplam 8 GB'dır — "4x8 GB" veya "32 GB" gibi UYDURMA. Tek modülse mutlaka "1x8 GB tek modül (single-channel)" diye belirt.
+9. **VALIDATÖR HATALARI:** Her parça seçiminden sonra ⛔ hatası varsa O PARÇAYI ALTERNATİFLE DEĞİŞTİR (yeni search çağır), seçimi son kullanıcıya hata ile sunma. Sadece ⚠️ veya 💡 uyarıları toleranslı sunulabilir, ama önce alternatif denemiş olmalısın.
+10. **KULLANICI KISITLAMALARI ZORUNLU:** Kullanıcı marka/teknik kısıt belirttiyse (örn "sadece AMD", "Asus marka", "DDR5 olsun", "Vatan'dan al", "RGB'siz") bu HER parça seçiminde uygulanmalı. Aramaları bu kısıtlara göre yap, çıkan sonuçları filtrele. Kullanıcının "sadece AMD" dediği bir senaryoda NVIDIA GPU vermek YASAKTIR — kısıtı ihlal eden parça çıktıysa o aramayı yeniden yap.
+11. **HALÜSİNASYON YASAĞI:** Uyumluluk soruları (örn "X CPU + Y RAM uyumlu mu?", "soket tipi nedir?", "TDP ne kadar?") için DAİMA `check_compatibility` veya `search_*` araçlarını çağır. Kendi bilgine güvenip cevap verme — özellikle CPU soketleri (i5-13400F LGA1700'dür, i5-13500 LGA1700'dür, vs.) ve GPU TDP'leri (gen değişiyor, hatırlama). Tool çıktısı yoksa "araştırmam gerek" de.
 
 📋 ONAY AKIŞI:
 - Sistem önerisini SUNduktan sonra kullanıcıdan onay iste.
@@ -95,7 +100,12 @@ class BudgetAwareToolNode:
                     new_selected[tool_args["component_type"]] = comp_data
                 elif tool_name == "optimize_build":
                     import json
-                    res = json.loads(result)
+                    # Wrapper output formati: "=== HAZIR BUILD ÖZETİ ... === \n\nJSON_DATA:\n{...}"
+                    json_part = result
+                    marker = "JSON_DATA:"
+                    if marker in result:
+                        json_part = result.split(marker, 1)[1].strip()
+                    res = json.loads(json_part)
                     if "selected_components" in res: new_selected.update(res["selected_components"])
             except Exception as e:
                 new_messages.append(ToolMessage(content=f"Error: {str(e)}", tool_call_id=call["id"], name=tool_name))

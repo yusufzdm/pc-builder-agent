@@ -8,19 +8,29 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Scraper data (Optional: keep commented if you want to push scraped data)
-# scrapers/data/
+# Scraper output (büyük JSON'lar — DB zaten otoriter kaynak)
+scrapers/data/
 
-# Temporary scripts and tests
-test_*.py
-check_*.py
-cleanup_*.py
-analyze_*.py
-sync_*.py
-tag_*.py
-ai_library_builder.py
-count_results.py
-normalizer.py
+# Run/apply logları
+*.log
+
+# Test çıktıları
+compatibility_audit_results.json
+
+# Claude Code internal lock files
+.claude/scheduled_tasks.lock
+
+# Geçici kök-level script'ler (root-only — / leading slash ile sınırlı,
+# scripts/ dizinindeki kalıcı utility'ler etkilenmez)
+/test_*.py
+/check_*.py
+/cleanup_*.py
+/analyze_*.py
+/sync_*.py
+/tag_*.py
+/ai_library_builder.py
+/count_results.py
+/normalizer.py
 
 
 # OS generated files

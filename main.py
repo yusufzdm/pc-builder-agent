@@ -46,19 +46,53 @@ def extract_info_from_messages(messages: list) -> dict:
         except ValueError:
             pass
             
-    # Kullanım Amacı
-    use_case_map = {
-        'oyun': 'gaming', 'game': 'gaming', 'gaming': 'gaming',
-        'mimarlık': 'architecture', 'mimarlik': 'architecture', 'çizim': 'architecture',
-        'render': 'rendering', 'video': 'rendering', 'kurgu': 'rendering',
-        'ofis': 'office', 'iş': 'office', 'ders': 'office',
-        'genel': 'general'
-    }
-    for keyword, mapped in use_case_map.items():
-        if keyword in text.lower():
+    # Kullanım Amacı — sıralı regex (daha spesifik anchor önce; word-boundary
+    # ile "tasarım işleri" → "iş" partial match'i engellenir).
+    # Önceki versiyon `'iş': 'office'` substring match'iyle "tasarım işleri"
+    # sorgusunu office'e gönderiyordu; tüm allocation bozuluyordu.
+    use_case_map = [
+        # design (2D/3D görsel tasarım — gaming/render arası, RAM ağırlıklı)
+        (r'\btasar[ıi]m',       'design'),
+        (r'\bphotoshop\b',      'design'),
+        (r'\billustrator\b',    'design'),
+        (r'\bfigma\b',          'design'),
+        (r'\bgrafik\b',         'design'),
+        # rendering (video kurgu, 3D render)
+        (r'\bvide?o\s+kurgu',   'rendering'),
+        (r'\bvide?o\s+düzen',   'rendering'),
+        (r'\brender',           'rendering'),
+        (r'\bkurgu\b',          'rendering'),
+        (r'\bpremiere\b',       'rendering'),
+        (r'\bblender\b',        'rendering'),
+        (r'\bafter\s+effects',  'rendering'),
+        (r'\bvide?o\b',         'rendering'),
+        # gaming
+        (r'\boyun',             'gaming'),
+        (r'\bgame\b',           'gaming'),
+        (r'\bgaming\b',         'gaming'),
+        # architecture / CAD
+        (r'\bmimar',            'architecture'),
+        (r'\bçizim\b',          'architecture'),
+        (r'\bcad\b',            'architecture'),
+        (r'\bautocad\b',        'architecture'),
+        (r'\brevit\b',          'architecture'),
+        # office — phrase-bazlı ("iş" tek başına False positive yapıyordu)
+        (r'\bofis\b',           'office'),
+        (r'\bders\b',           'office'),
+        (r'\biş\s+(yeri|bilgisayar|bilgisayarı)', 'office'),
+        (r'\bmuhasebe\b',       'office'),
+        (r'\bword\b',           'office'),
+        (r'\bexcel\b',          'office'),
+        (r'\bdaily\s+driver',   'office'),
+        # general
+        (r'\bgenel\b',          'general'),
+    ]
+    text_lower = text.lower()
+    for pattern, mapped in use_case_map:
+        if re.search(pattern, text_lower):
             info["use_case"] = mapped
             break
-            
+
     return info
 
 

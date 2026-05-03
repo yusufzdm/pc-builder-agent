@@ -16,6 +16,8 @@ from openai import OpenAI
 # Proje kök dizinini path'e ekle
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from database.mongo_client import get_components_collection, get_inventory_collection
+from database.laptop_filter import is_laptop_component
+from database.accessory_filter import is_accessory as is_accessory_check
 
 load_dotenv()
 
@@ -141,6 +143,22 @@ def seed_category(category: str) -> int:
             print(f"  ❌ Embedding hatası ({item.get('name')}): {e}")
             embedding = []
 
+        # Aksesuar / yanlış-kategori? Otomatik SKIP — DB'ye hiç girmez.
+        is_acc, acc_reason = is_accessory_check(
+            name=item.get("name"), component_type=category,
+        )
+        if is_acc:
+            print(f"  ⊘ aksesuar skip: {item.get('name', '')[:60]}  ({acc_reason})")
+            continue
+
+        # Laptop bileşeni mi? Otomatik flag — search/optimize_build bunu filtreler.
+        is_lap, lap_reason = is_laptop_component(
+            name=item.get("name"),
+            component_type=category,
+            form_factor=(item.get("form_factor") or
+                        (item.get("memory") or {}).get("form_factor") if isinstance(item.get("memory"), dict) else None),
+        )
+
         component_doc = {
             **item,
             "category": db_category,
@@ -148,6 +166,9 @@ def seed_category(category: str) -> int:
             "description_text": component_text,
             "embedding": embedding,
         }
+        if is_lap:
+            component_doc["is_laptop"] = True
+            component_doc["_laptop_reason"] = lap_reason
 
         components_col.update_one(
             {"component_id": component_id},
@@ -163,6 +184,8 @@ def seed_category(category: str) -> int:
             "price": price,
             "in_stock": True,
         }
+        if is_lap:
+            inventory_doc["is_laptop"] = True
         inventory_col.update_one(
             {"component_id": component_id},
             {"$set": inventory_doc},
