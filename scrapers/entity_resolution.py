@@ -34,6 +34,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from database.mongo_client import get_components_collection, get_inventory_collection
 from database.laptop_filter import is_laptop_component
 from database.accessory_filter import is_accessory as is_accessory_check
+from database.er_validator import validate_er_match
 
 load_dotenv()
 
@@ -392,13 +393,15 @@ RETAILER_NAME_MAP = {
 
 def apply_matched(retailer: str = "vatan"):
     """matched JSON'lari okuyup inventory'ye yazar.
-    Junk + Aksesuar + Laptop bileşenleri ATLANIR — DB'ye hiç girmezler.
+    Junk + Aksesuar + Laptop bileşenleri + ER mismatch ATLANIR — DB'ye hiç girmezler.
     (Pre-filter zaten LLM aşamasında çoğunu eler, bu defensive katman.)"""
     inv = get_inventory_collection()
+    comp = get_components_collection()
     total = 0
     skipped_junk = 0
     skipped_accessory = 0
     skipped_laptop = 0
+    skipped_mismatch = 0
     retailer_label = RETAILER_NAME_MAP.get(retailer, retailer)
     for cat in CATEGORIES:
         p = OUTPUT_DIR / f"{retailer}_{cat}_matched.json"
@@ -430,6 +433,21 @@ def apply_matched(retailer: str = "vatan"):
                 print(f"    ⊘ laptop skip: {(item.get('name') or '')[:60]}  ({lap_reason})")
                 continue
             er = item["_er"]
+            # ER mismatch kontrolü: components.name (referans) ile retailer_title/url
+            # arasında DDR tipi/wattaj/PCIe gen tutarlı mı? Tutarsızsa link yanlış
+            # ürüne gidiyor (RAM DDR4↔DDR5, PSU 400W↔350W gibi feedback bug'ları).
+            comp_doc = comp.find_one({"component_id": er["component_id"]}, {"name": 1})
+            comp_name = (comp_doc or {}).get("name")
+            is_valid, mismatch_reason = validate_er_match(
+                components_name=comp_name,
+                retailer_title=item.get("name"),
+                url=item.get("url"),
+                component_type=item.get("component_type"),
+            )
+            if not is_valid:
+                skipped_mismatch += 1
+                print(f"    ⊘ ER mismatch skip: {(item.get('name') or '')[:60]}  ({mismatch_reason})")
+                continue
             doc = {
                 "component_id": er["component_id"],
                 "component_type": item["component_type"],
@@ -446,7 +464,8 @@ def apply_matched(retailer: str = "vatan"):
             added += 1
         print(f"  ✓ {cat}: {added}/{len(items)} matched eklendi")
     print(f"\nToplam {total} urun inventory'ye eklendi. "
-          f"Atlananlar: {skipped_junk} junk + {skipped_accessory} aksesuar + {skipped_laptop} laptop.")
+          f"Atlananlar: {skipped_junk} junk + {skipped_accessory} aksesuar + "
+          f"{skipped_laptop} laptop + {skipped_mismatch} ER mismatch.")
 
 
 def cleanup_existing_junk():

@@ -1,12 +1,8 @@
 # PC Builder Agent - TODO & Hata Takip Listesi
 
-## Feedback (Dış Kaynaklı Hakem Bulguları — AÇIK)
+## Feedback (Dış Kaynaklı Hakem Bulguları)
 
-- [ ] **PSU isim ↔ link tutarsız (ER mismatch):** Build çıktısında bir PSU'nun adı "FSP Group FSP400-60GHS(85)-R SFX 400W 80+ Bronze" iken Teknosa linki "FSP Performance SP400-A 350W"a (farklı model, farklı wattaj, sertifikasız) gidiyor. `entity_resolution.py` iki farklı PSU'yu aynı `component_id`'ye eşlemiş. Çözüm: PSU eşleşmesinde wattaj+form factor+sertifika doğrulaması ekle, ER'ı yeniden çalıştır. Kaynak: harici Claude review (2026-05-03). Süre: ~yarım gün.
-
-- [ ] **NVMe yerine SATA SSD seçimi — perf kaybı:** 55K bütçede 6,069 TL'lik KIOXIA EXCERIA SATA 2.5" (555 MB/s) seçildi, anakartın iki M.2 NVMe slotu boş kaldı. Aynı parayla 1 TB Gen3 NVMe (3000+ MB/s) alınabilir. Çözüm: `optimize_build`'de MB'nin `m2_slots` doluysa storage seçimi NVMe-first iki kademeli (önce M.2 NVMe, fallback SATA). Use case'e göre tercih (gaming/render/architecture/design'da NVMe zorunlu). Kaynak: harici Claude review (2026-05-03). Süre: ~30 dk.
-
-- [ ] **Cooler ↔ CPU Socket uyumsuzluğu (KRİTİK):** Office_15k senaryosunda Intel Celeron G5900 (LGA1200) seçildi, soğutucu olarak AMD Wraith Stealth Socket AM4 atandı — soket uyumsuz, fiziksel takılmaz. `optimize_build`'in cooler seçimi soket-aware değil. Çözüm: cooler seçiminde CPU socket'e göre filtre (cooler.compatible_sockets list'i kontrol edilmeli, yoksa name-bazlı: "AM4"/"AM5"/"LGA1700"/"LGA1200" pattern'leri). Validator'da KONTROL 9 olarak da eklenebilir. Kaynak: MediaMarkt entegrasyonu sonrası tespit (2026-05-03). Süre: ~30 dk.
+_Şu an açık feedback yok — tüm kritik bulgular çözüldü. Yeni feedback geldikçe bu bölüme eklenir._
 
 ## Kritik Hatalar
 
@@ -28,6 +24,10 @@
 
 ## Tamamlananlar
 
+- [x] **Feedback — NVMe-first storage seçimi (2026-05-03):** GPU-yoğun use_case'lerde (gaming/render/architecture/design) MB'nin `m2_slots` doluysa storage M.2 NVMe öncelik, fallback SATA. `optimize_build` greedy upgrade ve final rebalance'da uygulandı. 5 senaryoda 3'ü NVMe (Gaming_50k MP33, Rendering RTX 5060Ti+SanDisk, Architecture Intel Pro 6000p), Office tolere ediyor SATA, Gaming_30k bütçe sıkışık.
+- [x] **Feedback — ER mismatch validator + cleanup (2026-05-03):** `database/er_validator.py` (DDR/wattaj/PCIe gen cross-check, 10/10 self-test). Feedback'teki RAM "DDR5 ad / DDR4 link", PSU "400W ad / 350W link", SSD "PM951 Gen3 ad / PM9C1B Gen4 link" bug'ları yakalanıyor. 12 mismatch hard delete. ER apply'a 4. defansif katman olarak entegre — yeni eklemelerde otomatik SKIP.
+- [x] **Feedback — CPU TDP → MB chipset tier garantisi (2026-05-03):** `LOW_TIER_CHIPSETS` set'i (H610/A520/H510/A320 vs). GPU-yoğun use_case'lerde floor + CPU upgrade + final rebalance MB seçimlerinde low-tier exclude (Office'te tolere). 14400F+H610 sustained throttle riski çözüldü, gaming/render senaryolarında B560/B760 seçiliyor.
+- [x] **Feedback — Cooler ↔ CPU Socket uyumsuzluğu (2026-05-03):** `_query_inventory` addFields'a `cpu_sockets` array eklendi. Cooler seçimi 3 noktada (floor, upgrade, rebalance) `cpu_sockets` filter'ıyla CPU socket eşleşmesi zorlu. Validator KONTROL 9 (defansif: normalize edilmiş soket karşılaştırma). Office_15k'da AMD Wraith AM4 + Celeron LGA1200 bug'ı çözüldü.
 - [x] **MediaMarkt entegrasyonu (2026-05-03):** `scrapers/mediamarkt_scraper.py` (cloudscraper ile, 8 kategori, 1118 ürün scrape). `entity_resolution.py` MediaMarkt yapılandırması (RETAILER_DIRS + RETAILER_NAME_MAP). LLM matching → 879 matched, apply'da junk/aksesuar/laptop pre-filter sonrası 875 ürün DB'ye yazıldı. ER eşleşmesi: 192 ürün (3-retailer), 419 ürün (2-retailer). Inventory toplam: 3,188 kayıt (Teknosa 1253 + Vatan 1060 + MediaMarkt 875). Multi-retailer karşılaştırma optimize_build'de otomatik çalışıyor.
 - [x] **Feedback — SODIMM / laptop bileşenleri temizlendi (2026-05-03):** "Tasarım 55K" senaryosunda Kingston KVR48S40BS8 (laptop SODIMM) masaüstüne seçilmişti. `database/laptop_filter.py` merkezi helper (Intel U/H/HX/HS, AMD U/HS/HX, Mobile GPU, mSATA, SODIMM part-number regex'leri — 30+ pattern). Audit + cleanup (7 inventory + 149 components flag'lendi). `seed_database.py` ve `entity_resolution.py:apply_matched`'te otomatik mekanizma — yeni eklemelerde laptop bileşenleri SKIP. Test: 17/17 case geçti, 6 doğrulama tüm senaryolarda UDIMM seçildi.
 - [x] **Feedback — Cooler kasa fanı (ER mismatch) çözüldü (2026-05-03):** `database/accessory_filter.py` merkezi helper (URL pattern + bağlam-aware). Kasa fanı pattern'i + URL `kasa-fan` desteği + `COOLER_CONTEXT_NEGATIVE` (cooler/sıvı/AIO/tower geçen ürünler false positive değil). 19 kayıt **HARD DELETE** (10 kasa standı + 7 yeni kasa fanı + 2 montaj kiti). `entity_resolution.py` 3 katmanlı filter: process_category pre-filter, apply_matched defensive, accessory_filter merkezi. Validator KONTROL 8 (cooler title + bağlam yoksa ⛔ error). Apply'da 4 ek kasa fanı atlandı.

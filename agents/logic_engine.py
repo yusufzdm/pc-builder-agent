@@ -18,6 +18,16 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 # `gpu_boost_params` dict'inin key'leriyle senkron tutulmalı.
 GPU_HEAVY_USE_CASES = {"gaming", "rendering", "architecture", "design"}
 
+# Düşük-tier chipsets — VRM zayıf, M.2 slotları Gen3 ile sınırlı, XMP/EXPO eksik.
+# GPU-yoğun use_case'lerde sustained workload'da throttle riski (örn 14400F + H610
+# → 30 dk render'da CPU thermal throttle). Office/general'de tolere edilir
+# (bütçeye sığması için), gaming/rendering/architecture/design'da exclude edilir.
+LOW_TIER_CHIPSETS = {
+    "Intel H610", "Intel H510", "Intel H410", "Intel H310", "Intel H110",
+    "Intel B360", "Intel H270", "Intel H170",
+    "AMD A520", "AMD A320", "AMD A300", "AMD A620",
+}
+
 
 class PCBuilderLogic:
     """
@@ -580,9 +590,19 @@ class PCBuilderLogic:
                     floors[cat] = self._query_inventory("cpu",
                         filters={"socket": selected_socket}, cheapest=True)
             elif cat == "motherboard":
+                # GPU-yoğun use_case'lerde low-tier chipset (H610/A520) seçilmesin —
+                # VRM throttle riski + Gen3 M.2 slot sınırı.
+                mb_raw_floor = None
+                if use_case.lower() in GPU_HEAVY_USE_CASES:
+                    mb_raw_floor = {"tech.chipset": {"$nin": list(LOW_TIER_CHIPSETS)}}
                 floors[cat] = self._query_inventory("motherboard",
                     filters={"socket": selected_socket, "memory.ram_type": target_ddr},
-                    cheapest=True)
+                    raw_match=mb_raw_floor, cheapest=True)
+                if not floors[cat] and mb_raw_floor:
+                    # Bu sokette mid-tier MB yoksa low-tier'a düş
+                    floors[cat] = self._query_inventory("motherboard",
+                        filters={"socket": selected_socket, "memory.ram_type": target_ddr},
+                        cheapest=True)
             elif cat == "memory":
                 floors[cat] = self._get_cheapest_ram_by_ddr(target_ddr)
             elif cat == "gpu":
@@ -751,10 +771,17 @@ class PCBuilderLogic:
                 if better and better.get("price", 0) > floor_part.get("price", 0):
                     build["cpu"] = better
                     unspent = max(0, ceiling - better.get("price", 0))
-                    # Anakartı da platform kısıtlarıyla güncelle
+                    # Anakartı da platform kısıtlarıyla güncelle (low-tier exclude)
                     mobo_ceiling = ceilings.get("motherboard", 0) + max(unspent, 0)
+                    mb_raw_upg = None
+                    if use_case.lower() in GPU_HEAVY_USE_CASES:
+                        mb_raw_upg = {"tech.chipset": {"$nin": list(LOW_TIER_CHIPSETS)}}
                     mobo_better = self._query_inventory("motherboard", int(mobo_ceiling),
-                        filters={"socket": selected_socket, "memory.ram_type": target_ddr})
+                        filters={"socket": selected_socket, "memory.ram_type": target_ddr},
+                        raw_match=mb_raw_upg)
+                    if not mobo_better and mb_raw_upg:
+                        mobo_better = self._query_inventory("motherboard", int(mobo_ceiling),
+                            filters={"socket": selected_socket, "memory.ram_type": target_ddr})
                     if mobo_better:
                         build["motherboard"] = mobo_better
                 else:
@@ -772,8 +799,22 @@ class PCBuilderLogic:
             exclude_lp = (cat == "gpu" and use_case.lower() in gpu_boost_params)
             # Cooler için CPU socket eşleşmesi şart (AM4 cooler LGA1700 CPU'ya takılmaz).
             cat_filters = {"cpu_sockets": selected_socket} if cat == "cooler" else None
+            # Storage için NVMe-first: GPU-yoğun use_case + MB'nin m2_slots'u doluysa
+            # önce M.2 NVMe ara; bulamazsan SATA'ya düş (550 MB/s vs 3000+ MB/s).
+            storage_raw = None
+            if cat == "storage" and use_case.lower() in GPU_HEAVY_USE_CASES:
+                m2_slots = build.get("motherboard", {}).get("m2_slots") or []
+                if m2_slots:
+                    storage_raw = {
+                        "tech.form_factor": {"$regex": r"^M\.2", "$options": "i"},
+                        "tech.interface": {"$regex": "PCIe", "$options": "i"},
+                    }
             better = self._query_inventory(cat, int(ceiling), filters=cat_filters,
+                                            raw_match=storage_raw,
                                             exclude_low_profile=exclude_lp)
+            if not better and storage_raw:
+                # M.2 NVMe bulunamadı → fallback: filtersiz (SATA dahil)
+                better = self._query_inventory(cat, int(ceiling), filters=cat_filters)
             if better and better.get("price", 0) > floor_part.get("price", 0):
                 build[cat] = better
                 unspent = max(0, ceiling - better.get("price", 0))
@@ -1012,8 +1053,23 @@ class PCBuilderLogic:
                     # Cooler upgrade'inde de socket eşleşmesi şart.
                     cat_filters = {"cpu_sockets": selected_socket}
                 exclude_lp = (cat == "gpu" and use_case.lower() in GPU_HEAVY_USE_CASES)
+                # MB rebalance upgrade'de de low-tier chipset exclude (GPU yoğun use_case)
+                rb_raw = None
+                if cat == "motherboard" and use_case.lower() in GPU_HEAVY_USE_CASES:
+                    rb_raw = {"tech.chipset": {"$nin": list(LOW_TIER_CHIPSETS)}}
+                # Storage rebalance upgrade'de NVMe-first
+                if cat == "storage" and use_case.lower() in GPU_HEAVY_USE_CASES:
+                    if build.get("motherboard", {}).get("m2_slots"):
+                        rb_raw = {
+                            "tech.form_factor": {"$regex": r"^M\.2", "$options": "i"},
+                            "tech.interface": {"$regex": "PCIe", "$options": "i"},
+                        }
                 better = self._query_inventory(cat, int(new_ceiling),
-                    filters=cat_filters, exclude_low_profile=exclude_lp)
+                    filters=cat_filters, raw_match=rb_raw,
+                    exclude_low_profile=exclude_lp)
+                if not better and cat == "storage" and rb_raw:
+                    # NVMe yoksa SATA fallback
+                    better = self._query_inventory(cat, int(new_ceiling), filters=cat_filters)
                 if better and better.get("price", 0) > current.get("price", 0):
                     delta = better["price"] - current["price"]
                     if delta <= remaining:
